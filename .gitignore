@@ -8,6 +8,13 @@ src/florincoin-tx
 src/test/test_florincoin
 src/qt/test/test_florincoin-qt
 
+src/flod
+src/flo-cli
+src/flo-tx
+src/test/test_flo
+src/qt/test/test_flo-qt
+src/qt/flo-qt
+
 # autoreconf
 Makefile.in
 aclocal.m4

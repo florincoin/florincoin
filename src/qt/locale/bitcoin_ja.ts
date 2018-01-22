@@ -3099,7 +3099,7 @@ Address: %4
         <translation>この製品はOpenSSLプロジェクトにより開発されたソフトウェアをOpenSSLツールキットとして利用しています &lt;https://www.openssl.org/&gt;。また、Eric Young氏により開発された暗号ソフトウェア、Thomas Bernard氏により書かれたUPnPソフトウェアを用いています。</translation>
     </message>
     <message>
-        <source>To use florincoind, or the -server option to florincoin-qt, you must set an rpcpassword in the configuration file:
+        <source>To use flod, or the -server option to flo-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
 rpcuser=florpc
@@ -3110,7 +3110,7 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s "FLO Alert" admin@foo.com
 </source>
-        <translation>florincoindを用いる場合や、-server オプションをflorincoin-qtに指定する場合には、設定ファイルにrpcpasswordを設定しなければなりません:
+        <translation>flodを用いる場合や、-server オプションをflo-qtに指定する場合には、設定ファイルにrpcpasswordを設定しなければなりません:
 %s
 以下のランダムなパスワードを用いることが推奨されます:
 rpcuser=florpc

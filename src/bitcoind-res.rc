@@ -17,13 +17,13 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "FLO"
-            VALUE "FileDescription",    "Florincoind (OSS daemon/client for FLO)"
+            VALUE "FileDescription",    "FLOd (OSS daemon/client for FLO)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "florincoind"
+            VALUE "InternalName",       "flod"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "florincoind.exe"
-            VALUE "ProductName",        "Florincoind"
+            VALUE "OriginalFilename",   "flod.exe"
+            VALUE "ProductName",        "FLOd"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

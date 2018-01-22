@@ -3975,7 +3975,7 @@ Address: %4
     </message>
     <message>
         <location line="+4"/>
-        <source>To use florincoind, or the -server option to florincoin-qt, you must set an rpcpassword in the configuration file:
+        <source>To use flod, or the -server option to flo-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
 rpcuser=florpc

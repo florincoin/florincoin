@@ -572,7 +572,7 @@ void StartRPCThreads()
         unsigned char rand_pwd[32];
         GetRandBytes(rand_pwd, 32);
         uiInterface.ThreadSafeMessageBox(strprintf(
-            _("To use florincoind, or the -server option to florincoin-qt, you must set an rpcpassword in the configuration file:\n"
+            _("To use flod, or the -server option to flo-qt, you must set an rpcpassword in the configuration file:\n"
               "%s\n"
               "It is recommended you use the following random password:\n"
               "rpcuser=florpc\n"
@@ -1022,7 +1022,7 @@ json_spirit::Value CRPCTable::execute(const std::string &strMethod, const json_s
 }
 
 std::string HelpExampleCli(string methodname, string args){
-    return "> florincoin-cli " + methodname + " " + args + "\n";
+    return "> flo-cli " + methodname + " " + args + "\n";
 }
 
 std::string HelpExampleRpc(string methodname, string args){

@@ -78,7 +78,7 @@ bool AppInit(int argc, char* argv[])
         else
         {
             strUsage += "\n" + _("Usage:") + "\n" +
-                  "  florincoind [options]                     " + _("Start FLO Core Daemon") + "\n";
+                  "  flod [options]                     " + _("Start FLO Core Daemon") + "\n";
 
             strUsage += "\n" + HelpMessage(HMM_BITCOIND);
         }
@@ -115,7 +115,7 @@ bool AppInit(int argc, char* argv[])
 
         if (fCommandLine)
         {
-            fprintf(stderr, "Error: There is no RPC client functionality in florincoind anymore. Use the florincoin-cli utility instead.\n");
+            fprintf(stderr, "Error: There is no RPC client functionality in flod anymore. Use the flo-cli utility instead.\n");
             exit(1);
         }
 #ifndef WIN32

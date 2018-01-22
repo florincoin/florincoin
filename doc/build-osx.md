@@ -1,6 +1,6 @@
 Mac OS X Build Instructions and Notes
 ====================================
-This guide will show you how to build florincoind(headless client) for OS X.
+This guide will show you how to build flod(headless client) for OS X.
 
 Notes
 -----
@@ -63,14 +63,14 @@ After exiting, you'll get a warning that the install is keg-only, which means it
     $ brew link --force berkeley-db4
 
 
-### Building `florincoind`
+### Building `flod`
 
 1. Clone the GitHub tree to get the source code and go into the directory.
 
         git clone https://github.com/florincoin/florincoin.git
         cd florincoin
 
-2.  Build florincoind:
+2.  Build flod:
 
         ./autogen.sh
         ./configure
@@ -80,7 +80,7 @@ After exiting, you'll get a warning that the install is keg-only, which means it
 
         make check
 
-4.  (Optional) You can also install florincoind to your path:
+4.  (Optional) You can also install flod to your path:
 
         make install
 
@@ -92,7 +92,7 @@ Download Qt Creator from http://www.qt.io/download/. Download the "community edi
 1. Make sure you installed everything through Homebrew mentioned above
 2. Do a proper ./configure --with-gui=qt5 --enable-debug
 3. In Qt Creator do "New Project" -> Import Project -> Import Existing Project
-4. Enter "florincoin-qt" as project name, enter src/qt as location
+4. Enter "flo-qt" as project name, enter src/qt as location
 5. Leave the file selection as it is
 6. Confirm the "summary page"
 7. In the "Projects" tab select "Manage Kits..."
@@ -102,11 +102,11 @@ Download Qt Creator from http://www.qt.io/download/. Download the "community edi
 
 Creating a release build
 ------------------------
-You can ignore this section if you are building `florincoind` for your own use.
+You can ignore this section if you are building `flod` for your own use.
 
-florincoind/florincoin-cli binaries are not included in the Florincoin-Qt.app bundle.
+flod/flo-cli binaries are not included in the Flo-Qt.app bundle.
 
-If you are building `florincoind` or `Florincoin-Qt` for others, your build machine should be set up
+If you are building `flod` or `Flo-Qt` for others, your build machine should be set up
 as follows for maximum compatibility:
 
 All dependencies should be compiled with these flags:
@@ -115,16 +115,16 @@ All dependencies should be compiled with these flags:
  -arch x86_64
  -isysroot $(xcode-select --print-path)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
 
-Once dependencies are compiled, see release-process.md for how the Florincoin-Qt.app
+Once dependencies are compiled, see release-process.md for how the Flo-Qt.app
 bundle is packaged and signed to create the .dmg disk image that is distributed.
 
 Running
 -------
 
-It's now available at `./florincoind`, provided that you are still in the `src`
+It's now available at `./flod`, provided that you are still in the `src`
 directory. We have to first create the RPC configuration file, though.
 
-Run `./florincoind` to get the filename where it should be put, or just try these
+Run `./flod` to get the filename where it should be put, or just try these
 commands:
 
     echo -e "rpcuser=florincoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Florincoin/florincoin.conf"
@@ -139,6 +139,6 @@ you can monitor its process by looking at the debug.log file, like this:
 Other commands:
 -------
 
-    ./florincoind -daemon # to start the florincoin daemon.
-    ./florincoin-cli --help  # for a list of command-line options.
-    ./florincoin-cli help    # When the daemon is running, to get a list of RPC commands
+    ./flod -daemon # to start the florincoin daemon.
+    ./flo-cli --help  # for a list of command-line options.
+    ./flo-cli help    # When the daemon is running, to get a list of RPC commands

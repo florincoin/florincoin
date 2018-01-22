@@ -17,13 +17,13 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "FLO"
-            VALUE "FileDescription",    "Florincoin-cli (OSS RPC client for FLO)"
+            VALUE "FileDescription",    "FLO-cli (OSS RPC client for FLO)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "florincoin-cli"
+            VALUE "InternalName",       "flo-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "florincoin-cli.exe"
-            VALUE "ProductName",        "Florincoin-cli"
+            VALUE "OriginalFilename",   "flo-cli.exe"
+            VALUE "ProductName",        "FLO-cli"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
