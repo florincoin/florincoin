@@ -46,12 +46,12 @@
         <translation>Duke marr adresen</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Këto janë Florincoin adresat e juaja për të dërguar pagesa. Gjithmon kontrolloni shumën dhe adresën pranuese para se të dërgoni monedha.</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Këto janë FLO adresat e juaja për të dërguar pagesa. Gjithmon kontrolloni shumën dhe adresën pranuese para se të dërgoni monedha.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Këto janë Florincoin adresat e juaja për të pranuar pagesa. Rekomandohet që gjithmon të përdorni një adresë të re për çdo transaksion.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Këto janë FLO adresat e juaja për të pranuar pagesa. Rekomandohet që gjithmon të përdorni një adresë të re për çdo transaksion.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -207,8 +207,8 @@
         <translation>Ndrysho frazkalimin e përdorur per enkriptimin e portofolit</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -243,11 +243,11 @@
         <translation>Shiriti i mjeteve</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Berthama Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Berthama FLO</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
+        <source>&amp;About FLO Core</source>
         <translation>Rreth Berthames Bitkoin</translation>
     </message>
     <message numerus="yes">
@@ -398,15 +398,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Berthama Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Berthama FLO</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versioni</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
+        <source>About FLO Core</source>
         <translation>Rreth Berthames Bitkoin</translation>
     </message>
     </context>
@@ -417,12 +417,12 @@
         <translation>Miresevini</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>Miresevini ne Berthamen Florincoin</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>Miresevini ne Berthamen FLO</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Berthama Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Berthama FLO</translation>
     </message>
     <message>
         <source>Error</source>
@@ -609,8 +609,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Berthama Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Berthama FLO</translation>
     </message>
     <message>
         <source>[testnet]</source>

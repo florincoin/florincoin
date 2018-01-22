@@ -66,12 +66,12 @@
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questo è un elenco di indirizzi Florincoin a cui puoi inviare pagamenti. Controlla sempre l'importo e l'indirizzo del beneficiario prima di inviare florincoin.</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questo è un elenco di indirizzi FLO a cui puoi inviare pagamenti. Controlla sempre l'importo e l'indirizzo del beneficiario prima di inviare florincoin.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono i tuoi indirizzi Florincoin che puoi usare per ricevere pagamenti. Si raccomanda di generare un nuovo indirizzo per ogni transazione.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono i tuoi indirizzi FLO che puoi usare per ricevere pagamenti. Si raccomanda di generare un nuovo indirizzo per ogni transazione.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Conferma la cifratura del portamonete</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Attenzione: perdendo la passphrase di un portamonete cifrato &lt;b&gt;TUTTI I PROPRI FLORINCOIN ANDRANNO PERSI&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Attenzione: perdendo la passphrase di un portamonete cifrato &lt;b&gt;TUTTI I PROPRI FLO ANDRANNO PERSI&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Inserisci la nuova passphrase per il portamonete.&lt;br/&gt;Si consiglia di utilizzare &lt;b&gt;almeno dieci caratteri casuali&lt;/b&gt; oppure &lt;b&gt;otto o più parole&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin si chiuderà per portare a termine il processo di cifratura. Ricorda che cifrare il tuo portamonete non può fornire una protezione totale contro i furti causati da infezioni malware.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO si chiuderà per portare a termine il processo di cifratura. Ricorda che cifrare il tuo portamonete non può fornire una protezione totale contro i furti causati da infezioni malware.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Apri &amp;URI...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Florincoin Core client</translation>
+        <source>FLO Core client</source>
+        <translation>FLO Core client</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Re-indicizzazione blocchi su disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Invia fondi ad un indirizzo Florincoin</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Invia fondi ad un indirizzo FLO</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>Modifica opzioni di configurazione per Florincoin</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>Modifica opzioni di configurazione per FLO</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>&amp;Verifica messaggio...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>&amp;Ricevi</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>Mostra le informazioni su Florincoin Core</translation>
+        <source>Show information about FLO Core</source>
+        <translation>Mostra le informazioni su FLO Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>Cifra le chiavi private che appartengono al tuo portamonete</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
-        <translation>Firma messaggi con i tuoi indirizzi Florincoin per dimostrarne il possesso</translation>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
+        <translation>Firma messaggi con i tuoi indirizzi FLO per dimostrarne il possesso</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
-        <translation>Verifica che i messaggi siano stati firmati con gli indirizzi Florincoin specificati</translation>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
+        <translation>Verifica che i messaggi siano stati firmati con gli indirizzi FLO specificati</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Barra degli strumenti</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and florincoin: URIs)</source>
         <translation>Richiedi pagamenti (genera codici QR e florincoin: URI)</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>&amp;Informazioni su Florincoin Core</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>&amp;Informazioni su FLO Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -419,12 +419,12 @@
         <translation>Opzioni della riga di &amp;comando</translation>
     </message>
     <message>
-        <source>Show the Florincoin Core help message to get a list with possible Florincoin command-line options</source>
-        <translation>Mostra il messaggio di aiuto di Florincoin Core per ottenere la lista delle opzioni della riga di comando valide.</translation>
+        <source>Show the FLO Core help message to get a list with possible FLO command-line options</source>
+        <translation>Mostra il messaggio di aiuto di FLO Core per ottenere la lista delle opzioni della riga di comando valide.</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n connessione attiva alla rete Florincoin</numerusform><numerusform>%n connessioni alla rete Florincoin attive</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n connessione attiva alla rete FLO</numerusform><numerusform>%n connessioni alla rete FLO attive</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -789,8 +789,8 @@ Indirizzo: %4
         <translation>L'indirizzo "%1" è già presente in rubrica.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>L'indirizzo "%1" non è un indirizzo florincoin valido.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>L'indirizzo "%1" non è un indirizzo FLO valido.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -827,8 +827,8 @@ Indirizzo: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -839,8 +839,8 @@ Indirizzo: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>Informazioni su Florincoin Core</translation>
+        <source>About FLO Core</source>
+        <translation>Informazioni su FLO Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -886,16 +886,16 @@ Indirizzo: %4
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>Benvenuti su Florincoin Core.</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>Benvenuti su FLO Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Florincoin Core will store its data.</source>
-        <translation>Visto che questa è la prima volta che il programma viene lanciato, puoi scegliere dove Florincoin Core salverà i propri dati.</translation>
+        <source>As this is the first time the program is launched, you can choose where FLO Core will store its data.</source>
+        <translation>Visto che questa è la prima volta che il programma viene lanciato, puoi scegliere dove FLO Core salverà i propri dati.</translation>
     </message>
     <message>
-        <source>Florincoin Core will download and store a copy of the Florincoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Florincoin Core scaricherà e salverà una copia della block chain di Florincoin. Il portamonete ed almeno %1GB di dati saranno salvati in questa cartella. Si ricorda che lo spazio occupato andrà ad aumentare nel tempo.</translation>
+        <source>FLO Core will download and store a copy of the FLO block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>FLO Core scaricherà e salverà una copia della block chain di FLO. Il portamonete ed almeno %1GB di dati saranno salvati in questa cartella. Si ricorda che lo spazio occupato andrà ad aumentare nel tempo.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -906,8 +906,8 @@ Indirizzo: %4
         <translation>Usa una cartella dati personalizzata:</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -952,12 +952,12 @@ Indirizzo: %4
         <translation>&amp;Principale</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
-        <translation>Avvia automaticamente Florincoin una volta effettuato l'accesso al sistema.</translation>
+        <source>Automatically start FLO after logging in to the system.</source>
+        <translation>Avvia automaticamente FLO una volta effettuato l'accesso al sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
-        <translation>&amp;Avvia Florincoin all'accesso al sistema</translation>
+        <source>&amp;Start FLO on system login</source>
+        <translation>&amp;Avvia FLO all'accesso al sistema</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1033,16 +1033,16 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>&amp;Spendi resti non confermati</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Apri automaticamente la porta del client Florincoin sul router. Il protocollo UPnP deve essere supportato da parte del router ed attivo.</translation>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Apri automaticamente la porta del client FLO sul router. Il protocollo UPnP deve essere supportato da parte del router ed attivo.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Mappa le porte tramite &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Florincoin network through a SOCKS5 proxy.</source>
-        <translation>Connessione alla rete Florincoin attraverso un proxy SOCKS5.</translation>
+        <source>Connect to the FLO network through a SOCKS5 proxy.</source>
+        <translation>Connessione alla rete FLO attraverso un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1089,8 +1089,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>&amp;Lingua Interfaccia Utente:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>La lingua dell'interfaccia utente può essere impostata qui. L'impostazione avrà effetto dopo il riavvio di Florincoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>La lingua dell'interfaccia utente può essere impostata qui. L'impostazione avrà effetto dopo il riavvio di FLO.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1148,8 +1148,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Modulo</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Le informazioni visualizzate potrebbero non essere aggiornate. Il portamonete si sincronizza automaticamente con la rete Florincoin una volta stabilita una connessione, ma questo processo non è ancora stato completato.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>Le informazioni visualizzate potrebbero non essere aggiornate. Il portamonete si sincronizza automaticamente con la rete FLO una volta stabilita una connessione, ma questo processo non è ancora stato completato.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1263,8 +1263,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>URL di recupero della Richiesta di pagamento non valido: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Florincoin address or malformed URI parameters.</source>
-        <translation>Impossibile interpretare l'URI! I parametri URI o l'indirizzo Florincoin potrebbero non essere corretti.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid FLO address or malformed URI parameters.</source>
+        <translation>Impossibile interpretare l'URI! I parametri URI o l'indirizzo FLO potrebbero non essere corretti.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1333,8 +1333,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Importo</translation>
     </message>
     <message>
-        <source>Enter a Florincoin address (e.g. %1)</source>
-        <translation>Inserisci un indirizzo Florincoin (ad es. %1)</translation>
+        <source>Enter a FLO address (e.g. %1)</source>
+        <translation>Inserisci un indirizzo FLO (ad es. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1559,16 +1559,16 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>File log del Debug</translation>
     </message>
     <message>
-        <source>Open the Florincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Apri il file log del debug di Florincoin dalla cartella dati attuale. Può richiedere alcuni secondi per file di log di grandi dimensioni.</translation>
+        <source>Open the FLO debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Apri il file log del debug di FLO dalla cartella dati attuale. Può richiedere alcuni secondi per file di log di grandi dimensioni.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Cancella console</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Benvenuto nella console RPC di Florincoin.</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>Benvenuto nella console RPC di FLO.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1642,8 +1642,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>R&amp;iusa un indirizzo di ricezione (non raccomandato)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Florincoin network.</source>
-        <translation>Un messaggio opzionale da allegare e mostrare all'apertura della richiesta di pagamento. Nota: Il messaggio non sarà inviato con il pagamento sulla rete Florincoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the FLO network.</source>
+        <translation>Un messaggio opzionale da allegare e mostrare all'apertura della richiesta di pagamento. Nota: Il messaggio non sarà inviato con il pagamento sulla rete FLO.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1792,7 +1792,7 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Invia Florincoin</translation>
+        <translation>Invia FLO</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1879,7 +1879,7 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>somma almeno</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for florincoin transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for FLO transactions than the network can process.</source>
         <translation>Non vi è alcuna controindicazione a pagare la commissione minima, a patto che il volume delle transazioni sia inferiore allo spazio disponibile nei blocchi. Occorre comunque essere consapevoli che ciò potrebbe impedire la conferma delle transazioni nel caso in cui la rete risultasse satura.</translation>
     </message>
     <message>
@@ -2008,7 +2008,7 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
     </message>
     <message>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>Rilevato un indirizzo duplicato. È possibile inviare florincoin una sola volta a ciascun indirizzo durante un'operazione di invio.</translation>
+        <translation>Rilevato un indirizzo duplicato. È possibile inviare FLO una sola volta a ciascun indirizzo durante un'operazione di invio.</translation>
     </message>
     <message>
         <source>Transaction creation failed!</source>
@@ -2016,7 +2016,7 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
     </message>
     <message>
         <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>La transazione è stata respinta! Questo può accadere se alcuni florincoin nel tuo portamonete sono già stati spesi, come nel caso in cui tu avessi utilizzato una copia del file wallet.dat per spendere florincoin e questi non fossero stati considerati come spesi dal portamonete corrente.</translation>
+        <translation>La transazione è stata respinta! Questo può accadere se alcuni FLO nel tuo portamonete sono già stati spesi, come nel caso in cui tu avessi utilizzato una copia del file wallet.dat per spendere FLO e questi non fossero stati considerati come spesi dal portamonete corrente.</translation>
     </message>
     <message>
         <source>A fee higher than %1 is considered an insanely high fee.</source>
@@ -2031,8 +2031,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Inizio delle conferme stimato entro %1 blocchi.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Florincoin address</source>
-        <translation>Attenzione: Indirizzo Florincoin non valido</translation>
+        <source>Warning: Invalid FLO address</source>
+        <translation>Attenzione: Indirizzo FLO non valido</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2082,8 +2082,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Questo è un normale pagamento.</translation>
     </message>
     <message>
-        <source>The Florincoin address to send the payment to</source>
-        <translation>L'indirizzo Florincoin a cui vuoi inviare il pagamento</translation>
+        <source>The FLO address to send the payment to</source>
+        <translation>L'indirizzo FLO a cui vuoi inviare il pagamento</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2114,8 +2114,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Inserisci un'etichetta per questo indirizzo per aggiungerlo alla lista degli indirizzi utilizzati</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Florincoin network.</source>
-        <translation>Messaggio incluso nel florincoin URI e che sarà memorizzato con la transazione per vostro riferimento. Nota: Questo messaggio non sarà inviato attraverso la rete Florincoin.</translation>
+        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <translation>Messaggio incluso nel FLO URI e che sarà memorizzato con la transazione per vostro riferimento. Nota: Questo messaggio non sarà inviato attraverso la rete FLO.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2133,8 +2133,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Florincoin Core is shutting down...</source>
-        <translation>Arresto di Florincoin Core in corso...</translation>
+        <source>FLO Core is shutting down...</source>
+        <translation>Arresto di FLO Core in corso...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2156,8 +2156,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Puoi firmare messaggi con i tuoi indirizzi in modo da dimostrarne il possesso. Presta attenzione a non firmare dichiarazioni vaghe, attacchi di phishing potrebbero cercare di spingerti ad apporre la tua firma su di esse. Firma solo dichiarazioni completamente dettagliate e delle quali condividi in pieno il contenuto.</translation>
     </message>
     <message>
-        <source>The Florincoin address to sign the message with</source>
-        <translation>L'indirizzo Florincoin da utilizzare per firmare il messaggio</translation>
+        <source>The FLO address to sign the message with</source>
+        <translation>L'indirizzo FLO da utilizzare per firmare il messaggio</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2188,8 +2188,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Copia la firma corrente nella clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
-        <translation>Firma un messaggio per dimostrare di possedere questo indirizzo Florincoin</translation>
+        <source>Sign the message to prove you own this FLO address</source>
+        <translation>Firma un messaggio per dimostrare di possedere questo indirizzo FLO</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2212,11 +2212,11 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Inserisci l'indirizzo del firmatario, il messaggio (assicurandoti di copiare esattamente anche i ritorni a capo, gli spazi, le tabulazioni, etc..) e la firma qui sotto, per verificare il messaggio. Presta attenzione a non vedere nella sola firma più di quanto non sia riportato nel messaggio stesso, in modo da evitare di cadere vittima di attacchi di tipo man-in-the-middle.</translation>
     </message>
     <message>
-        <source>The Florincoin address the message was signed with</source>
-        <translation>L'indirizzo Florincoin con cui è stato contrassegnato il messaggio</translation>
+        <source>The FLO address the message was signed with</source>
+        <translation>L'indirizzo FLO con cui è stato contrassegnato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Florincoin address</source>
+        <source>Verify the message to ensure it was signed with the specified FLO address</source>
         <translation>Verifica il messaggio per accertare che sia stato firmato con l'indirizzo specificato</translation>
     </message>
     <message>
@@ -2241,7 +2241,7 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>L'indirizzo florincoin inserito non è associato a nessuna chiave.</translation>
+        <translation>L'indirizzo FLO inserito non è associato a nessuna chiave.</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
@@ -2283,8 +2283,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2414,7 +2414,7 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>È necessario attendere %1 blocchi prima che i florincoin generati possano essere spesi. Al momento della generazione questo blocco è stato trasmesso alla rete in modo da poter essere aggiunto alla block chain. Se l'inserimento avrà esito negativo lo stato del blocco sarà modificato in "non accettato" ed esso risulterà non spendibile. Ciò può verificarsi occasionalmente nel caso in cui un altro blocco sia stato generato entro pochi secondi dal tuo.</translation>
+        <translation>È necessario attendere %1 blocchi prima che i FLO generati possano essere spesi. Al momento della generazione questo blocco è stato trasmesso alla rete in modo da poter essere aggiunto alla block chain. Se l'inserimento avrà esito negativo lo stato del blocco sarà modificato in "non accettato" ed esso risulterà non spendibile. Ciò può verificarsi occasionalmente nel caso in cui un altro blocco sia stato generato entro pochi secondi dal tuo.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -2732,7 +2732,7 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Invia Florincoin</translation>
+        <translation>Invia FLO</translation>
     </message>
 </context>
 <context>
@@ -2837,8 +2837,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Questa versione è una compilazione pre-rilascio - usala a tuo rischio - non utilizzarla per la generazione o per applicazioni di commercio</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Florincoin Core is probably already running.</source>
-        <translation>Impossibile associarsi a %s su questo computer. Probabilmente Florincoin Core è già in esecuzione.</translation>
+        <source>Unable to bind to %s on this computer. FLO Core is probably already running.</source>
+        <translation>Impossibile associarsi a %s su questo computer. Probabilmente FLO Core è già in esecuzione.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -3017,8 +3017,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Resta in attesa di connessioni JSON-RPC sull'indirizzo indicato. Usa la notazione [host]:porta per IPv6. Questa opzione può essere specificata più volte (predefinito: associa a tutte le interfacce) </translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Florincoin Core is probably already running.</source>
-        <translation>Non è possibile ottenere un lock sulla cartella %s. Probabilmente Florincoin Core è già in esecuzione.</translation>
+        <source>Cannot obtain a lock on data directory %s. FLO Core is probably already running.</source>
+        <translation>Non è possibile ottenere un lock sulla cartella %s. Probabilmente FLO Core è già in esecuzione.</translation>
     </message>
     <message>
         <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
@@ -3088,23 +3088,23 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <source>To use florincoind, or the -server option to florincoin-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=florincoinrpc
+rpcuser=florpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Florincoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "FLO Alert" admin@foo.com
 </source>
-        <translation>Per utilizzare florincoind o l'opzione -server in Florincoin Core è necessario specificare una rpcpassword nel file di configurazione:
+        <translation>Per utilizzare florincoind o l'opzione -server in FLO Core è necessario specificare una rpcpassword nel file di configurazione:
 %s
 Si raccomanda di utilizzare la seguente password casuale:
-rpcuser=florincoinrpc
+rpcuser=florpc
 rpcpassword=%s
 (non è necessario ricordare questa password)
 Il nome utente e la password NON DEVONO corrispondere.
 Se il file non esiste si raccomanda di crearlo con permessi di lettura per il solo proprietario.
-Si raccomanda inoltre di configurare alertnotify in modo da ricevere notifiche di eventuali problemi, ad es. alertnotify=echo %%s | mail -s "Florincoin Alert" admin@foo.com
+Si raccomanda inoltre di configurare alertnotify in modo da ricevere notifiche di eventuali problemi, ad es. alertnotify=echo %%s | mail -s "FLO Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -3112,8 +3112,8 @@ Si raccomanda inoltre di configurare alertnotify in modo da ricevere notifiche d
         <translation>Attenzione: -maxtxfee è impostato su un valore molto elevato. Tali commissioni potrebbero essere pagate anche in una singola transazione.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Florincoin Core will not work properly.</source>
-        <translation>Attenzione: Si prega di verificare che data ed ora del computer siano corrette! Una configurazione errata dell'orologio di sistema potrebbe impedire a Florincoin Core di funzionare regolarmente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong FLO Core will not work properly.</source>
+        <translation>Attenzione: Si prega di verificare che data ed ora del computer siano corrette! Una configurazione errata dell'orologio di sistema potrebbe impedire a FLO Core di funzionare regolarmente.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -3140,8 +3140,8 @@ Si raccomanda inoltre di configurare alertnotify in modo da ricevere notifiche d
         <translation>Non è stato possibile riconoscere il valore %s di -rpcbind come indirizzo di rete</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Florincoin Core</source>
-        <translation>Errore durante il caricamento del file wallet.dat: il portamonete richiede una versione di Florincoin Core più recente</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of FLO Core</source>
+        <translation>Errore durante il caricamento del file wallet.dat: il portamonete richiede una versione di FLO Core più recente</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3164,8 +3164,8 @@ Si raccomanda inoltre di configurare alertnotify in modo da ricevere notifiche d
         <translation>Informazioni</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Florincoin Core is shutting down.</source>
-        <translation>Test di integrità iniziale fallito. Florincoin Core si arresterà.</translation>
+        <source>Initialization sanity check failed. FLO Core is shutting down.</source>
+        <translation>Test di integrità iniziale fallito. FLO Core si arresterà.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3200,8 +3200,8 @@ Si raccomanda inoltre di configurare alertnotify in modo da ricevere notifiche d
         <translation>Opzioni trasmissione nodo:</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Florincoin Wiki for SSL setup instructions)</source>
-        <translation>Opzioni RPC SSL: (consulta la Florincoin Wiki per le istruzioni relative alla configurazione SSL)</translation>
+        <source>RPC SSL options: (see the FLO Wiki for SSL setup instructions)</source>
+        <translation>Opzioni RPC SSL: (consulta la FLO Wiki per le istruzioni relative alla configurazione SSL)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3272,8 +3272,8 @@ Si raccomanda inoltre di configurare alertnotify in modo da ricevere notifiche d
         <translation>Nome utente per connessioni JSON-RPC</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Florincoin Core to complete</source>
-        <translation>Il portamonete necessitava di essere riscritto: riavviare Florincoin Core per completare l'operazione</translation>
+        <source>Wallet needed to be rewritten: restart FLO Core to complete</source>
+        <translation>Il portamonete necessitava di essere riscritto: riavviare FLO Core per completare l'operazione</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -3397,7 +3397,7 @@ Si raccomanda inoltre di configurare alertnotify in modo da ricevere notifiche d
     </message>
     <message>
         <source>Generate coins (default: %u)</source>
-        <translation>Genera florincoin (predefinito: %u)</translation>
+        <translation>Genera FLO (predefinito: %u)</translation>
     </message>
     <message>
         <source>How many blocks to check at startup (default: %u, 0 = all)</source>

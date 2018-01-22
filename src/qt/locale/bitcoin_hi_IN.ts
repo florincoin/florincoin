@@ -164,8 +164,8 @@
         <translation>पहचान शब्द/अक्षर जो वॉलेट एनक्रिपशन के लिए इस्तेमाल किया है उसे बदलिए!</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -188,8 +188,8 @@
         <translation>टैबस टूलबार</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n सक्रिया संपर्क Florincoin नेटवर्क से</numerusform><numerusform>%n सक्रिया संपर्क Florincoin नेटवर्क से</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n सक्रिया संपर्क FLO नेटवर्क से</numerusform><numerusform>%n सक्रिया संपर्क FLO नेटवर्क से</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>

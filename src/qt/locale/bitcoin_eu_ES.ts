@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Erakutsi Florincoin-i buruzko informazioa</translation>
+        <translation>Erakutsi FLO-i buruzko informazioa</translation>
     </message>
     <message>
         <source>&amp;Options...</source>

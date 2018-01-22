@@ -66,12 +66,12 @@
         <translation>Adresa de primire</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Acestea sînt adresele dumneavoastră Florincoin pentru efectuarea plăţilor. Verificaţi întotdeauna cantitatea şi adresa de primire înainte de a trimite monezi.</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Acestea sînt adresele dumneavoastră FLO pentru efectuarea plăţilor. Verificaţi întotdeauna cantitatea şi adresa de primire înainte de a trimite monezi.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Acestea sînt adresele dumneavoastră Florincoin folosite pentru a primi plati. Este recomandat să folosiţi o adresă nouă de primire pentru fiecare tranzacţie în parte.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Acestea sînt adresele dumneavoastră FLO folosite pentru a primi plati. Este recomandat să folosiţi o adresă nouă de primire pentru fiecare tranzacţie în parte.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Confirmaţi criptarea portofelului</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Atenţie: Dacă pierdeţi parola portofelului electronic după criptare, &lt;b&gt;VEŢI PIERDE ÎNTREAGA SUMĂ DE FLORINCOIN ACUMULATĂ&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Atenţie: Dacă pierdeţi parola portofelului electronic după criptare, &lt;b&gt;VEŢI PIERDE ÎNTREAGA SUMĂ DE FLO ACUMULATĂ&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Introduceţi noua parolă a portofelului electronic.&lt;br/&gt;Vă rugăm să folosiţi o parolă de&lt;b&gt;minimum 10 caractere aleatoare&lt;/b&gt;, sau &lt;b&gt;minimum 8 cuvinte&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin se va închide acum pentru a termina procesul de criptare. Ţineţi minte că criptarea portofelului nu vă poate proteja în totalitate de furtul monedelor de către programe dăunătoare care vă infectează calculatorul.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO se va închide acum pentru a termina procesul de criptare. Ţineţi minte că criptarea portofelului nu vă poate proteja în totalitate de furtul monedelor de către programe dăunătoare care vă infectează calculatorul.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Deschide &amp;URI...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Clientul Florincoin Core</translation>
+        <source>FLO Core client</source>
+        <translation>Clientul FLO Core</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Se reindexează blocurile pe disc...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Trimite monede către o adresă Florincoin</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Trimite monede către o adresă FLO</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>Modifică opţiunile de configurare pentru Florincoin</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>Modifică opţiunile de configurare pentru FLO</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>&amp;Verifică mesaj...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>P&amp;rimeşte</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>Arată informaţii despre Florincoin Core</translation>
+        <source>Show information about FLO Core</source>
+        <translation>Arată informaţii despre FLO Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>Criptează cheile private ale portofelului dvs.</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
-        <translation>Semnaţi mesaje cu adresa dvs. Florincoin pentru a dovedi că vă aparţin</translation>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
+        <translation>Semnaţi mesaje cu adresa dvs. FLO pentru a dovedi că vă aparţin</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
-        <translation>Verificaţi mesaje pentru a vă asigura că au fost semnate cu adresa Florincoin specificată</translation>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
+        <translation>Verificaţi mesaje pentru a vă asigura că au fost semnate cu adresa FLO specificată</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Bara de unelte</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Nucleul Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Nucleul FLO</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and florincoin: URIs)</source>
         <translation>Cereţi plăţi (generează coduri QR şi florincoin-uri: URls)</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>&amp;Despre Nucleul Florincoin</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>&amp;Despre Nucleul FLO</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -419,12 +419,12 @@
         <translation>Opţiuni linie de &amp;comandă</translation>
     </message>
     <message>
-        <source>Show the Florincoin Core help message to get a list with possible Florincoin command-line options</source>
-        <translation>Arată mesajul de ajutor Florincoin Core pentru a obţine o listă cu opţiunile posibile de linii de comandă Florincoin</translation>
+        <source>Show the FLO Core help message to get a list with possible FLO command-line options</source>
+        <translation>Arată mesajul de ajutor FLO Core pentru a obţine o listă cu opţiunile posibile de linii de comandă FLO</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n conexiune activă către reţeaua Florincoin</numerusform><numerusform>%n conexiuni active către reţeaua Florincoin</numerusform><numerusform>%n de conexiuni active către reţeaua Florincoin</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n conexiune activă către reţeaua FLO</numerusform><numerusform>%n conexiuni active către reţeaua FLO</numerusform><numerusform>%n de conexiuni active către reţeaua FLO</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -776,8 +776,8 @@ Adresa: %4
         <translation>Adresa introdusă "%1" se află deja în lista de adrese.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>Adresa introdusă "%1" nu este o adresă florincoin validă.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>Adresa introdusă "%1" nu este o adresă FLO validă.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -814,8 +814,8 @@ Adresa: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Nucleul Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Nucleul FLO</translation>
     </message>
     <message>
         <source>version</source>
@@ -826,8 +826,8 @@ Adresa: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>Despre Nucleul Florincoin</translation>
+        <source>About FLO Core</source>
+        <translation>Despre Nucleul FLO</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -873,12 +873,12 @@ Adresa: %4
         <translation>Bun venit</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>Bine aţi venit la Nucleul Florincoin.</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>Bine aţi venit la Nucleul FLO.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Florincoin Core will store its data.</source>
-        <translation>Dacă aceasta este prima dată cînd programul este lansat, puteţi alege unde Nucleul Florincoin va stoca datele.</translation>
+        <source>As this is the first time the program is launched, you can choose where FLO Core will store its data.</source>
+        <translation>Dacă aceasta este prima dată cînd programul este lansat, puteţi alege unde Nucleul FLO va stoca datele.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -889,8 +889,8 @@ Adresa: %4
         <translation>Foloseşte un dosar de date personalizat:</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Nucleul Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Nucleul FLO</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -943,12 +943,12 @@ Adresa: %4
         <translation>Principal</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
-        <translation>Porneşte automat Florincoin după pornirea calculatorului.</translation>
+        <source>Automatically start FLO after logging in to the system.</source>
+        <translation>Porneşte automat FLO după pornirea calculatorului.</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
-        <translation>Porneşte Florincoin la pornirea sistemului</translation>
+        <source>&amp;Start FLO on system login</source>
+        <translation>Porneşte FLO la pornirea sistemului</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1023,16 +1023,16 @@ Adresa: %4
         <translation>Cheltuire rest neconfirmat</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat în router portul aferent clientului Florincoin. Funcţionează doar dacă routerul duportă UPnP şi e activat.</translation>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat în router portul aferent clientului FLO. Funcţionează doar dacă routerul duportă UPnP şi e activat.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Mapare port folosind &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Florincoin network through a SOCKS5 proxy.</source>
-        <translation>Conectare la reţeaua Florincoin printr-un proxy SOCKS.</translation>
+        <source>Connect to the FLO network through a SOCKS5 proxy.</source>
+        <translation>Conectare la reţeaua FLO printr-un proxy SOCKS.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1079,8 +1079,8 @@ Adresa: %4
         <translation>&amp;Limbă interfaţă utilizator</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>Limba interfeţei utilizatorului poate fi setată aici. Această setare va avea efect după repornirea Florincoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>Limba interfeţei utilizatorului poate fi setată aici. Această setare va avea efect după repornirea FLO.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1128,7 +1128,7 @@ Adresa: %4
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>Adresa florincoin pe care aţi specificat-o nu este validă.</translation>
+        <translation>Adresa FLO pe care aţi specificat-o nu este validă.</translation>
     </message>
 </context>
 <context>
@@ -1138,8 +1138,8 @@ Adresa: %4
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informaţiile afişate pot fi neactualizate. Portofelul dvs. se sincronizează automat cu reţeaua Florincoin după ce o conexiune este stabilită, dar acest proces nu a fost finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informaţiile afişate pot fi neactualizate. Portofelul dvs. se sincronizează automat cu reţeaua FLO după ce o conexiune este stabilită, dar acest proces nu a fost finalizat încă.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1253,8 +1253,8 @@ Adresa: %4
         <translation>URL-ul cererii de plată preluat nu este valid: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Florincoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi analizat! Acest lucru poate fi cauzat de o adresă Florincoin nevalidă sau parametri URI deformaţi.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid FLO address or malformed URI parameters.</source>
+        <translation>URI nu poate fi analizat! Acest lucru poate fi cauzat de o adresă FLO nevalidă sau parametri URI deformaţi.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1323,8 +1323,8 @@ Adresa: %4
         <translation>Cantitate</translation>
     </message>
     <message>
-        <source>Enter a Florincoin address (e.g. %1)</source>
-        <translation>Introduceţi o adresă Florincoin (de exemplu %1)</translation>
+        <source>Enter a FLO address (e.g. %1)</source>
+        <translation>Introduceţi o adresă FLO (de exemplu %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1537,7 +1537,7 @@ Adresa: %4
         <translation>Fişier jurnal depanare</translation>
     </message>
     <message>
-        <source>Open the Florincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the FLO debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Deschide fişierul jurnal depanare din directorul curent. Aceasta poate dura cîteva secunde pentru fişierele mai mari.</translation>
     </message>
     <message>
@@ -1545,8 +1545,8 @@ Adresa: %4
         <translation>Curăţă consola</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Bun venit la consola florincoin RPC.</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>Bun venit la consola FLO RPC.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1620,8 +1620,8 @@ Adresa: %4
         <translation>R&amp;efoloseşte o adresă de primire (nu este recomandat)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Florincoin network.</source>
-        <translation>Un mesaj opţional de ataşat la cererea de plată, care va fi afişat cînd cererea este deschisă. Notă: Acest mesaj nu va fi trimis cu plata către reţeaua Florincoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the FLO network.</source>
+        <translation>Un mesaj opţional de ataşat la cererea de plată, care va fi afişat cînd cererea este deschisă. Notă: Acest mesaj nu va fi trimis cu plata către reţeaua FLO.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1977,8 +1977,8 @@ Adresa: %4
         <translation>Plăteşte doar taxa minimă de %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Florincoin address</source>
-        <translation>Atenţie: Adresa florincoin nevalidă!</translation>
+        <source>Warning: Invalid FLO address</source>
+        <translation>Atenţie: Adresa FLO nevalidă!</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2028,8 +2028,8 @@ Adresa: %4
         <translation>Aceasta este o tranzacţie normală.</translation>
     </message>
     <message>
-        <source>The Florincoin address to send the payment to</source>
-        <translation>Adresa florincoin către care se face plata</translation>
+        <source>The FLO address to send the payment to</source>
+        <translation>Adresa FLO către care se face plata</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2060,7 +2060,7 @@ Adresa: %4
         <translation>Introduceţi eticheta pentru ca această adresa să fie introdusă în lista de adrese folosite</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Florincoin network.</source>
+        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
         <translation>un mesaj a fost ataşat la florincoin: URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeaua florincoin.</translation>
     </message>
     <message>
@@ -2079,8 +2079,8 @@ Adresa: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Florincoin Core is shutting down...</source>
-        <translation>Nucleul Florincoin se închide...</translation>
+        <source>FLO Core is shutting down...</source>
+        <translation>Nucleul FLO se închide...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2102,7 +2102,7 @@ Adresa: %4
         <translation>Puteţi semna mesaje cu adresa dvs. pentru a demostra ca sînteti proprietarul lor. Aveţi grijă să nu semnaţi nimic vag, deoarece atacurile de tip phishing vă pot păcăli să le transferaţi identitatea. Semnaţi numai declaraţiile detaliate cu care sînteti de acord.</translation>
     </message>
     <message>
-        <source>The Florincoin address to sign the message with</source>
+        <source>The FLO address to sign the message with</source>
         <translation>Adresa cu care semnaţi mesajul</translation>
     </message>
     <message>
@@ -2134,8 +2134,8 @@ Adresa: %4
         <translation>Copiază semnatura curentă în clipboard-ul sistemului</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
-        <translation>Semnează mesajul pentru a dovedi ca deţineţi acestă adresă Florincoin</translation>
+        <source>Sign the message to prove you own this FLO address</source>
+        <translation>Semnează mesajul pentru a dovedi ca deţineţi acestă adresă FLO</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2158,12 +2158,12 @@ Adresa: %4
         <translation>Introduceţi adresa de semnatură, mesajul (asiguraţi-vă că aţi copiat spaţiile, taburile etc. exact) şi semnatura dedesubt pentru a verifica mesajul. Aveţi grijă să nu citiţi mai mult în semnatură decît mesajul în sine, pentru a evita să fiţi păcăliţi de un atac de tip man-in-the-middle.</translation>
     </message>
     <message>
-        <source>The Florincoin address the message was signed with</source>
-        <translation>Introduceţi o adresă Florincoin</translation>
+        <source>The FLO address the message was signed with</source>
+        <translation>Introduceţi o adresă FLO</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Florincoin address</source>
-        <translation>Verificaţi mesajul pentru a vă asigura că a fost semnat cu adresa Florincoin specificată</translation>
+        <source>Verify the message to ensure it was signed with the specified FLO address</source>
+        <translation>Verificaţi mesajul pentru a vă asigura că a fost semnat cu adresa FLO specificată</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2229,12 +2229,12 @@ Adresa: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Nucleul Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Nucleul FLO</translation>
     </message>
     <message>
-        <source>The Florincoin Core developers</source>
-        <translation>Dezvoltatorii Nucleului Florincoin</translation>
+        <source>The FLO Core developers</source>
+        <translation>Dezvoltatorii Nucleului FLO</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2771,8 +2771,8 @@ Adresa: %4
         <translation>Aceasta este o versiune de test preliminară - vă asumaţi riscul folosind-o - nu folosiţi pentru minerit sau aplicaţiile comercianţilor</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Florincoin Core is probably already running.</source>
-        <translation>Nu se poate lega la %s pe acest calculator. Nucleul Florincoin probabil deja rulează.</translation>
+        <source>Unable to bind to %s on this computer. FLO Core is probably already running.</source>
+        <translation>Nu se poate lega la %s pe acest calculator. Nucleul FLO probabil deja rulează.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -2943,8 +2943,8 @@ Adresa: %4
         <translation>A apărut o eroare la setarea adresei RPC %s portul %u pentru ascultare: %s</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Florincoin Core is probably already running.</source>
-        <translation>Nu se poate obţine blocarea folderului cu date %s. Nucleul Florincoin probabil deja rulează.</translation>
+        <source>Cannot obtain a lock on data directory %s. FLO Core is probably already running.</source>
+        <translation>Nu se poate obţine blocarea folderului cu date %s. Nucleul FLO probabil deja rulează.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -2967,8 +2967,8 @@ Adresa: %4
         <translation>Conectare prin proxy SOCKS5</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Florincoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i Dezvoltatorii Florincoin</translation>
+        <source>Copyright (C) 2009-%i The FLO Core Developers</source>
+        <translation>Copyright (C) 2009-%i Dezvoltatorii FLO</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -2987,8 +2987,8 @@ Adresa: %4
         <translation>Informaţie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Florincoin Core is shutting down.</source>
-        <translation>Nu s-a reuşit iniţierea verificării sănătăţii. Nucleul Florincoin se opreşte.</translation>
+        <source>Initialization sanity check failed. FLO Core is shutting down.</source>
+        <translation>Nu s-a reuşit iniţierea verificării sănătăţii. Nucleul FLO se opreşte.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3015,8 +3015,8 @@ Adresa: %4
         <translation>Trebuie să specificaţi un port cu -whitebind: '%s'</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Florincoin Wiki for SSL setup instructions)</source>
-        <translation>Opţiuni RPC SSL: (vedeţi Wiki Florincoin pentru intrucţiunile de setare SSL)</translation>
+        <source>RPC SSL options: (see the FLO Wiki for SSL setup instructions)</source>
+        <translation>Opţiuni RPC SSL: (vedeţi Wiki FLO pentru intrucţiunile de setare SSL)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3087,8 +3087,8 @@ Adresa: %4
         <translation>Utilizator pentru conexiunile JSON-RPC</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Florincoin Core to complete</source>
-        <translation>Portofelul necesită rescrierea: reporniţi Nucleul Florincoin pentru completare</translation>
+        <source>Wallet needed to be rewritten: restart FLO Core to complete</source>
+        <translation>Portofelul necesită rescrierea: reporniţi Nucleul FLO pentru completare</translation>
     </message>
     <message>
         <source>Warning</source>

@@ -62,12 +62,12 @@
         <translation>آدرس های دریافت کننده</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>این‌ها نشانی‌های Florincoin شما برای ارسال وجود هستند. همیشه قبل از ارسال سکه‌ها، نشانی دریافت‌کننده و مقدار ارسالی را بررسی کنید.</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>این‌ها نشانی‌های FLO شما برای ارسال وجود هستند. همیشه قبل از ارسال سکه‌ها، نشانی دریافت‌کننده و مقدار ارسالی را بررسی کنید.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>این‌ها نشانی‌های Florincoin شما برای دریافت وجوه هستند. توصیه می‌شود یک نشانی دریافت جدید برای هر تبادل استفاده کنید.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>این‌ها نشانی‌های FLO شما برای دریافت وجوه هستند. توصیه می‌شود یک نشانی دریافت جدید برای هر تبادل استفاده کنید.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -156,8 +156,8 @@
         <translation>تأیید رمزنگاری کیف پول</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>هشدار: اگر کیف پول خود را رمزنگاری کنید و گذرواژه را فراموش کنید، &lt;b&gt;تمام دارایی FLORINCOINS خود را از دست خواهید داد&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>هشدار: اگر کیف پول خود را رمزنگاری کنید و گذرواژه را فراموش کنید، &lt;b&gt;تمام دارایی FLOS خود را از دست خواهید داد&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -180,8 +180,8 @@
         <translation>رمز جدید کیف پول خود را وارد کنید.&lt;br/&gt;از رمز عبوری استفاده کنید که&lt;b&gt; حداقل 10  کاراکتر تصادفی &lt;/b&gt; و یا &lt;b&gt; حداقل 8 حرف داشته باشد.&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin هم اکنون بسته می‌شود تا فرایند رمزگذاری را تمام کند. به خاطر داشته باشید که رمزگذاری کردن کیف پول‌تان نمی‌تواند به طور کامل Florincoin‌های شما را در برابر دزدیده شدن توسط بدافزارهایی که احتمالاً رایانهٔ شما را آلوده می‌کنند، محافظت نماید.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO هم اکنون بسته می‌شود تا فرایند رمزگذاری را تمام کند. به خاطر داشته باشید که رمزگذاری کردن کیف پول‌تان نمی‌تواند به طور کامل FLO‌های شما را در برابر دزدیده شدن توسط بدافزارهایی که احتمالاً رایانهٔ شما را آلوده می‌کنند، محافظت نماید.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,12 +295,12 @@
         <translation>بازنشانی بلوک‌ها روی دیسک...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>ارسال وجه به نشانی Florincoin</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>ارسال وجه به نشانی FLO</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>تغییر و اصلاح تنظیمات پیکربندی Florincoin</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>تغییر و اصلاح تنظیمات پیکربندی FLO</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -323,8 +323,8 @@
         <translation>با&amp;زبینی پیام...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -339,8 +339,8 @@
         <translation>&amp;دریافت</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>نمایش اطلاعات در مورد Florincoin</translation>
+        <source>Show information about FLO Core</source>
+        <translation>نمایش اطلاعات در مورد FLO</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -355,12 +355,12 @@
         <translation>رمزنگاری کلیدهای خصوصی متعلق به کیف پول شما</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
-        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی Florincoin خود امضا کنید</translation>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
+        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی FLO خود امضا کنید</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی Florincoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی FLO مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -379,12 +379,12 @@
         <translation>نوارابزار برگه‌ها</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation> هسته Florincoin </translation>
+        <source>FLO Core</source>
+        <translation> هسته FLO </translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>درباره هسته ی Florincoin</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>درباره هسته ی FLO</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -395,8 +395,8 @@
         <translation>نمایش لیست آدرس های دریافت و لیبل ها</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n ارتباط فعال با شبکهٔ Florincoin</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n ارتباط فعال با شبکهٔ FLO</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -660,8 +660,8 @@ Address: %4
         <translation>نشانی وارد شده «%1» در حال حاضر در دفترچه وجود دارد.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>نشانی وارد شده «%1» یک نشانی معتبر Florincoin نیست.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>نشانی وارد شده «%1» یک نشانی معتبر FLO نیست.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -698,16 +698,16 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation> هسته Florincoin </translation>
+        <source>FLO Core</source>
+        <translation> هسته FLO </translation>
     </message>
     <message>
         <source>version</source>
         <translation>نسخه</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>درباره هسته ی Florincoin</translation>
+        <source>About FLO Core</source>
+        <translation>درباره هسته ی FLO</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -749,11 +749,11 @@ Address: %4
         <translation>خوش‌آمدید</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>به هسته Florincoin خوش آمدید.</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>به هسته FLO خوش آمدید.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Florincoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where FLO Core will store its data.</source>
         <translation>از آنجایی که این اولین اجرای برنامه است، شما می‌توانید مسیر ذخیرهٔ داده‌ها را انتخاب کنید.</translation>
     </message>
     <message>
@@ -765,8 +765,8 @@ Address: %4
         <translation>استفاده از یک مسیر سفارشی:</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation> هسته Florincoin </translation>
+        <source>FLO Core</source>
+        <translation> هسته FLO </translation>
     </message>
     <message>
         <source>Error</source>
@@ -787,12 +787,12 @@ Address: %4
         <translation>&amp;عمومی</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
-        <translation>اجرای خودکار Florincoin در زمان ورود به سیستم.</translation>
+        <source>Automatically start FLO after logging in to the system.</source>
+        <translation>اجرای خودکار FLO در زمان ورود به سیستم.</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
-        <translation>&amp;اجرای Florincoin با ورود به سیستم</translation>
+        <source>&amp;Start FLO on system login</source>
+        <translation>&amp;اجرای FLO با ورود به سیستم</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
@@ -811,8 +811,8 @@ Address: %4
         <translation>استخراج</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>باز کردن خودکار درگاه شبکهٔ Florincoin روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>باز کردن خودکار درگاه شبکهٔ FLO روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -859,8 +859,8 @@ Address: %4
         <translation>زبان &amp;رابط کاربری:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>زبان رابط کاربر می‌تواند در این‌جا تنظیم شود. تنظیمات بعد از ظروع مجدد Florincoin اعمال خواهد شد.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>زبان رابط کاربر می‌تواند در این‌جا تنظیم شود. تنظیمات بعد از ظروع مجدد FLO اعمال خواهد شد.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -906,8 +906,8 @@ Address: %4
         <translation>فرم</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ Florincoin همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ FLO همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -970,7 +970,7 @@ Address: %4
     </message>
     <message>
         <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>نمی‌توان Florincoin را اجرا کرد: کنترل‌کنندهٔ کلیک-و-پرداخت</translation>
+        <translation>نمی‌توان FLO را اجرا کرد: کنترل‌کنندهٔ کلیک-و-پرداخت</translation>
     </message>
     </context>
 <context>
@@ -1085,16 +1085,16 @@ Address: %4
         <translation>فایلِ لاگِ اشکال زدایی</translation>
     </message>
     <message>
-        <source>Open the Florincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>فایلِ لاگِ اشکال زدایی Florincoin  را از دایرکتوری جاری داده ها باز کنید. این عملیات ممکن است برای فایلهای لاگِ حجیم طولانی شود.</translation>
+        <source>Open the FLO debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>فایلِ لاگِ اشکال زدایی FLO  را از دایرکتوری جاری داده ها باز کنید. این عملیات ممکن است برای فایلهای لاگِ حجیم طولانی شود.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>پاکسازی کنسول</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>به کنسور RPC Florincoin خوش آمدید.</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>به کنسور RPC FLO خوش آمدید.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1316,8 +1316,8 @@ Address: %4
         <translation>این یک پرداخت عادی است</translation>
     </message>
     <message>
-        <source>The Florincoin address to send the payment to</source>
-        <translation>نشانی Florincoin برای ارسال پرداخت به آن</translation>
+        <source>The FLO address to send the payment to</source>
+        <translation>نشانی FLO برای ارسال پرداخت به آن</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1358,8 +1358,8 @@ Address: %4
         <translation>برای احراز اینکه پیام‌ها از جانب شما هستند، می‌توانید آن‌ها را با نشانی خودتان امضا کنید. مراقب باشید چیزی که بدان اطمینان ندارید را امضا نکنید زیرا حملات فیشینگ ممکن است بخواهند از.پیامی با امضای شما سوءاستفاده کنند. تنها مواردی را که حاوی اطلاعات دقیق و قابل قبول برای شما هستند امضا کنید.</translation>
     </message>
     <message>
-        <source>The Florincoin address to sign the message with</source>
-        <translation>نشانی Florincoin برای امضاء پیغام با آن</translation>
+        <source>The FLO address to sign the message with</source>
+        <translation>نشانی FLO برای امضاء پیغام با آن</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1390,7 +1390,7 @@ Address: %4
         <translation>امضای فعلی را به حافظهٔ سیستم کپی کن</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
+        <source>Sign the message to prove you own this FLO address</source>
         <translation>برای اثبات تعلق این نشانی به شما، پیام را امضا کنید</translation>
     </message>
     <message>
@@ -1414,12 +1414,12 @@ Address: %4
         <translation>برای شناسایی پیام، نشانیِ امضا کننده و متن پیام را وارد کنید. (مطمئن شوید که فاصله‌ها، تب‌ها و خطوط را عیناً کپی می‌کنید.) مراقب باشید در امضا چیزی بیشتر از آنچه در پیام می‌بینید وجود نداشته باشد تا فریب دزدان اینترنتی و حملات از نوع MITM را نخورید.</translation>
     </message>
     <message>
-        <source>The Florincoin address the message was signed with</source>
-        <translation>نشانی Florincoin که پیغام با آن امضاء شده</translation>
+        <source>The FLO address the message was signed with</source>
+        <translation>نشانی FLO که پیغام با آن امضاء شده</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Florincoin address</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی Florincoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify the message to ensure it was signed with the specified FLO address</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی FLO مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1485,8 +1485,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation> هسته Florincoin </translation>
+        <source>FLO Core</source>
+        <translation> هسته FLO </translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -1991,8 +1991,8 @@ Address: %4
         <translation>در حال بازبینی کیف پول...</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Florincoin Core will not work properly.</source>
-        <translation>هشدار: تاریخ و ساعت کامپیوتر خود را بررسی کنید. اگر ساعت درست نباشد هسته Florincoin به درستی کار نخواهد کرد.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong FLO Core will not work properly.</source>
+        <translation>هشدار: تاریخ و ساعت کامپیوتر خود را بررسی کنید. اگر ساعت درست نباشد هسته FLO به درستی کار نخواهد کرد.</translation>
     </message>
     <message>
         <source>Information</source>

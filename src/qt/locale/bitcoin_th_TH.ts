@@ -159,8 +159,8 @@
         <translation>แถบเครื่องมือ</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n ที่ใช้งานการเชื่อมต่อกับเครือข่าย Florincoin</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n ที่ใช้งานการเชื่อมต่อกับเครือข่าย FLO</numerusform></translation>
     </message>
     <message>
         <source>Up to date</source>

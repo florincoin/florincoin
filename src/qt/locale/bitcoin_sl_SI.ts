@@ -66,12 +66,12 @@
         <translation>Prejemni naslovi</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tukaj so vaši Florincoin naslovi za pošiljanje plačil. Vedno preverite znesek in prejemnikov naslov pred pošiljanjem kovancev.</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tukaj so vaši FLO naslovi za pošiljanje plačil. Vedno preverite znesek in prejemnikov naslov pred pošiljanjem kovancev.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tukaj so vaši Florincoin naslovi za prejemanje plačil. Priporočljivo je uporabiti nov naslov za vsako novo plačilo.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tukaj so vaši FLO naslovi za prejemanje plačil. Priporočljivo je uporabiti nov naslov za vsako novo plačilo.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -160,8 +160,8 @@
         <translation>Potrditev šifriranja denarnice</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Opozorilo: V primeru izgube gesla šifrirane denarnice, boste &lt;b&gt;IZGUBILI VSE SVOJE FLORINCOINE&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Opozorilo: V primeru izgube gesla šifrirane denarnice, boste &lt;b&gt;IZGUBILI VSE SVOJE FLOE&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -184,7 +184,7 @@
         <translation>Vnesite novo geslo. Prosimo, da uporabite geslo sestavljeno iz &lt;b&gt;deset ali več&lt;/b&gt; naključnih znakov, ali &lt;b&gt;osem ali več&lt;/b&gt; besed.</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
         <translation>Program se bo zaprl, da dokonča proces šifriranja. Zapomnite si, da šifriranje ne more popolnoma zaščititi vašo denarnico pred krajami in zlonamernimi programi, ki bi lahko bili nameščeni na vašem računalniku.</translation>
     </message>
     <message>
@@ -291,8 +291,8 @@
         <translation>Odpri &amp;URI ...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Odjemalec Florincoin Core</translation>
+        <source>FLO Core client</source>
+        <translation>Odjemalec FLO Core</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -303,11 +303,11 @@
         <translation>Poustvarjam kazalo blokov na disku ...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Pošlji kovance na Florincoin naslov</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Pošlji kovance na FLO naslov</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
+        <source>Modify configuration options for FLO</source>
         <translation>Urejanje nastavitev programa</translation>
     </message>
     <message>
@@ -327,8 +327,8 @@
         <translation>Odpri razhroščevalno in diagnostično konzolo</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -343,7 +343,7 @@
         <translation>&amp;Sprejmi</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
+        <source>Show information about FLO Core</source>
         <translation>Pokaži informacije o programu</translation>
     </message>
     <message>
@@ -359,11 +359,11 @@
         <translation>Šifiraj zasebne ključe v denarnici</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
         <translation>Podpišite sporočilo za dokaz, da ste lastnik naslova</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
         <translation>Preverite, da je sporočilo bilo podpisano z danim naslovom</translation>
     </message>
     <message>
@@ -383,15 +383,15 @@
         <translation>Orodna vrstica zavihkov</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and florincoin: URIs)</source>
         <translation>Ustvarjanje zahtevka za plačilo (izdelava QR kode in florincoin: URI naslova)</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
+        <source>&amp;About FLO Core</source>
         <translation>&amp;O programu</translation>
     </message>
     <message>
@@ -404,19 +404,19 @@
     </message>
     <message>
         <source>Open a florincoin: URI or payment request</source>
-        <translation>Odpri Florincoin: URI ali zahteva o plačilu</translation>
+        <translation>Odpri FLO: URI ali zahteva o plačilu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Opcije &amp;ukazne vrstice</translation>
     </message>
     <message>
-        <source>Show the Florincoin Core help message to get a list with possible Florincoin command-line options</source>
+        <source>Show the FLO Core help message to get a list with possible FLO command-line options</source>
         <translation>Prikaže seznam vseh opcij pri zagonu programa in kratek opis</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n aktivna povezava v florincoin omrežje</numerusform><numerusform>%n aktivni povezavi v florincoin omrežje</numerusform><numerusform>%n aktivnih povezav v florincoin omrežje</numerusform><numerusform>%n aktivnih povezav v florincoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n aktivna povezava v FLO omrežje</numerusform><numerusform>%n aktivni povezavi v FLO omrežje</numerusform><numerusform>%n aktivnih povezav v FLO omrežje</numerusform><numerusform>%n aktivnih povezav v FLO omrežje</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -768,8 +768,8 @@ Naslov: %4
         <translation>Vnešeni naslov "%1" je že v imeniku.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>Vnešeni naslov "%1" ni veljaven Florincoin naslov.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>Vnešeni naslov "%1" ni veljaven FLO naslov.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -806,8 +806,8 @@ Naslov: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -818,8 +818,8 @@ Naslov: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>O programu Florincoin Core</translation>
+        <source>About FLO Core</source>
+        <translation>O programu FLO Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -865,16 +865,16 @@ Naslov: %4
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>Dobrodošli v Florincoin Core.</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>Dobrodošli v FLO Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Florincoin Core will store its data.</source>
-        <translation>To je prvi zagonom programa, zato izberite kje bo program Florincoin Core shranjeval podatke.</translation>
+        <source>As this is the first time the program is launched, you can choose where FLO Core will store its data.</source>
+        <translation>To je prvi zagonom programa, zato izberite kje bo program FLO Core shranjeval podatke.</translation>
     </message>
     <message>
-        <source>Florincoin Core will download and store a copy of the Florincoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Program bo prenesel in shranil kopijo florincoin verige blokov. V izbrano mapo bo shranjenih vsaj %1 GB podatkov, ta količina bo sčasoma še naraščala. Denarnica bo prav tako shranjena v to mapo.</translation>
+        <source>FLO Core will download and store a copy of the FLO block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Program bo prenesel in shranil kopijo FLO verige blokov. V izbrano mapo bo shranjenih vsaj %1 GB podatkov, ta količina bo sčasoma še naraščala. Denarnica bo prav tako shranjena v to mapo.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -885,8 +885,8 @@ Naslov: %4
         <translation>Uporabi to mapo za shranjevanje podatkov:</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -935,11 +935,11 @@ Naslov: %4
         <translation>&amp;Glavno</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
+        <source>Automatically start FLO after logging in to the system.</source>
         <translation>Samodejen zagon programa po prijavi v sistem.</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
+        <source>&amp;Start FLO on system login</source>
         <translation>&amp;Zaženi program ob prijavi v sistem</translation>
     </message>
     <message>
@@ -1015,7 +1015,7 @@ Naslov: %4
         <translation>&amp;Trošenje nepotrjenega vračila</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Program samodejno odpre ustrezna vrata na usmerjevalniku. To deluje samo, če vaš usmerjevalnik podpira in ima omogočen UPnP.</translation>
     </message>
     <message>
@@ -1023,7 +1023,7 @@ Naslov: %4
         <translation>Naslavljanje vrat z uporabo &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Florincoin network through a SOCKS5 proxy.</source>
+        <source>Connect to the FLO network through a SOCKS5 proxy.</source>
         <translation>Povezava v omrežje s pomočjo SOCKS5 posrednika.</translation>
     </message>
     <message>
@@ -1071,7 +1071,7 @@ Naslov: %4
         <translation>&amp;Jezik uporabniškega vmesnika:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
         <translation>Tukaj je mogoče nastaviti jezik uporabniškega vmesnika. Ta nastavitev bo prikazana šele, ko boste znova zagnali program.</translation>
     </message>
     <message>
@@ -1126,7 +1126,7 @@ Naslov: %4
         <translation>Oblika</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
         <translation>Prikazani podatki so lahko zastareli. Vaša denarnica se po vzpostavitvi povezave z omrežjem samodejno sinhronizira, ampak ta proces še ni zaključen.</translation>
     </message>
     <message>
@@ -1233,8 +1233,8 @@ Naslov: %4
         <translation>Naslov URL za pridobitev zahtevka za plačilo ni veljaven: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Florincoin address or malformed URI parameters.</source>
-        <translation>Naslov URL je neprepoznaven! Razlog je lahko neveljaven naslov Florincoin ali  napačni parametri v URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid FLO address or malformed URI parameters.</source>
+        <translation>Naslov URL je neprepoznaven! Razlog je lahko neveljaven naslov FLO ali  napačni parametri v URI.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1299,8 +1299,8 @@ Naslov: %4
         <translation>Količina</translation>
     </message>
     <message>
-        <source>Enter a Florincoin address (e.g. %1)</source>
-        <translation>Vnesite naslov Florincoin (npr. %1):</translation>
+        <source>Enter a FLO address (e.g. %1)</source>
+        <translation>Vnesite naslov FLO (npr. %1):</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1521,8 +1521,8 @@ Naslov: %4
         <translation>Počisti konzolo</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Dobrodošli  na Florincoin RPC konzoli.</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>Dobrodošli  na FLO RPC konzoli.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1596,8 +1596,8 @@ Naslov: %4
         <translation>P&amp;onovno uporabite obstoječ naslov za prejemanje. (Ni priporočeno.)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Florincoin network.</source>
-        <translation>Neobvezno sporočilo kot priponka zahtevku za plačilo, ki bo prikazano, ko bo zahtevek odprt. Opomba: Opravljeno plačilo.prek omrežja Florincoin tega sporočila ne bo vsebovalo.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the FLO network.</source>
+        <translation>Neobvezno sporočilo kot priponka zahtevku za plačilo, ki bo prikazano, ko bo zahtevek odprt. Opomba: Opravljeno plačilo.prek omrežja FLO tega sporočila ne bo vsebovalo.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1825,7 +1825,7 @@ Naslov: %4
         <translation>skupno vsaj</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for florincoin transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for FLO transactions than the network can process.</source>
         <translation>Dokler bo v blokih še dovolj prostora za vse nastajajoče transakcije, je dovolj tudi plačilo samo minimalne provizije. Ko pa se bo količina vseh transakcij povečala do meja zmogljivosti omrežja, se lahko zgodi, da vaša transakcija brez večje provizije nikoli ne bo potrjena.</translation>
     </message>
     <message>
@@ -1961,8 +1961,8 @@ Naslov: %4
         <translation>Plačilo samo minimalne provizije v znesku %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Florincoin address</source>
-        <translation>Opozorilo: Neveljaven Florincoin naslov</translation>
+        <source>Warning: Invalid FLO address</source>
+        <translation>Opozorilo: Neveljaven FLO naslov</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2012,8 +2012,8 @@ Naslov: %4
         <translation>Plačilo je navadne vrste.</translation>
     </message>
     <message>
-        <source>The Florincoin address to send the payment to</source>
-        <translation>Naslov Florincoin, na katerega bo plačilo poslano</translation>
+        <source>The FLO address to send the payment to</source>
+        <translation>Naslov FLO, na katerega bo plačilo poslano</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2040,8 +2040,8 @@ Naslov: %4
         <translation>Vnesite oznako za ta naslov, ki bo shranjena v seznam uporabljenih naslovov</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Florincoin network.</source>
-        <translation>Sporočilo, ki ste ga pripeli na URI florincoin: in bo shranjeno skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja Florincoin.</translation>
+        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <translation>Sporočilo, ki ste ga pripeli na URI florincoin: in bo shranjeno skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja FLO.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2055,8 +2055,8 @@ Naslov: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Florincoin Core is shutting down...</source>
-        <translation>Florincoin Core se ustavlja...</translation>
+        <source>FLO Core is shutting down...</source>
+        <translation>FLO Core se ustavlja...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2074,8 +2074,8 @@ Naslov: %4
         <translation>&amp;Podpiši sporočilo</translation>
     </message>
     <message>
-        <source>The Florincoin address to sign the message with</source>
-        <translation>Naslov Florincoin, s katerim podpisujete sporočilo</translation>
+        <source>The FLO address to sign the message with</source>
+        <translation>Naslov FLO, s katerim podpisujete sporočilo</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2106,7 +2106,7 @@ Naslov: %4
         <translation>Kopiranje trenutnega podpisa na sistemsko odložišče.</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
+        <source>Sign the message to prove you own this FLO address</source>
         <translation>Podpišite sporočilo, da dokažete lastništvo nad zgornjim naslovom.</translation>
     </message>
     <message>
@@ -2126,12 +2126,12 @@ Naslov: %4
         <translation>&amp;Preveri sporočilo</translation>
     </message>
     <message>
-        <source>The Florincoin address the message was signed with</source>
-        <translation>Naslov Florincoin, s katerim je bilo sporočilo podpisano</translation>
+        <source>The FLO address the message was signed with</source>
+        <translation>Naslov FLO, s katerim je bilo sporočilo podpisano</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Florincoin address</source>
-        <translation>Preverite, ali je bilo sporočilo v resnici podpisano z navedenim naslovom Florincoin.</translation>
+        <source>Verify the message to ensure it was signed with the specified FLO address</source>
+        <translation>Preverite, ali je bilo sporočilo v resnici podpisano z navedenim naslovom FLO.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2197,8 +2197,8 @@ Naslov: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2723,8 +2723,8 @@ Naslov: %4
         <translation>To je preizkusna verzija - uporaba na lastno odgovornost - ne uporabljajte je za rudarjenje florincoinov ali za trgovske aplikacije</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Florincoin Core is probably already running.</source>
-        <translation>Na tem računalniku se ni bilo mogoče povezati na %s. Odjemalec Florincoin Core je verjetno že zagnan.</translation>
+        <source>Unable to bind to %s on this computer. FLO Core is probably already running.</source>
+        <translation>Na tem računalniku se ni bilo mogoče povezati na %s. Odjemalec FLO Core je verjetno že zagnan.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -2891,8 +2891,8 @@ Naslov: %4
         <translation>Veži dani naslov in sprejemaj povezave na JSON-RPC. Za naslove protokola IPv6 uporabite zapis [gostitelj]:vrata. To opcijo lahko navedete večkrat. (privzeto: veži vse omrežne vmesnike)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Florincoin Core is probably already running.</source>
-        <translation>Ne morem zakleniti podatkovne mape %s. Florincoin Core je verjetno že zagnan.</translation>
+        <source>Cannot obtain a lock on data directory %s. FLO Core is probably already running.</source>
+        <translation>Ne morem zakleniti podatkovne mape %s. FLO Core je verjetno že zagnan.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -2919,8 +2919,8 @@ Naslov: %4
         <translation>Če opcija -paytxfee ni nastavljena, nastavi znesek provizije tako visoko, da bodo transakcije potrjene v povprečno n blokih. (privzeto: %u)</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Florincoin Core will not work properly.</source>
-        <translation>Opozorilo: Preverite, če sta datum in ura na vašem računalniku točna! Florincoin Core ne bo dobro deloval, če je nastavljeni čas nepravilen.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong FLO Core will not work properly.</source>
+        <translation>Opozorilo: Preverite, če sta datum in ura na vašem računalniku točna! FLO Core ne bo dobro deloval, če je nastavljeni čas nepravilen.</translation>
     </message>
     <message>
         <source>Cannot resolve -whitebind address: '%s'</source>

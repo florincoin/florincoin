@@ -66,12 +66,12 @@
         <translation>استقبال العناوين</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>هذه هي عناوين Florincoin التابعة لك من أجل إرسال الدفعات. تحقق دائما من المبلغ و عنوان المرسل المستقبل قبل إرسال العملات</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>هذه هي عناوين FLO التابعة لك من أجل إرسال الدفعات. تحقق دائما من المبلغ و عنوان المرسل المستقبل قبل إرسال العملات</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>هذه هي عناوين Florincoin التابعة لك من أجل إستقبال الدفعات. ينصح استخدام عنوان جديد من أجل كل صفقة</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>هذه هي عناوين FLO التابعة لك من أجل إستقبال الدفعات. ينصح استخدام عنوان جديد من أجل كل صفقة</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -160,8 +160,8 @@
         <translation>تأكيد تشفير المحفظة</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>تحذير: إذا قمت بتشفير محفظتك وفقدت كلمة المرور الخاص بك, ستفقد كل عملات FLORINCOINS الخاصة بك.</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>تحذير: إذا قمت بتشفير محفظتك وفقدت كلمة المرور الخاص بك, ستفقد كل عملات FLOS الخاصة بك.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -184,7 +184,7 @@
         <translation>أدخل عبارة مرور جديدة إلى المحفظة. الرجاء استخدام عبارة مرور تتكون من10 حروف عشوائية على الاقل, أو أكثر من 7 كلمات</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
         <translation>بتكوين سوف يغلق الآن لإنهاء عملية التشفير. تذكر أن التشفير لا يستطيع حماية محفظتك تمامًا من السرقة من خلال البرمجيات الخبيثة التي تصيب جهازك </translation>
     </message>
     <message>
@@ -291,8 +291,8 @@
         <translation>افتح &amp;URI...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>عميل florincoin core</translation>
+        <source>FLO Core client</source>
+        <translation>عميل FLO core</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -303,11 +303,11 @@
         <translation>إعادة فهرسة الكتل على القرص</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>ارسل عملات الى عنوان Florincoin</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>ارسل عملات الى عنوان FLO</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
+        <source>Modify configuration options for FLO</source>
         <translation>تعديل إعدادات florincoin</translation>
     </message>
     <message>
@@ -327,7 +327,7 @@
         <translation>&amp;التحقق من الرسالة...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
+        <source>FLO</source>
         <translation>بت كوين</translation>
     </message>
     <message>
@@ -339,8 +339,8 @@
         <translation>&amp;استقبل</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>  اظهار معلومات حول Florincoin core</translation>
+        <source>Show information about FLO Core</source>
+        <translation>  اظهار معلومات حول FLO core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -371,12 +371,12 @@
         <translation>شريط أدوات علامات التبويب</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
+        <source>FLO Core</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>حول florincoin core</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>حول FLO core</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -626,7 +626,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
+        <source>FLO Core</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
@@ -634,7 +634,7 @@
         <translation>النسخة</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
+        <source>About FLO Core</source>
         <translation>عن جوهر البيت كوين</translation>
     </message>
     <message>
@@ -661,7 +661,7 @@
         <translation>استخدام دليل بيانات مخصص:</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
+        <source>FLO Core</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
@@ -1234,7 +1234,7 @@
         <translation>التوقيع</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
+        <source>Sign the message to prove you own this FLO address</source>
         <translation>وقع الرسالة لتثبت انك تمتلك عنوان البت كوين هذا</translation>
     </message>
     <message>
@@ -1301,7 +1301,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
+        <source>FLO Core</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>

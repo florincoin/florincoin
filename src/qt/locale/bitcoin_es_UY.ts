@@ -159,8 +159,8 @@
         <translation>Barra de herramientas</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n conexión activa a la red Florincoin </numerusform><numerusform>%n conexiones activas a la red Florincoin</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n conexión activa a la red FLO </numerusform><numerusform>%n conexiones activas a la red FLO</numerusform></translation>
     </message>
     <message>
         <source>Up to date</source>

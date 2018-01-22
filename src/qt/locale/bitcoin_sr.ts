@@ -96,8 +96,8 @@
         <translation>Одобрите шифровање новчаника</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Упозорење: Ако се ваш новчаник шифрује а потом изгубите лозинкзу, ви ћете &lt;b&gt;ИЗГУБИТИ СВЕ FLORINCOIN-Е&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Упозорење: Ако се ваш новчаник шифрује а потом изгубите лозинкзу, ви ћете &lt;b&gt;ИЗГУБИТИ СВЕ FLO-Е&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -108,8 +108,8 @@
         <translation>Новчаник је шифрован</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin će se sad zatvoriti da bi završio  proces enkripcije. Zapamti da enkripcija tvog novčanika ne može u potpunosti da zaštiti tvoje florincoine da ne budu ukradeni od malawarea koji bi inficirao tvoj kompjuter.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO će se sad zatvoriti da bi završio  proces enkripcije. Zapamti da enkripcija tvog novčanika ne može u potpunosti da zaštiti tvoje florincoine da ne budu ukradeni od malawarea koji bi inficirao tvoj kompjuter.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -195,11 +195,11 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Пошаљите новац на florincoin адресу</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Пошаљите новац на FLO адресу</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
+        <source>Modify configuration options for FLO</source>
         <translation>Изаберите могућности florincoin-а</translation>
     </message>
     <message>
@@ -334,8 +334,8 @@ Address: %4
         <translation>верзија</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>O Florincoin Coru</translation>
+        <source>About FLO Core</source>
+        <translation>O FLO Coru</translation>
     </message>
     <message>
         <source>Usage:</source>

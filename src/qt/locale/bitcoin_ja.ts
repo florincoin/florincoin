@@ -66,11 +66,11 @@
         <translation>アドレス受信中</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>これらは支払いを送信するためのあなたの Florincoin アドレスです。コインを送信する前に、常に額と受信アドレスを確認してください。</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>これらは支払いを送信するためのあなたの FLO アドレスです。コインを送信する前に、常に額と受信アドレスを確認してください。</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>これらは支払いを受け取るためのライトコインアドレスです。トランザクションごとに新しい受け取り用アドレスを作成することが推奨されます。</translation>
     </message>
     <message>
@@ -164,8 +164,8 @@
         <translation>ウォレットの暗号化を確認する</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>警告: もしもあなたのウォレットを暗号化してパスフレーズを失ってしまったなら、&lt;b&gt;あなたの Florincoin はすべて失われます&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>警告: もしもあなたのウォレットを暗号化してパスフレーズを失ってしまったなら、&lt;b&gt;あなたの FLO はすべて失われます&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>ウォレットの新しいパスフレーズを入力してください。&lt;br/&gt;&lt;b&gt;10文字以上のランダムな文字&lt;/b&gt;で構成されたものか、&lt;b&gt;8単語以上の単語&lt;/b&gt;で構成されたパスフレーズを使用してください。</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin は暗号化プロセスを終了するために今すぐ終了します。あなたのコンピュータがマルウェアに感染してコインを盗まれることもあるので、暗号化してもあなたのウォレットを完全に保護できないことを覚えていてください。</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO は暗号化プロセスを終了するために今すぐ終了します。あなたのコンピュータがマルウェアに感染してコインを盗まれることもあるので、暗号化してもあなたのウォレットを完全に保護できないことを覚えていてください。</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>URI を開く (&amp;U)...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Florincoinコア クライアント</translation>
+        <source>FLO Core client</source>
+        <translation>FLOコア クライアント</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>ディスク上のブロックのインデックスを再作成中...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Florincoin アドレスにコインを送る</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>FLO アドレスにコインを送る</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>Florincoin の設定を変更する</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>FLO の設定を変更する</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>メッセージの検証... (&amp;V)</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>受信 (&amp;R)</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>Florincoinコアに関する情報を表示</translation>
+        <source>Show information about FLO Core</source>
+        <translation>FLOコアに関する情報を表示</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>あなたのウォレットの秘密鍵を暗号化します</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
-        <translation>あなたが所有していることを証明するために、あなたの Florincoin アドレスでメッセージに署名してください</translation>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
+        <translation>あなたが所有していることを証明するために、あなたの FLO アドレスでメッセージに署名してください</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
-        <translation>指定された Florincoin アドレスで署名されたことを確認するためにメッセージを検証します</translation>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
+        <translation>指定された FLO アドレスで署名されたことを確認するためにメッセージを検証します</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,15 +391,15 @@
         <translation>タブツールバー</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin のコア</translation>
+        <source>FLO Core</source>
+        <translation>FLO のコア</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and florincoin: URIs)</source>
         <translation>支払いを要求する (QRコードとflorincoin:ではじまるURIを生成する)</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
+        <source>&amp;About FLO Core</source>
         <translation>ライトコインコアについて (&amp;A)</translation>
     </message>
     <message>
@@ -419,12 +419,12 @@
         <translation>コマンドラインオプション (&amp;C)</translation>
     </message>
     <message>
-        <source>Show the Florincoin Core help message to get a list with possible Florincoin command-line options</source>
-        <translation>有効な Florincoin のコマンドライン オプションを見るために Florincoin Core のヘルプメッセージを表示します。</translation>
+        <source>Show the FLO Core help message to get a list with possible FLO command-line options</source>
+        <translation>有効な FLO のコマンドライン オプションを見るために FLO Core のヘルプメッセージを表示します。</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n の Florincoin ネットワークへのアクティブな接続</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n の FLO ネットワークへのアクティブな接続</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -787,8 +787,8 @@ Address: %4
         <translation>入力されたアドレス "%1" は既にアドレス帳にあります。</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>入力されたアドレス "%1" は無効な Florincoin アドレスです。</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>入力されたアドレス "%1" は無効な FLO アドレスです。</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -825,8 +825,8 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin のコア</translation>
+        <source>FLO Core</source>
+        <translation>FLO のコア</translation>
     </message>
     <message>
         <source>version</source>
@@ -837,8 +837,8 @@ Address: %4
         <translation>(%1ビット)</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>Florincoinコアについて</translation>
+        <source>About FLO Core</source>
+        <translation>FLOコアについて</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -884,16 +884,16 @@ Address: %4
         <translation>ようこそ</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
+        <source>Welcome to FLO Core.</source>
         <translation>ようこそ！</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Florincoin Core will store its data.</source>
-        <translation>これはプログラム最初の起動です。Florincoin Coreがデータを保存する場所を選択して下さい。</translation>
+        <source>As this is the first time the program is launched, you can choose where FLO Core will store its data.</source>
+        <translation>これはプログラム最初の起動です。FLO Coreがデータを保存する場所を選択して下さい。</translation>
     </message>
     <message>
-        <source>Florincoin Core will download and store a copy of the Florincoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Florincoin Coreは、ライトコインのブロックチェーンのコピーを、ダウンロードして保存します。少なくとも%1ギガバイトのデータが、このディレクトリに保存されます。そしてそれは時間と共に増加します。またウォレットもこのディレクトリに保存されます。</translation>
+        <source>FLO Core will download and store a copy of the FLO block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>FLO Coreは、ライトコインのブロックチェーンのコピーを、ダウンロードして保存します。少なくとも%1ギガバイトのデータが、このディレクトリに保存されます。そしてそれは時間と共に増加します。またウォレットもこのディレクトリに保存されます。</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -904,8 +904,8 @@ Address: %4
         <translation>任意のデータ ディレクトリを使用:</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin のコア</translation>
+        <source>FLO Core</source>
+        <translation>FLO のコア</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -958,12 +958,12 @@ Address: %4
         <translation>メイン (&amp;M)</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
-        <translation>システムにログインした時に自動的に Florincoin を起動します。</translation>
+        <source>Automatically start FLO after logging in to the system.</source>
+        <translation>システムにログインした時に自動的に FLO を起動します。</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
-        <translation>システムにログインした時に Florincoin を起動 (&amp;S)</translation>
+        <source>&amp;Start FLO on system login</source>
+        <translation>システムにログインした時に FLO を起動 (&amp;S)</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1038,16 +1038,16 @@ Address: %4
         <translation>未検証のおつりを使用する (&amp;S)</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自動的にルーター上の Florincoin クライアントのポートを開きます。あなたのルーターが UPnP に対応していて、それが有効になっている場合に作動します。</translation>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>自動的にルーター上の FLO クライアントのポートを開きます。あなたのルーターが UPnP に対応していて、それが有効になっている場合に作動します。</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>UPnP を使ってポートを割り当てる (&amp;U)</translation>
     </message>
     <message>
-        <source>Connect to the Florincoin network through a SOCKS5 proxy.</source>
-        <translation>SOCKS5 プロキシ経由でFlorincoinネットワークに接続する</translation>
+        <source>Connect to the FLO network through a SOCKS5 proxy.</source>
+        <translation>SOCKS5 プロキシ経由でFLOネットワークに接続する</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1094,8 +1094,8 @@ Address: %4
         <translation>ユーザインターフェースの言語 (&amp;l) :</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>ここでユーザインターフェースの言語を設定できます。設定を反映するには Florincoin を再起動します。</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>ここでユーザインターフェースの言語を設定できます。設定を反映するには FLO を再起動します。</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1153,8 +1153,8 @@ Address: %4
         <translation>フォーム</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>表示された情報は古いかもしれません。接続が確立されると、あなたのウォレットは Florincoin ネットワークと自動的に同期しますが、このプロセスはまだ完了していません。</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>表示された情報は古いかもしれません。接続が確立されると、あなたのウォレットは FLO ネットワークと自動的に同期しますが、このプロセスはまだ完了していません。</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1261,15 +1261,15 @@ Address: %4
     </message>
     <message>
         <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>Florincoin を起動できません: click-to-pay handler</translation>
+        <translation>FLO を起動できません: click-to-pay handler</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>支払い要求の取得先URLが無効です: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Florincoin address or malformed URI parameters.</source>
-        <translation>URI を解析できません! これは無効な Florincoin アドレスあるいや不正な形式の URI パラメーターによって引き起こされる場合があります。</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid FLO address or malformed URI parameters.</source>
+        <translation>URI を解析できません! これは無効な FLO アドレスあるいや不正な形式の URI パラメーターによって引き起こされる場合があります。</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1338,8 +1338,8 @@ Address: %4
         <translation>総額</translation>
     </message>
     <message>
-        <source>Enter a Florincoin address (e.g. %1)</source>
-        <translation>Florincoinアドレスを入力してください (例 %1)</translation>
+        <source>Enter a FLO address (e.g. %1)</source>
+        <translation>FLOアドレスを入力してください (例 %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1564,16 +1564,16 @@ Address: %4
         <translation>デバッグ用ログファイル</translation>
     </message>
     <message>
-        <source>Open the Florincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>現在のデータ ディレクトリから Florincoin のデバッグ用ログファイルを開きます。ログファイルが大規模な場合には数秒かかることがあります。</translation>
+        <source>Open the FLO debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>現在のデータ ディレクトリから FLO のデバッグ用ログファイルを開きます。ログファイルが大規模な場合には数秒かかることがあります。</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>コンソールをクリア</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Florincoin RPC コンソールへようこそ。</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>FLO RPC コンソールへようこそ。</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1647,8 +1647,8 @@ Address: %4
         <translation>既存の受取用アドレスを再利用する (非推奨) (&amp;E)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Florincoin network.</source>
-        <translation>支払リクエストが開始された時に表示される、支払リクエストに添える任意のメッセージです。注意：メッセージはFlorincoinネットワークを通じて、支払と共に送られるわけではありません。</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the FLO network.</source>
+        <translation>支払リクエストが開始された時に表示される、支払リクエストに添える任意のメッセージです。注意：メッセージはFLOネットワークを通じて、支払と共に送られるわけではありません。</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1884,7 +1884,7 @@ Address: %4
         <translation>最小手数料</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for florincoin transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for FLO transactions than the network can process.</source>
         <translation>ブロックの容量に比べてトランザクション流量が少ないうちは最小手数料のみの支払で十分です。しかしながらネットワークが処理しきれないほどflorincoinトランザクションの需要がひとたび生まれてしまった場合には、永遠に検証がされないトランザクションになってしまう可能性があることに注意してください。</translation>
     </message>
     <message>
@@ -2040,8 +2040,8 @@ Address: %4
         <translation>%1 ブロック以内に検証が終わると予想されます。</translation>
     </message>
     <message>
-        <source>Warning: Invalid Florincoin address</source>
-        <translation>警告：無効なFlorincoinアドレスです</translation>
+        <source>Warning: Invalid FLO address</source>
+        <translation>警告：無効なFLOアドレスです</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2091,8 +2091,8 @@ Address: %4
         <translation>これは通常の支払です。</translation>
     </message>
     <message>
-        <source>The Florincoin address to send the payment to</source>
-        <translation>支払の送金先Florincoinアドレス</translation>
+        <source>The FLO address to send the payment to</source>
+        <translation>支払の送金先FLOアドレス</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2123,8 +2123,8 @@ Address: %4
         <translation>このアドレスに対するラベルを入力することで、使用済みアドレスの一覧に追加することができます</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Florincoin network.</source>
-        <translation>florincoin: URIに添付されていたメッセージです。これは参照用としてトランザクションとともに保存されます。注意：このメッセージはFlorincoinネットワークを通して送信されるわけではありません。</translation>
+        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <translation>florincoin: URIに添付されていたメッセージです。これは参照用としてトランザクションとともに保存されます。注意：このメッセージはFLOネットワークを通して送信されるわけではありません。</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2142,8 +2142,8 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Florincoin Core is shutting down...</source>
-        <translation>Florincoin Coreをシャットダウンしています。</translation>
+        <source>FLO Core is shutting down...</source>
+        <translation>FLO Coreをシャットダウンしています。</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2165,8 +2165,8 @@ Address: %4
         <translation>あなた自身を立証するためにあなたのアドレスでメッセージに署名することができます。フィッシング攻撃によってあなたを騙して署名を譲渡させようとするかもしれないので、不明確なものは絶対に署名しないように注意してください。あなたが同意する完全に詳細な声明にだけ署名してください。</translation>
     </message>
     <message>
-        <source>The Florincoin address to sign the message with</source>
-        <translation>メッセージを署名するFlorincoinアドレス</translation>
+        <source>The FLO address to sign the message with</source>
+        <translation>メッセージを署名するFLOアドレス</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2197,8 +2197,8 @@ Address: %4
         <translation>現在の署名をシステムのクリップボードにコピーする</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
-        <translation>この Florincoin アドレスを所有していることを証明するためにメッセージに署名</translation>
+        <source>Sign the message to prove you own this FLO address</source>
+        <translation>この FLO アドレスを所有していることを証明するためにメッセージに署名</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2221,12 +2221,12 @@ Address: %4
         <translation>メッセージを検証するために、署名するアドレスとメッセージ(改行、スペース、タブなどを正確にコピーしてください)、そして署名を入力します。中間者攻撃によってだまされることを避けるために、署名されたメッセージそのものよりも、署名を読み取られないように注意してください。</translation>
     </message>
     <message>
-        <source>The Florincoin address the message was signed with</source>
-        <translation>メッセージの署名に使われたFlorincoinアドレス</translation>
+        <source>The FLO address the message was signed with</source>
+        <translation>メッセージの署名に使われたFLOアドレス</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Florincoin address</source>
-        <translation>指定された Florincoin アドレスで署名されたことを保証するメッセージを検証</translation>
+        <source>Verify the message to ensure it was signed with the specified FLO address</source>
+        <translation>指定された FLO アドレスで署名されたことを保証するメッセージを検証</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2292,8 +2292,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin のコア</translation>
+        <source>FLO Core</source>
+        <translation>FLO のコア</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2846,8 +2846,8 @@ Address: %4
         <translation>これはリリース前のテストビルドです - 各自の責任で利用すること - 採掘や商取引に使用しないでください</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Florincoin Core is probably already running.</source>
-        <translation>このコンピュータの %s にバインドすることができません。おそらく Florincoin Core は既に実行されています。</translation>
+        <source>Unable to bind to %s on this computer. FLO Core is probably already running.</source>
+        <translation>このコンピュータの %s にバインドすることができません。おそらく FLO Core は既に実行されています。</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -3031,8 +3031,8 @@ Address: %4
         <translation>指定されたアドレスに対して JSON-RPC 接続をリッスンしするようバインドします。IPv6の場合には [host]:port 表記を使用してください。このオプションは複数回指定することが可能です (初期値: すべてのインターフェースに対してバインドする)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Florincoin Core is probably already running.</source>
-        <translation>データ ディレクトリ %s のロックを取得することができません。おそらく Florincoin Core は実行中です。</translation>
+        <source>Cannot obtain a lock on data directory %s. FLO Core is probably already running.</source>
+        <translation>データ ディレクトリ %s のロックを取得することができません。おそらく FLO Core は実行中です。</translation>
     </message>
     <message>
         <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
@@ -3102,24 +3102,24 @@ Address: %4
         <source>To use florincoind, or the -server option to florincoin-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=florincoinrpc
+rpcuser=florpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Florincoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "FLO Alert" admin@foo.com
 </source>
         <translation>florincoindを用いる場合や、-server オプションをflorincoin-qtに指定する場合には、設定ファイルにrpcpasswordを設定しなければなりません:
 %s
 以下のランダムなパスワードを用いることが推奨されます:
-rpcuser=florincoinrpc
+rpcuser=florpc
 rpcpassword=%s
 (このパスワードを暗記する必要はありません)
 ユーザ名とパスワードは一致してはいけません。
 ファイルが存在しない場合には、所有者のみ読み込み可能なファイルパーミッションでファイルを作成してください。
 またalertnotifyを設定し、問題発生時に通知が行くようにすることをおすすめします;
-例: alertnotify=echo %%s | mail -s "Florincoinアラート" admin@foo.com
+例: alertnotify=echo %%s | mail -s "FLOアラート" admin@foo.com
 </translation>
     </message>
     <message>
@@ -3127,8 +3127,8 @@ rpcpassword=%s
         <translation>警告: -maxtxfee が非常に高く設定されています！ひとつのトランザクションでこの量の手数料が支払われてしまうことがあります。</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Florincoin Core will not work properly.</source>
-        <translation>警告： あなたのPCの日付と時刻が正しいことを確認して下さい！ もしあなたの時計が正しくなければFlorincoin Coreが正確に動作しません。</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong FLO Core will not work properly.</source>
+        <translation>警告： あなたのPCの日付と時刻が正しいことを確認して下さい！ もしあなたの時計が正しくなければFLO Coreが正確に動作しません。</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -3155,8 +3155,8 @@ rpcpassword=%s
         <translation>-rpcbind の値 %s をネットワークアドレスとして解釈できませんでした</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Florincoin Core</source>
-        <translation>wallet.dat の読み込みに失敗しました: ウォレットの読み込みにはより新しいバージョンの Florincoin Core が必要です</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of FLO Core</source>
+        <translation>wallet.dat の読み込みに失敗しました: ウォレットの読み込みにはより新しいバージョンの FLO Core が必要です</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3179,8 +3179,8 @@ rpcpassword=%s
         <translation>情報</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Florincoin Core is shutting down.</source>
-        <translation>初期化時の健全性チェックに失敗しました。Florincoin Coreを終了します。</translation>
+        <source>Initialization sanity check failed. FLO Core is shutting down.</source>
+        <translation>初期化時の健全性チェックに失敗しました。FLO Coreを終了します。</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3215,7 +3215,7 @@ rpcpassword=%s
         <translation>ノード中継オプション:</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Florincoin Wiki for SSL setup instructions)</source>
+        <source>RPC SSL options: (see the FLO Wiki for SSL setup instructions)</source>
         <translation>RPC SSL オプション: (SSLのセットアップ手順はライトコインWikiを参照してください)</translation>
     </message>
     <message>
@@ -3291,8 +3291,8 @@ rpcpassword=%s
         <translation>JSON-RPC 接続のユーザー名</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Florincoin Core to complete</source>
-        <translation>ウォレットが書き直される必要がありました: 完了するために Florincoin Core を再起動します</translation>
+        <source>Wallet needed to be rewritten: restart FLO Core to complete</source>
+        <translation>ウォレットが書き直される必要がありました: 完了するために FLO Core を再起動します</translation>
     </message>
     <message>
         <source>Warning</source>

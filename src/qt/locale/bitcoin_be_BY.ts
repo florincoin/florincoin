@@ -66,12 +66,12 @@
         <translation>адрасы Прымання</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Тут знаходзяцца Florincoin-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Тут знаходзяцца FLO-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Тут знаходзяцца Florincoin-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Тут знаходзяцца FLO-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Пацвердзіце шыфраванне гаманца</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Увага: калі вы зашыфруеце свой гаманец і страціце парольную фразу, то &lt;b&gt;СТРАЦІЦЕ ЎСЕ СВАЕ FLORINCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Увага: калі вы зашыфруеце свой гаманец і страціце парольную фразу, то &lt;b&gt;СТРАЦІЦЕ ЎСЕ СВАЕ FLOS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Увядзіце новы пароль для гаманца.&lt;br/&gt;Парольная фраза павинна складацца&lt;b&gt; не меньш чым з дзесяці сімвалаў&lt;/b&gt;, ці &lt;b&gt;больш чым з васьмі слоў&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin зачыняецца дзеля завяршэння працэсса шыфравання. Памятайце, што шыфраванне гаманца цалкам абараняе вашыя сродкі ад скрадання шкоднымі праграмамі якія могуць пранікнуць у ваш камп'ютар.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO зачыняецца дзеля завяршэння працэсса шыфравання. Памятайце, што шыфраванне гаманца цалкам абараняе вашыя сродкі ад скрадання шкоднымі праграмамі якія могуць пранікнуць у ваш камп'ютар.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Адчыниць &amp;URI...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Florincoin Core кліент</translation>
+        <source>FLO Core client</source>
+        <translation>FLO Core кліент</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,8 +307,8 @@
         <translation>Пераіндэксацыя блокаў на дыску...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Даслаць манеты на Florincoin-адрас</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Даслаць манеты на FLO-адрас</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -331,8 +331,8 @@
         <translation>Праверыць паведамленне...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -347,8 +347,8 @@
         <translation>Атрымаць</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>Паказаць інфармацыю аб Florincoin Core</translation>
+        <source>Show information about FLO Core</source>
+        <translation>Паказаць інфармацыю аб FLO Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -363,12 +363,12 @@
         <translation>Зашыфраваць прыватныя ключы, якия належаць вашаму гаманцу</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
-        <translation>Падпісаць паведамленне з дапамогай Florincoin-адраса каб даказаць, што яно належыць вам</translation>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
+        <translation>Падпісаць паведамленне з дапамогай FLO-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
-        <translation>Спраўдзіць паведамленне з дапамогай Florincoin-адраса каб даказаць, што яно належыць вам</translation>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
+        <translation>Спраўдзіць паведамленне з дапамогай FLO-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -383,16 +383,16 @@
         <translation>Дапамога</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Запатрабаваць плацёж (генеруецца QR-код для florincoin URI)</translation>
+        <translation>Запатрабаваць плацёж (генеруецца QR-код для FLO URI)</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>Аб Florincoin Core</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>Аб FLO Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,12 +411,12 @@
         <translation>Опцыі каманднага радка</translation>
     </message>
     <message>
-        <source>Show the Florincoin Core help message to get a list with possible Florincoin command-line options</source>
-        <translation>Паказваць даведку Florincoin Core каб атрымаць спіс магчымых опцый каманднага радка</translation>
+        <source>Show the FLO Core help message to get a list with possible FLO command-line options</source>
+        <translation>Паказваць даведку FLO Core каб атрымаць спіс магчымых опцый каманднага радка</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n актыўнае злучэнне з Florincoin-сецівам</numerusform><numerusform>%n актыўных злучэнняў з Florincoin-сецівам</numerusform><numerusform>%n актыўных злучэнняў з Florincoin-сецівам</numerusform><numerusform>%n актыўных злучэнняў з Florincoin-сецівам</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n актыўнае злучэнне з FLO-сецівам</numerusform><numerusform>%n актыўных злучэнняў з FLO-сецівам</numerusform><numerusform>%n актыўных злучэнняў з FLO-сецівам</numerusform><numerusform>%n актыўных злучэнняў з FLO-сецівам</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -742,16 +742,16 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-біт)</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>Аб Florincoin Core</translation>
+        <source>About FLO Core</source>
+        <translation>Аб FLO Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -777,12 +777,12 @@ Address: %4
         <translation>Вітаем</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>Вітаем у Florincoin Core.</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>Вітаем у FLO Core.</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1033,8 +1033,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>

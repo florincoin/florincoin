@@ -58,12 +58,12 @@
         <translation>Address king pamag-Tanggap</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Reni reng kekang Florincoin address king pamagpadalang kabayaran. Lawan mulang masalese reng alaga ampo ing address na ning tumanggap bayu ka magpadalang barya.</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Reni reng kekang FLO address king pamagpadalang kabayaran. Lawan mulang masalese reng alaga ampo ing address na ning tumanggap bayu ka magpadalang barya.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Reni reng kekang Florincoin addresses keng pamananggap bayad. Rerekomenda mi na gumamit kang bayung address keng balang transaksiyon.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Reni reng kekang FLO addresses keng pamananggap bayad. Rerekomenda mi na gumamit kang bayung address keng balang transaksiyon.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -144,8 +144,8 @@
         <translation>Kumpirman ya ing wallet encryption</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Kapabaluan: Istung in-encrypt me ing kekang wallet at meala ya ing passphrase na, ma-&lt;b&gt;ALA NO NGAN RING KEKANG FLORINCOINS&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Kapabaluan: Istung in-encrypt me ing kekang wallet at meala ya ing passphrase na, ma-&lt;b&gt;ALA NO NGAN RING KEKANG FLOS&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -164,8 +164,8 @@
         <translation>Me-encrypt ne ing wallet</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Ing Florincoin ngeni magsara ya ban ayari ing proseso ning pamag-encrypt. Tandanan yu king pamag-encrypt wallet, ali nala aprotektan king kabuuan reng florincoins yu kareng malware a kasalunsungan atiu kareng computer yu.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>Ing FLO ngeni magsara ya ban ayari ing proseso ning pamag-encrypt. Tandanan yu king pamag-encrypt wallet, ali nala aprotektan king kabuuan reng florincoins yu kareng malware a kasalunsungan atiu kareng computer yu.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -255,12 +255,12 @@
         <translation>&amp;Alilan ing Passphrase...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Magpadalang barya king Florincoin address</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Magpadalang barya king FLO address</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>Alilan ing pipamilian konpigurasion para keng Florincoin</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>Alilan ing pipamilian konpigurasion para keng FLO</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -283,8 +283,8 @@
         <translation>&amp;Beripikan ing message...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -315,8 +315,8 @@
         <translation>Gamit para king Tabs</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Kapilubluban ning Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Kapilubluban ning FLO</translation>
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
@@ -448,8 +448,8 @@ Address: %4
         <translation>Ing pepalub yung address "%1" ati na yu king aklat dareng address</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>Ing pepalub yung address "%1" ali ya katanggap-tanggap a Florincoin address.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>Ing pepalub yung address "%1" ali ya katanggap-tanggap a FLO address.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -466,8 +466,8 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Kapilubluban ning Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Kapilubluban ning FLO</translation>
     </message>
     <message>
         <source>version</source>
@@ -509,8 +509,8 @@ Address: %4
         <translation>Malaus ka</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Kapilubluban ning Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Kapilubluban ning FLO</translation>
     </message>
     <message>
         <source>Error</source>
@@ -531,20 +531,20 @@ Address: %4
         <translation>&amp;Pun</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
-        <translation>Umpisan yang antimu ing Florincoin kaibat mekapag-log in king sistema.</translation>
+        <source>Automatically start FLO after logging in to the system.</source>
+        <translation>Umpisan yang antimu ing FLO kaibat mekapag-log in king sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
-        <translation>&amp;Umpisan ya ing Florincoin king pamag-log-in na ning sistema.</translation>
+        <source>&amp;Start FLO on system login</source>
+        <translation>&amp;Umpisan ya ing FLO king pamag-log-in na ning sistema.</translation>
     </message>
     <message>
         <source>&amp;Network</source>
         <translation>&amp;Network</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ibuklat yang antimanu ing Florincoin client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ibuklat yang antimanu ing FLO client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -591,8 +591,8 @@ Address: %4
         <translation>Amanu na ning user interface:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>Ing amanu na ning user interface maliari yang i-ayus o ilage keni. Ing ayus a ini magsilbi yamu istung pesibayuan meng pasibayu ing Florincoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>Ing amanu na ning user interface maliari yang i-ayus o ilage keni. Ing ayus a ini magsilbi yamu istung pesibayuan meng pasibayu ing FLO.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -626,8 +626,8 @@ Address: %4
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng Florincoin network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng FLO network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -745,16 +745,16 @@ Address: %4
         <translation>Debug log file</translation>
     </message>
     <message>
-        <source>Open the Florincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ibuklat ing Florincoin debug log file menibat king kasalungsungan data directory. Magluat ya ining pilan segundu para kareng mamaragul a log files.</translation>
+        <source>Open the FLO debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ibuklat ing FLO debug log file menibat king kasalungsungan data directory. Magluat ya ining pilan segundu para kareng mamaragul a log files.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>I-Clear ing console</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Malaus kayu king Florincoin RPC console.</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>Malaus kayu king FLO RPC console.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -958,8 +958,8 @@ Address: %4
         <translation>Kopyan ing kasalungsungan pirma king system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
-        <translation>Pirman ing mensayi ban patune na keka ya ining Florincoin address</translation>
+        <source>Sign the message to prove you own this FLO address</source>
+        <translation>Pirman ing mensayi ban patune na keka ya ining FLO address</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -978,8 +978,8 @@ Address: %4
         <translation>&amp;Beripikan ing Mensayi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Florincoin address</source>
-        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling Florincoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified FLO address</source>
+        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling FLO address</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1045,8 +1045,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Kapilubluban ning Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Kapilubluban ning FLO</translation>
     </message>
     <message>
         <source>[testnet]</source>

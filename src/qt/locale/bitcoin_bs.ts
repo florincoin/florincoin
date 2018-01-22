@@ -11,12 +11,12 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Jezrga</translation>
+        <source>FLO Core</source>
+        <translation>FLO Jezrga</translation>
     </message>
     </context>
 <context>
@@ -34,15 +34,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Jezrga</translation>
+        <source>FLO Core</source>
+        <translation>FLO Jezrga</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Jezrga</translation>
+        <source>FLO Core</source>
+        <translation>FLO Jezrga</translation>
     </message>
     </context>
 <context>
@@ -109,8 +109,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Jezrga</translation>
+        <source>FLO Core</source>
+        <translation>FLO Jezrga</translation>
     </message>
     </context>
 <context>

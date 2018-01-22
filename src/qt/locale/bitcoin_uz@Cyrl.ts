@@ -66,12 +66,12 @@
         <translation>Қабул қилинадиган манзиллар</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Улар тўловларни жўнатиш учун сизнинг Florincoin манзилларингиз. Доимо тангаларни жўнатишдан олдин сумма ва қабул қилувчи манзилни текшириб кўринг. </translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Улар тўловларни жўнатиш учун сизнинг FLO манзилларингиз. Доимо тангаларни жўнатишдан олдин сумма ва қабул қилувчи манзилни текшириб кўринг. </translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Улар тўловларни қабул қилиш учун сизнинг Florincoin манзилларингиз. Ҳар бир ўтказма учун янги қабул қилувчи манзилдан фойдаланиш тавсия қилинади.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Улар тўловларни қабул қилиш учун сизнинг FLO манзилларингиз. Ҳар бир ўтказма учун янги қабул қилувчи манзилдан фойдаланиш тавсия қилинади.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Ҳамённи кодлашни тасдиқлаш</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Диққат: Агар сиз ҳамёнингизни кодласангиз ва махфий сўзингизни унутсангиз, сиз &lt;b&gt;БАРЧА FLORINCOIN ПУЛЛАРИНГИЗНИ ЙЎҚОТАСИЗ&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Диққат: Агар сиз ҳамёнингизни кодласангиз ва махфий сўзингизни унутсангиз, сиз &lt;b&gt;БАРЧА FLO ПУЛЛАРИНГИЗНИ ЙЎҚОТАСИЗ&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Ҳамёнга янги махфий сўз киритинг.&lt;br/&gt;Илтимос, &lt;b&gt;ўнта ёки тасодифий белгили&lt;/b&gt; махфий сўздан фойдаланинг ёки &lt;b&gt;саккизта ёки кўпроқ сўзлар&lt;/b&gt;дан фойдаланинг.</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin кодлаш жараёнини тугатиш учун ёпилади. Ёдда сақланг: ҳамёнингизни кодлаш компьютерингизни зарарлаган зарарли дастурлар томонидан florincoin тангаларингизни ўғирланишидан тўлиқ ҳимоя қила олмайди.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO кодлаш жараёнини тугатиш учун ёпилади. Ёдда сақланг: ҳамёнингизни кодлаш компьютерингизни зарарлаган зарарли дастурлар томонидан FLO тангаларингизни ўғирланишидан тўлиқ ҳимоя қила олмайди.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Интернет манзилни очиш</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Florincoin асос мижози</translation>
+        <source>FLO Core client</source>
+        <translation>FLO асос мижози</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Дискдаги блоклар қайта индексланмоқда...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Тангаларни Florincoin манзилига жўнатиш</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Тангаларни FLO манзилига жўнатиш</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>Florincoin учун мослаш танловларини ўзгартириш</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>FLO учун мослаш танловларини ўзгартириш</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>Хабарни &amp;тасдиқлаш...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>&amp;Қабул қилиш</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>Florincoin Core ҳақидаги маълумотларни кўрсатиш</translation>
+        <source>Show information about FLO Core</source>
+        <translation>FLO Core ҳақидаги маълумотларни кўрсатиш</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>Ҳамёнингизга тегишли махфий калитларни кодлаш</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
-        <translation>Florincoin манзилидан унинг эгаси эканлигингизни исботлаш учун хабарлар ёзинг</translation>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
+        <translation>FLO манзилидан унинг эгаси эканлигингизни исботлаш учун хабарлар ёзинг</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
-        <translation>Хабарларни махсус Florincoin манзилларингиз билан ёзилганлигига ишонч ҳосил қилиш учун уларни тасдиқланг</translation>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
+        <translation>Хабарларни махсус FLO манзилларингиз билан ёзилганлигига ишонч ҳосил қилиш учун уларни тасдиқланг</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Ички ойналар асбоблар панели</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Тўловлар (QR кодлари ва florincoin ёрдамида яратишлар: URI’лар) сўраш</translation>
+        <translation>Тўловлар (QR кодлари ва FLO ёрдамида яратишлар: URI’лар) сўраш</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>Florincoin Core &amp;ҳақида</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>FLO Core &amp;ҳақида</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -412,19 +412,19 @@
     </message>
     <message>
         <source>Open a florincoin: URI or payment request</source>
-        <translation>Florincoin’ни очиш: URI ёки тўлов сўрови</translation>
+        <translation>FLO’ни очиш: URI ёки тўлов сўрови</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Буйруқлар сатри мосламалари</translation>
     </message>
     <message>
-        <source>Show the Florincoin Core help message to get a list with possible Florincoin command-line options</source>
-        <translation>Мавжуд Florincoin буйруқлар матни мосламалари билан  Florincoin Core ёрдам хабарларини олиш рўйхатини кўрсатиш</translation>
+        <source>Show the FLO Core help message to get a list with possible FLO command-line options</source>
+        <translation>Мавжуд FLO буйруқлар матни мосламалари билан  FLO Core ёрдам хабарларини олиш рўйхатини кўрсатиш</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n та Florincoin тармоғига фаол уланиш мавжуд</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n та FLO тармоғига фаол уланиш мавжуд</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -772,8 +772,8 @@ Address: %4
         <translation>Киритилган "%1" манзили аллақачон манзил китобида.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>Киритилган "%1" манзили тўғри Florincoin манзили эмас.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>Киритилган "%1" манзили тўғри FLO манзили эмас.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -810,8 +810,8 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -822,8 +822,8 @@ Address: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>Florincoin Core ҳақида</translation>
+        <source>About FLO Core</source>
+        <translation>FLO Core ҳақида</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -857,16 +857,16 @@ Address: %4
         <translation>Хуш келибсиз</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>"Florincoin Core"га хуш келибсиз.</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>"FLO Core"га хуш келибсиз.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Florincoin Core will store its data.</source>
-        <translation>Биринчи марта дастур ишга тушгани каби сиз Florincoin Core маълумотларини жойлаштирадиган жойни танлашингиз мумкин.</translation>
+        <source>As this is the first time the program is launched, you can choose where FLO Core will store its data.</source>
+        <translation>Биринчи марта дастур ишга тушгани каби сиз FLO Core маълумотларини жойлаштирадиган жойни танлашингиз мумкин.</translation>
     </message>
     <message>
-        <source>Florincoin Core will download and store a copy of the Florincoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Florincoin Core юклаб олинади ва Florincoin блок занжири нусхаси жойлаштирилади. Камида %1GB  маълумот ушбу директорияга жойлаштирилади ва вақт давомида ўсиб боради. Ҳамён ҳам ушбу директорияда жойлашади.</translation>
+        <source>FLO Core will download and store a copy of the FLO block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>FLO Core юклаб олинади ва FLO блок занжири нусхаси жойлаштирилади. Камида %1GB  маълумот ушбу директорияга жойлаштирилади ва вақт давомида ўсиб боради. Ҳамён ҳам ушбу директорияда жойлашади.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -877,8 +877,8 @@ Address: %4
         <translation>Бошқа маълумотлар директориясида фойдаланинг:</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -923,12 +923,12 @@ Address: %4
         <translation>&amp;Асосий</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
-        <translation>Тизимга киргандан сўнг Florincoin дастури автоматик ишга туширилсин.</translation>
+        <source>Automatically start FLO after logging in to the system.</source>
+        <translation>Тизимга киргандан сўнг FLO дастури автоматик ишга туширилсин.</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
-        <translation>Тизимга кирганда Florincoin &amp;ишга туширилсин</translation>
+        <source>&amp;Start FLO on system login</source>
+        <translation>Тизимга кирганда FLO &amp;ишга туширилсин</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -999,8 +999,8 @@ Address: %4
         <translation>Фойдаланувчи интерфейси &amp;тили:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>Фойдаланувчи тили интерфесини шу ерда ўрнатиш мумкин. TУшбу созлама Florincoin қайта ишга туширилганда кучга киради.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>Фойдаланувчи тили интерфесини шу ерда ўрнатиш мумкин. TУшбу созлама FLO қайта ишга туширилганда кучга киради.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1050,8 +1050,8 @@ Address: %4
         <translation>Шакл</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Кўрсатилган маълумот эскирган бўлиши мумкин. Ҳамёнингиз алоқа ўрнатилгандан сўнг Florincoin тармоқ билан автоматик тарзда синхронланади, аммо жараён ҳалигача тугалланмади.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>Кўрсатилган маълумот эскирган бўлиши мумкин. Ҳамёнингиз алоқа ўрнатилгандан сўнг FLO тармоқ билан автоматик тарзда синхронланади, аммо жараён ҳалигача тугалланмади.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1163,8 +1163,8 @@ Address: %4
         <translation>Миқдори</translation>
     </message>
     <message>
-        <source>Enter a Florincoin address (e.g. %1)</source>
-        <translation>Florincoin манзилини киритинг (масалан.  %1)</translation>
+        <source>Enter a FLO address (e.g. %1)</source>
+        <translation>FLO манзилини киритинг (масалан.  %1)</translation>
     </message>
     <message>
         <source>%1 m</source>
@@ -1361,16 +1361,16 @@ Address: %4
         <translation>Тузатиш журнали файли</translation>
     </message>
     <message>
-        <source>Open the Florincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Жорий махлумотлар директориясидан Florincoin тузатиш журнали файлини очинг. Бу катта журнал файллари учун бир неча сонияни олиши мумкин.</translation>
+        <source>Open the FLO debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Жорий махлумотлар директориясидан FLO тузатиш журнали файлини очинг. Бу катта журнал файллари учун бир неча сонияни олиши мумкин.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Терминални тозалаш</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Florincoin RPC терминлга хуш келибсиз.</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>FLO RPC терминлга хуш келибсиз.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1729,8 +1729,8 @@ Address: %4
         <translation>Тўлов миқдори 0. дан катта бўлиши керак. </translation>
     </message>
     <message>
-        <source>Warning: Invalid Florincoin address</source>
-        <translation>Диққат: Нотўғр Florincoin манзили</translation>
+        <source>Warning: Invalid FLO address</source>
+        <translation>Диққат: Нотўғр FLO манзили</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1837,8 +1837,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
