@@ -742,7 +742,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString& text)
         }
         else if (!addr.IsValid()) // Invalid address
         {
-            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid Florincoin address"));
+            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid FLO address"));
         }
         else // Valid address
         {

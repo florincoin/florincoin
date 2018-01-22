@@ -228,10 +228,10 @@ Value stop(const Array& params, bool fHelp)
     if (fHelp || params.size() > 1)
         throw runtime_error(
             "stop\n"
-            "\nStop Florincoin server.");
+            "\nStop FLO server.");
     // Shutdown will take long enough that the response should get back
     StartShutdown();
-    return "Florincoin server stopping";
+    return "FLO server stopping";
 }
 
 
@@ -575,13 +575,13 @@ void StartRPCThreads()
             _("To use florincoind, or the -server option to florincoin-qt, you must set an rpcpassword in the configuration file:\n"
               "%s\n"
               "It is recommended you use the following random password:\n"
-              "rpcuser=florincoinrpc\n"
+              "rpcuser=florpc\n"
               "rpcpassword=%s\n"
               "(you do not need to remember this password)\n"
               "The username and password MUST NOT be the same.\n"
               "If the file does not exist, create it with owner-readable-only file permissions.\n"
               "It is also recommended to set alertnotify so you are notified of problems;\n"
-              "for example: alertnotify=echo %%s | mail -s \"Florincoin Alert\" admin@foo.com\n"),
+              "for example: alertnotify=echo %%s | mail -s \"FLO Alert\" admin@foo.com\n"),
                 GetConfigFile().string(),
                 EncodeBase58(&rand_pwd[0],&rand_pwd[0]+32)),
                 "", CClientUIInterface::MSG_ERROR | CClientUIInterface::SECURE);

@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Florincoin"
-            VALUE "FileDescription",    "Florincoind (OSS daemon/client for Florincoin)"
+            VALUE "CompanyName",        "FLO"
+            VALUE "FileDescription",    "Florincoind (OSS daemon/client for FLO)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "florincoind"
             VALUE "LegalCopyright",     COPYRIGHT_STR

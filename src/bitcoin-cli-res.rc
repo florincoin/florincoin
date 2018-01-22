@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Florincoin"
-            VALUE "FileDescription",    "Florincoin-cli (OSS RPC client for Florincoin)"
+            VALUE "CompanyName",        "FLO"
+            VALUE "FileDescription",    "Florincoin-cli (OSS RPC client for FLO)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "florincoin-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR

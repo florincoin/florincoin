@@ -1,4 +1,4 @@
-Florincoin - the first coin to feature transaction comments
+FLO - the first coin to feature transaction comments
 
  - Fast block generation: 40 second block targets
  - subsidy halves in 800k blocks (~1 year)
