@@ -391,7 +391,7 @@
         <translation>ליבת לייטקוין</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
         <translation>בקשת תשלומים (יצירה של קודים מסוג QR וסכימות כתובות משאב של :florincoin)</translation>
     </message>
     <message>
@@ -407,7 +407,7 @@
         <translation>הצגת רשימת הכתובות והתוויות הנמצאות בשימוש</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
+        <source>Open a flo: URI or payment request</source>
         <translation>פתיחת לייטקוין: כתובת משאב או בקשת תשלום</translation>
     </message>
     <message>
@@ -1200,7 +1200,7 @@ Address: %4
         <translation>שגיאה בבקשת תשלום</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>לא ניתן להתחיל את לייטקוין: טיפול בלחיצה–לתשלום </translation>
     </message>
     <message>
@@ -1967,7 +1967,7 @@ Address: %4
         <translation>יש להזין תווית עבור כתובת זו כדי להוסיף אותה לרשימת הכתובות בשימוש</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
         <translation>הודעה שצורפה ללייטקוין: כתובת שתאוחסן בהעברה לצורך מעקב מצדך. לתשומת לבך: הודעה זו לא תישלח ברשת ללייטקוין.</translation>
     </message>
     <message>

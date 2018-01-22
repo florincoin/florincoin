@@ -395,8 +395,8 @@
         <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Forespør betalinger (genererer QR-koder og florincoin: URIer)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Forespør betalinger (genererer QR-koder og flo: URIer)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -411,7 +411,7 @@
         <translation>Vis listen over bruke mottaksadresser og merkelapper</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
+        <source>Open a flo: URI or payment request</source>
         <translation>Åpne en FLO: URI eller betalingsetterspørring</translation>
     </message>
     <message>
@@ -1261,7 +1261,7 @@ Adresse: %4
         <translation>Betalingsetterspørringsfeil</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>Kan ikke starte FLO: klikk-og-betal håndterer</translation>
     </message>
     <message>
@@ -2124,7 +2124,7 @@ Adresse: %4
         <translation>Skriv inn en merkelapp for denne adressen for å legge den til listen av brukte adresser</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
         <translation>En melding som var tilknyttet florincoinen: URI vil bli lagret med transaksjonen for din oversikt. Denne meldingen vil ikke bli sendt over FLO-nettverket.</translation>
     </message>
     <message>

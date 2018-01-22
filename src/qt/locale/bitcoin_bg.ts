@@ -383,8 +383,8 @@
         <translation>FLO ядро</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Изискване на плащания(генерира QR кодове и florincoin: URIs)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Изискване на плащания(генерира QR кодове и flo: URIs)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -399,8 +399,8 @@
         <translation>Покажи списък с използваните адреси и имена.</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Отворете florincoin: URI  или заявка за плащане</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Отворете flo: URI  или заявка за плащане</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1133,7 +1133,7 @@ Address: %4
         <translation>Възникна грешка по време назаявката за плащане</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>FLO не можe да се стартира: click-to-pay handler</translation>
     </message>
     <message>

@@ -395,7 +395,7 @@
         <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
         <translation>Тўловлар (QR кодлари ва FLO ёрдамида яратишлар: URI’лар) сўраш</translation>
     </message>
     <message>
@@ -411,7 +411,7 @@
         <translation>Фойдаланилган қабул қилинган манзиллар ва ёрлиқлар рўйхатини кўрсатиш</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
+        <source>Open a flo: URI or payment request</source>
         <translation>FLO’ни очиш: URI ёки тўлов сўрови</translation>
     </message>
     <message>

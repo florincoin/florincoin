@@ -359,8 +359,8 @@
         <translation>Core de FLO</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Solicitar pagos (xenera códigos QR e florincoin: URIs)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Solicitar pagos (xenera códigos QR e flo: URIs)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -375,8 +375,8 @@
         <translation>Amosar a listaxe de etiquetas e direccións para recibir empregadas</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Abrir un florincoin: URI ou solicitude de pago</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Abrir un flo: URI ou solicitude de pago</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to FLO network</source>

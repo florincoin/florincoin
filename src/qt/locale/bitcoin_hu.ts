@@ -395,8 +395,8 @@
         <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Fizetési kérelem (QR-kódot és "florincoin:" URI azonosítót hoz létre)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Fizetési kérelem (QR-kódot és "flo:" URI azonosítót hoz létre)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -411,8 +411,8 @@
         <translation>A használt fogadó címek és címkék megtekintése</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>"florincoin:" URI azonosító vagy fizetési kérelem megnyitása</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>"flo:" URI azonosító vagy fizetési kérelem megnyitása</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1150,7 +1150,7 @@ Cím: %4
         <translation>URI kezelés</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>A florincoint nem lehet elindítani: click-to-pay handler</translation>
     </message>
     </context>

@@ -395,8 +395,8 @@
         <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Richiedi pagamenti (genera codici QR e florincoin: URI)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Richiedi pagamenti (genera codici QR e flo: URI)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -411,8 +411,8 @@
         <translation>Mostra la lista degli indirizzi di ricezione utilizzati</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Apri un florincoin: URI o una richiesta di pagamento</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Apri un flo: URI o una richiesta di pagamento</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1255,8 +1255,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Errore di richiesta di pagamento</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>Impossibile avviare florincoin: gestore click-to-pay</translation>
+        <source>Cannot start flo: click-to-pay handler</source>
+        <translation>Impossibile avviare flo: gestore click-to-pay</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2114,7 +2114,7 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Inserisci un'etichetta per questo indirizzo per aggiungerlo alla lista degli indirizzi utilizzati</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
         <translation>Messaggio incluso nel FLO URI e che sarà memorizzato con la transazione per vostro riferimento. Nota: Questo messaggio non sarà inviato attraverso la rete FLO.</translation>
     </message>
     <message>

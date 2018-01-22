@@ -685,7 +685,7 @@ Inscriptio: %4
         <translation>Tractatio URI</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>FLO incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
     </context>

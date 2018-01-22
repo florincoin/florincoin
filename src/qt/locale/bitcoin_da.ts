@@ -395,8 +395,8 @@
         <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Anmod om betalinger (genererer QR-koder og "florincoin:"-URI'er)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Anmod om betalinger (genererer QR-koder og "flo:"-URI'er)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -411,8 +411,8 @@
         <translation>Vis listen over brugte modtagelsesadresser og -mærkater</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Åbn en "florincoin:"-URI eller betalingsanmodning</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Åbn en "flo:"-URI eller betalingsanmodning</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1257,8 +1257,8 @@ Adresse: %4
         <translation>Fejl i betalingsanmodning</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>Kan ikke starte florincoin: click-to-pay-håndtering</translation>
+        <source>Cannot start flo: click-to-pay handler</source>
+        <translation>Kan ikke starte flo: click-to-pay-håndtering</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2120,7 +2120,7 @@ Adresse: %4
         <translation>Indtast et mærkat for denne adresse for at føje den til listen over brugte adresser</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
         <translation>En besked, som blev føjet til "bitcon:"-URI'en, som vil gemmes med transaktionen til din reference. Bemærk: Denne besked vil ikke blive sendt over FLO-netværket.</translation>
     </message>
     <message>

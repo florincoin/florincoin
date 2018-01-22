@@ -395,7 +395,7 @@
         <translation>FLO Çekirdeği</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
         <translation>Ödeme talep et (QR kodu ve FLO URI'si oluşturur)</translation>
     </message>
     <message>
@@ -411,8 +411,8 @@
         <translation>Kullanılmış alım adresleri ve etiketlerin listesini göster</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Bir florincoin: bağlantısı ya da ödeme talebi aç</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Bir flo: bağlantısı ya da ödeme talebi aç</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1261,7 +1261,7 @@ Adres: %4
         <translation>Ödeme talebi hatası</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>FLO başlatılamadı: tıkla-ve-öde yöneticisi</translation>
     </message>
     <message>
@@ -2120,7 +2120,7 @@ Adres: %4
         <translation>Kullanılmış adres listesine eklemek için bu adrese bir etiket girin</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
         <translation>FLO: URI'siyle ilişkili ve bilginiz için muameleyle saklanacak bir mesaj. Not: Bu mesaj FLO şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>

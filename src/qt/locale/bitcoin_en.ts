@@ -503,7 +503,7 @@
     </message>
     <message>
         <location line="+155"/>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -523,7 +523,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>Open a florincoin: URI or payment request</source>
+        <source>Open a flo: URI or payment request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1618,7 +1618,7 @@ Address: %4
     </message>
     <message>
         <location line="-400"/>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2728,7 +2728,7 @@ Address: %4
     </message>
     <message>
         <location line="+33"/>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

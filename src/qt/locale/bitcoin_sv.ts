@@ -396,7 +396,7 @@ Var vänlig och försök igen.</translation>
         <translation>FLO Kärna</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
         <translation>Begär betalning (genererar QR-koder och florincoin-URI)</translation>
     </message>
     <message>
@@ -412,8 +412,8 @@ Var vänlig och försök igen.</translation>
         <translation>Visa listan av använda mottagningsadresser och etiketter</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Öppna en florincoin: URI eller betalningsbegäran</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Öppna en flo: URI eller betalningsbegäran</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1258,8 +1258,8 @@ Adress: %4
         <translation>Fel vid betalningsbegäran</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>Kan inte starta florincoin: klicka-och-betala handhavare</translation>
+        <source>Cannot start flo: click-to-pay handler</source>
+        <translation>Kan inte starta flo: klicka-och-betala handhavare</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2117,7 +2117,7 @@ Adress: %4
         <translation>Ange en etikett för denna adress att adderas till listan över använda adresser</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
         <translation>Ett meddelande som bifogades florincoin-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas över FLOnätverket.</translation>
     </message>
     <message>

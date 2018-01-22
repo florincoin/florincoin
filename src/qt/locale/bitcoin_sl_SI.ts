@@ -387,8 +387,8 @@
         <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Ustvarjanje zahtevka za plačilo (izdelava QR kode in florincoin: URI naslova)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Ustvarjanje zahtevka za plačilo (izdelava QR kode in flo: URI naslova)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -403,7 +403,7 @@
         <translation>Prikaži seznam uporabljenih sprejemnih naslovov in oznak</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
+        <source>Open a flo: URI or payment request</source>
         <translation>Odpri FLO: URI ali zahteva o plačilu</translation>
     </message>
     <message>
@@ -1225,8 +1225,8 @@ Naslov: %4
         <translation>Napaka pri zahtevi plačila</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>Ni mogoče zagnati upravitelja plačil na klik tipa florincoin:.</translation>
+        <source>Cannot start flo: click-to-pay handler</source>
+        <translation>Ni mogoče zagnati upravitelja plačil na klik tipa flo:.</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2040,8 +2040,8 @@ Naslov: %4
         <translation>Vnesite oznako za ta naslov, ki bo shranjena v seznam uporabljenih naslovov</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
-        <translation>Sporočilo, ki ste ga pripeli na URI florincoin: in bo shranjeno skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja FLO.</translation>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <translation>Sporočilo, ki ste ga pripeli na URI flo: in bo shranjeno skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja FLO.</translation>
     </message>
     <message>
         <source>Pay To:</source>

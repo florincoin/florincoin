@@ -395,8 +395,8 @@
         <translation>FLO のコア</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>支払いを要求する (QRコードとflorincoin:ではじまるURIを生成する)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>支払いを要求する (QRコードとflo:ではじまるURIを生成する)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -411,8 +411,8 @@
         <translation>支払いを受け取るアドレスとラベルのリストを表示する</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>florincoin: URIまたは支払いリクエストを開く</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>flo: URIまたは支払いリクエストを開く</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1260,7 +1260,7 @@ Address: %4
         <translation>支払いのリクエストのエラーです</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>FLO を起動できません: click-to-pay handler</translation>
     </message>
     <message>
@@ -2123,8 +2123,8 @@ Address: %4
         <translation>このアドレスに対するラベルを入力することで、使用済みアドレスの一覧に追加することができます</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
-        <translation>florincoin: URIに添付されていたメッセージです。これは参照用としてトランザクションとともに保存されます。注意：このメッセージはFLOネットワークを通して送信されるわけではありません。</translation>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <translation>flo: URIに添付されていたメッセージです。これは参照用としてトランザクションとともに保存されます。注意：このメッセージはFLOネットワークを通して送信されるわけではありません。</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>

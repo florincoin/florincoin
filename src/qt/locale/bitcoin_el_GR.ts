@@ -396,8 +396,8 @@
         <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις florincoin: )</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις flo: )</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -412,8 +412,8 @@
         <translation>Προβολή της λίστας των χρησιμοποιημένων διευθύνσεων και ετικετών λήψεως</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Άνοιγμα florincoin: URI αίτησης πληρωμής</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Άνοιγμα flo: URI αίτησης πληρωμής</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1239,7 +1239,7 @@ Address: %4
         <translation>Σφάλμα αιτήματος πληρωμής</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>Δεν είναι δυνατή η εκκίνηση του FLO: click-to-pay handler</translation>
     </message>
     <message>

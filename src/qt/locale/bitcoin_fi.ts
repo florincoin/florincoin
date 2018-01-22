@@ -395,8 +395,8 @@
         <translation>FLO-ydin</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Pyydä maksuja (Luo QR koodit ja florincoin: URIt)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Pyydä maksuja (Luo QR koodit ja flo: URIt)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -411,8 +411,8 @@
         <translation>Näytä vastaanottamiseen käytettyjen osoitteiden ja nimien lista</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Avaa florincoin: URI tai maksupyyntö</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Avaa flo: URI tai maksupyyntö</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1260,8 +1260,8 @@ Osoite: %4</translation>
         <translation>Maksupyyntövirhe</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>Ei voida käynnistää florincoin: klikkaa-maksu käsittelijää</translation>
+        <source>Cannot start flo: click-to-pay handler</source>
+        <translation>Ei voida käynnistää flo: klikkaa-maksu käsittelijää</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2103,8 +2103,8 @@ Osoite: %4</translation>
         <translation>Aseta nimi tälle osoitteelle lisätäksesi sen käytettyjen osoitteiden listalle.</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
-        <translation>Viesti joka liitettiin florincoin: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä FLO-verkkoon.</translation>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <translation>Viesti joka liitettiin flo: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä FLO-verkkoon.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>

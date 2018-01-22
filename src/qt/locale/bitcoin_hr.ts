@@ -395,8 +395,8 @@
         <translation>FLO Jezgra</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Zatraži uplate (Stvara QR kodove i florincoin: URIje)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Zatraži uplate (Stvara QR kodove i flo: URIje)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -411,8 +411,8 @@
         <translation>Prikaži popis korištenih adresa i oznaka za primanje isplate</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Otvori florincoin: URI adresu ili zahtjev za uplatu</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Otvori flo: URI adresu ili zahtjev za uplatu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

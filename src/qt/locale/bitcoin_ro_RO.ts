@@ -395,7 +395,7 @@
         <translation>Nucleul FLO</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
         <translation>Cereţi plăţi (generează coduri QR şi florincoin-uri: URls)</translation>
     </message>
     <message>
@@ -411,8 +411,8 @@
         <translation>Arată lista de adrese pentru primire şi etichetele</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Deschidere florincoin: o adresa URI sau o cerere de plată</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Deschidere flo: o adresa URI sau o cerere de plată</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1245,8 +1245,8 @@ Adresa: %4
         <translation>Eroare la cererea de plată</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>Nu poate porni florincoin: manipulator clic-pentru-plată</translation>
+        <source>Cannot start flo: click-to-pay handler</source>
+        <translation>Nu poate porni flo: manipulator clic-pentru-plată</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2060,8 +2060,8 @@ Adresa: %4
         <translation>Introduceţi eticheta pentru ca această adresa să fie introdusă în lista de adrese folosite</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
-        <translation>un mesaj a fost ataşat la florincoin: URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeaua florincoin.</translation>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <translation>un mesaj a fost ataşat la flo: URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeaua florincoin.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>

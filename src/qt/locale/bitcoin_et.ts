@@ -792,7 +792,7 @@ Aadress: %4⏎</translation>
         <translation>URI käsitsemine</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>FLO ei käivitu: vajuta-maksa toiming</translation>
     </message>
     </context>

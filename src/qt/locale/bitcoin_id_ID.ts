@@ -375,8 +375,8 @@
         <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Permintaan pembayaran (membangkitkan kode QR dan florincoin: URIs)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Permintaan pembayaran (membangkitkan kode QR dan flo: URIs)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -391,8 +391,8 @@
         <translation>Tampilkan daftar alamat dan label yang diterima</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Buka URI florincoin: atau permintaan pembayaran</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Buka URI flo: atau permintaan pembayaran</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

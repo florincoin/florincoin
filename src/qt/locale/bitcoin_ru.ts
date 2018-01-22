@@ -391,8 +391,8 @@
         <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Запросить платежи (создаёт QR-коды и florincoin: ссылки)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Запросить платежи (создаёт QR-коды и flo: ссылки)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -407,8 +407,8 @@
         <translation>Показать список использованных адресов получения и меток</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Открыть florincoin: URI или запрос платежа</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Открыть flo: URI или запрос платежа</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

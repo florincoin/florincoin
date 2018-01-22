@@ -395,8 +395,8 @@
         <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Demander des paiements (génère des codes QR et des URIs florincoin:)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Demander des paiements (génère des codes QR et des URIs flo:)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -411,8 +411,8 @@
         <translation>Afficher la liste d'adresses de réception et d'étiquettes utilisées</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Ouvrir un URI florincoin: ou une demande de paiement</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Ouvrir un URI flo: ou une demande de paiement</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1257,7 +1257,7 @@ Adresse : %4
         <translation>Erreur de demande de paiement</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>Impossible de démarrer le gestionnaire de cliquer-pour-payer FLO :</translation>
     </message>
     <message>
@@ -2120,7 +2120,7 @@ Adresse : %4
         <translation>Saisir une étiquette pour cette adresse afin de l'ajouter à la liste d'adresses utilisées</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
         <translation>Un message qui était joint à l'URI FLO et qui sera stocké avec la transaction pour référence. Note : ce message ne sera pas envoyé par le réseau FLO.</translation>
     </message>
     <message>

@@ -387,15 +387,15 @@
         <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Pieprasīt maksājumus (izveido QR kodu un florincoin: URIs)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Pieprasīt maksājumus (izveido QR kodu un flo: URIs)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
         <translation>Par &amp;FLO Core</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
+        <source>Open a flo: URI or payment request</source>
         <translation>Atvērt FLO URI vai maksājuma pieprasījumu</translation>
     </message>
     <message>
@@ -1049,7 +1049,7 @@ Adrese: %4
         <translation>Maksājumu pieprasījuma kļūda</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>Nevar palaist FLO: nospied-lai-maksātu apstrādātāju</translation>
     </message>
     <message>

@@ -395,8 +395,8 @@
         <translation>Jadro FLO</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Vyžiadať platbu (vygeneruje QR kód a florincoin: URI)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Vyžiadať platbu (vygeneruje QR kód a flo: URI)</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -411,7 +411,7 @@
         <translation>Zobraziť zoznam použitých prijímacích adries a ich popisov</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
+        <source>Open a flo: URI or payment request</source>
         <translation>Otvoriť FLO URI alebo výzvu k platbe</translation>
     </message>
     <message>
@@ -1256,8 +1256,8 @@ Adresa: %4</translation>
         <translation>Chyba pri vyžiadaní platby</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>Nedá sa spustiť obslužný program florincoin: click-to-pay zaplatiť kliknutím</translation>
+        <source>Cannot start flo: click-to-pay handler</source>
+        <translation>Nedá sa spustiť obslužný program flo: click-to-pay zaplatiť kliknutím</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2103,8 +2103,8 @@ Adresa: %4</translation>
         <translation>Vložte popis pre túto adresu aby sa uložila do zoznamu použitých adries</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
-        <translation>Správa ktorá bola pripojená k florincoin: URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieť FLO.</translation>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <translation>Správa ktorá bola pripojená k flo: URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieť FLO.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>

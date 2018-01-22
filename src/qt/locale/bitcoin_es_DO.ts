@@ -375,7 +375,7 @@
         <translation>Núcleo de FLO</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
         <translation>Solicitar pagos (genera codigo QR y URL's de FLO)</translation>
     </message>
     <message>
@@ -391,8 +391,8 @@
         <translation>Muestra la lista de direcciones de recepción y etiquetas</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Abrir un florincoin: URI o petición de pago</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Abrir un flo: URI o petición de pago</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1049,8 +1049,8 @@ Dirección: %4
         <translation>Error en petición de pago</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>No se pudo iniciar florincoin: manejador de pago-al-clic</translation>
+        <source>Cannot start flo: click-to-pay handler</source>
+        <translation>No se pudo iniciar flo: manejador de pago-al-clic</translation>
     </message>
     <message>
         <source>Unverified payment requests to custom payment scripts are unsupported.</source>

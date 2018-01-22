@@ -395,8 +395,8 @@
         <translation>莱特币核心</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>请求支付（生成二维码和 florincoin: URI）</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>请求支付（生成二维码和 flo: URI）</translation>
     </message>
     <message>
         <source>&amp;About FLO Core</source>
@@ -411,7 +411,7 @@
         <translation>显示用过的接收地址和标签的列表</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
+        <source>Open a flo: URI or payment request</source>
         <translation>打开一个莱特币：URI 或支付请求</translation>
     </message>
     <message>
@@ -1262,7 +1262,7 @@ Address: %4
         <translation>支付请求出错</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>暂时无法启动莱特币：点击支付功能</translation>
     </message>
     <message>
@@ -2125,8 +2125,8 @@ Address: %4
         <translation>请为此地址输入一个标签以将它加入用过的地址列表</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
-        <translation>florincoin:URI 附带的备注信息，将会和交易一起存储，备查。 注意：该消息不会通过莱特币网络传输。</translation>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <translation>flo:URI 附带的备注信息，将会和交易一起存储，备查。 注意：该消息不会通过莱特币网络传输。</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
