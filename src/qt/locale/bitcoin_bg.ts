@@ -66,12 +66,12 @@
         <translation>Адреси за получаване</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Това са адресите на получателите на плащания. Винаги проверявайте размера на сумата и адреса на получателя, преди да изпратите монети.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Това са Вашите Florincoin адреси,благодарение на които ще получавате плащания.Препоръчително е да използвате нови адреси за получаване за всяка транзакция.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Това са Вашите FLO адреси,благодарение на които ще получавате плащания.Препоръчително е да използвате нови адреси за получаване за всяка транзакция.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Потвърждаване на криптирането</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>ВНИМАНИЕ: Ако защитите вашият портфейл и изгубите ключовата дума, вие ще &lt;b&gt;ИЗГУБИТЕ ВСИЧКИТЕ СИ FLORINCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>ВНИМАНИЕ: Ако защитите вашият портфейл и изгубите ключовата дума, вие ще &lt;b&gt;ИЗГУБИТЕ ВСИЧКИТЕ СИ FLOS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -184,8 +184,8 @@
         <translation>Портфейлът е криптиран</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin ще се затоври сега за да завърши процеса на криптиране. Запомнете, че криптирането на вашия портефейл не може напълно да предпази вашите florincoins от кражба чрез зловреден софтуер, инфектирал вашия компютър</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO ще се затоври сега за да завърши процеса на криптиране. Запомнете, че криптирането на вашия портефейл не може напълно да предпази вашите florincoins от кражба чрез зловреден софтуер, инфектирал вашия компютър</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -291,16 +291,16 @@
         <translation>Отвори &amp;URI...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Florincoin Core клиент</translation>
+        <source>FLO Core client</source>
+        <translation>FLO Core клиент</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Изпращане към Florincoin адрес</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Изпращане към FLO адрес</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>Променете настройките на Florincoin</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>Променете настройките на FLO</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -323,8 +323,8 @@
         <translation>&amp;Проверка на съобщение...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -339,8 +339,8 @@
         <translation>&amp;Получаване</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>Покажете информация за Florincoin ядрото</translation>
+        <source>Show information about FLO Core</source>
+        <translation>Покажете информация за FLO ядрото</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -355,12 +355,12 @@
         <translation>Шифроване на личните ключове,които принадлежат на портфейла Ви.</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
-        <translation>Пишете съобщения със своя Florincoin адрес за да докажете,че е ваш.</translation>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
+        <translation>Пишете съобщения със своя FLO адрес за да докажете,че е ваш.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
-        <translation>Потвърждаване на съобщения  за да се знае,че са написани с дадените Florincoin адреси.</translation>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
+        <translation>Потвърждаване на съобщения  за да се знае,че са написани с дадените FLO адреси.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -379,16 +379,16 @@
         <translation>Раздели</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin ядро</translation>
+        <source>FLO Core</source>
+        <translation>FLO ядро</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Изискване на плащания(генерира QR кодове и florincoin: URIs)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Изискване на плащания(генерира QR кодове и flo: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>&amp;Относно Florincoin Core</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>&amp;Относно FLO Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -399,20 +399,20 @@
         <translation>Покажи списък с използваните адреси и имена.</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Отворете florincoin: URI  или заявка за плащане</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Отворете flo: URI  или заявка за плащане</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Налични команди</translation>
     </message>
     <message>
-        <source>Show the Florincoin Core help message to get a list with possible Florincoin command-line options</source>
-        <translation>Покажи помощните съобщения на Florincoin за да видиш наличните и валидни команди</translation>
+        <source>Show the FLO Core help message to get a list with possible FLO command-line options</source>
+        <translation>Покажи помощните съобщения на FLO за да видиш наличните и валидни команди</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n връзка към Florincoin мрежата</numerusform><numerusform>%n връзки към Florincoin мрежата</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n връзка към FLO мрежата</numerusform><numerusform>%n връзки към FLO мрежата</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -748,8 +748,8 @@ Address: %4
         <translation>Вече има адрес "%1" в списъка с адреси.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>"%1" не е валиден Florincoin адрес.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>"%1" не е валиден FLO адрес.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -786,8 +786,8 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin ядро</translation>
+        <source>FLO Core</source>
+        <translation>FLO ядро</translation>
     </message>
     <message>
         <source>version</source>
@@ -798,8 +798,8 @@ Address: %4
         <translation>(%1-битов)</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>За Florincoin Core</translation>
+        <source>About FLO Core</source>
+        <translation>За FLO Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -837,12 +837,12 @@ Address: %4
         <translation>Добре дошли</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>Добре дошли в Florincoin ядрото.</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>Добре дошли в FLO ядрото.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Florincoin Core will store its data.</source>
-        <translation>Тъй като това е първото стартиране на програмата можете да изберете къде Florincoin ядрото да запази данните си.</translation>
+        <source>As this is the first time the program is launched, you can choose where FLO Core will store its data.</source>
+        <translation>Тъй като това е първото стартиране на програмата можете да изберете къде FLO ядрото да запази данните си.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -853,8 +853,8 @@ Address: %4
         <translation>Използване на директория ръчно</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin ядро</translation>
+        <source>FLO Core</source>
+        <translation>FLO ядро</translation>
     </message>
     <message>
         <source>Error</source>
@@ -879,12 +879,12 @@ Address: %4
         <translation>&amp;Основни</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
-        <translation>Автоматично включване на Florincoin след влизане в системата.</translation>
+        <source>Automatically start FLO after logging in to the system.</source>
+        <translation>Автоматично включване на FLO след влизане в системата.</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
-        <translation>&amp;Пускане на Florincoin при вход в системата</translation>
+        <source>&amp;Start FLO on system login</source>
+        <translation>&amp;Пускане на FLO при вход в системата</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -935,16 +935,16 @@ Address: %4
         <translation>&amp;Похарчете непотвърденото ресто</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматично отваряне на входящия Florincoin порт. Работи само с рутери поддържащи UPnP.</translation>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматично отваряне на входящия FLO порт. Работи само с рутери поддържащи UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Отваряне на входящия порт чрез &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Florincoin network through a SOCKS5 proxy.</source>
-        <translation>Свързване с Florincoin мрежата чрез SOCKS5  прокси.</translation>
+        <source>Connect to the FLO network through a SOCKS5 proxy.</source>
+        <translation>Свързване с FLO мрежата чрез SOCKS5  прокси.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -991,8 +991,8 @@ Address: %4
         <translation>Език:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>Промяната на езика ще влезе в сила след рестартиране на Florincoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>Промяната на езика ще влезе в сила след рестартиране на FLO.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1050,8 +1050,8 @@ Address: %4
         <translation>Форма</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Текущата информация на екрана може да не е актуална. Вашият портфейл ще се синхронизира автоматично с мрежата на Florincoin, щом поне една връзката с нея се установи; този процес все още не е приключил.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>Текущата информация на екрана може да не е актуална. Вашият портфейл ще се синхронизира автоматично с мрежата на FLO, щом поне една връзката с нея се установи; този процес все още не е приключил.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1133,8 +1133,8 @@ Address: %4
         <translation>Възникна грешка по време назаявката за плащане</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>Florincoin не можe да се стартира: click-to-pay handler</translation>
+        <source>Cannot start flo: click-to-pay handler</source>
+        <translation>FLO не можe да се стартира: click-to-pay handler</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1187,8 +1187,8 @@ Address: %4
         <translation>Сума</translation>
     </message>
     <message>
-        <source>Enter a Florincoin address (e.g. %1)</source>
-        <translation>Въведете Florincoin адрес (например: %1)</translation>
+        <source>Enter a FLO address (e.g. %1)</source>
+        <translation>Въведете FLO адрес (например: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1401,16 +1401,16 @@ Address: %4
         <translation>Лог файл,съдържащ грешките</translation>
     </message>
     <message>
-        <source>Open the Florincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Отворете Florincoin дебъг лог файла от настоящата Data папка. Може да отнеме няколко секунди при по - големи лог файлове.</translation>
+        <source>Open the FLO debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Отворете FLO дебъг лог файла от настоящата Data папка. Може да отнеме няколко секунди при по - големи лог файлове.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Изчисти конзолата</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Добре дошли в Florincoin RPC конзолата.</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>Добре дошли в FLO RPC конзолата.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1785,8 +1785,8 @@ Address: %4
         <translation>Платете минималната такса от %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Florincoin address</source>
-        <translation>Внимание: Невалиден Florincoin адрес</translation>
+        <source>Warning: Invalid FLO address</source>
+        <translation>Внимание: Невалиден FLO адрес</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1875,8 +1875,8 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Florincoin Core is shutting down...</source>
-        <translation>Florincoin ядрото се изключва...</translation>
+        <source>FLO Core is shutting down...</source>
+        <translation>FLO ядрото се изключва...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1926,7 +1926,7 @@ Address: %4
         <translation>Копиране на текущия подпис</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
+        <source>Sign the message to prove you own this FLO address</source>
         <translation>Подпишете съобщение като доказателство, че притежавате определен адрес</translation>
     </message>
     <message>
@@ -1942,8 +1942,8 @@ Address: %4
         <translation>&amp;Провери</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Florincoin address</source>
-        <translation>Проверете съобщение, за да сте сигурни че е подписано с определен Florincoin адрес</translation>
+        <source>Verify the message to ensure it was signed with the specified FLO address</source>
+        <translation>Проверете съобщение, за да сте сигурни че е подписано с определен FLO адрес</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2005,8 +2005,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin ядро</translation>
+        <source>FLO Core</source>
+        <translation>FLO ядро</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>

@@ -66,12 +66,12 @@
         <translation>Ricevaj adresoj</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Jen viaj Florincoin-adresoj por sendi pagojn. Zorge kontrolu la sumon kaj la alsendan adreson antaŭ ol sendi.</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Jen viaj FLO-adresoj por sendi pagojn. Zorge kontrolu la sumon kaj la alsendan adreson antaŭ ol sendi.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Jen viaj Florincoin adresoj por ricevi pagojn. Estas konsilinde uzi apartan ricevan adreson por ĉiu transakcio.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Jen viaj FLO adresoj por ricevi pagojn. Estas konsilinde uzi apartan ricevan adreson por ĉiu transakcio.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Konfirmo de ĉifrado de la monujo</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Atentu! Se vi ĉifras vian monujon kaj perdas la pasfrazon, vi &lt;b&gt;PERDOS LA TUTON DE VIA FLORINCOINS&lt;b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Atentu! Se vi ĉifras vian monujon kaj perdas la pasfrazon, vi &lt;b&gt;PERDOS LA TUTON DE VIA FLOS&lt;b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -184,8 +184,8 @@
         <translation>La monujo estas ĉifrita</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin nun fermiĝos por fini la ĉifradon. Memoru, ke eĉ ĉifrado ne protektas kontraŭ ĉiu atako, ekz. se viruso infektus vian komputilon.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO nun fermiĝos por fini la ĉifradon. Memoru, ke eĉ ĉifrado ne protektas kontraŭ ĉiu atako, ekz. se viruso infektus vian komputilon.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -291,8 +291,8 @@
         <translation>Malfermi &amp;URI-on...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>kliento de Florincoin-kerno</translation>
+        <source>FLO Core client</source>
+        <translation>kliento de FLO-kerno</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -303,12 +303,12 @@
         <translation>Reindeksado de blokoj sur disko...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Sendi monon al Florincoin-adreso</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Sendi monon al FLO-adreso</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>Modifi agordaĵojn por Florincoin</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>Modifi agordaĵojn por FLO</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -331,8 +331,8 @@
         <translation>&amp;Kontroli mesaĝon...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -347,8 +347,8 @@
         <translation>&amp;Ricevi</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>Vidigi informon pri Florincoin Kerno</translation>
+        <source>Show information about FLO Core</source>
+        <translation>Vidigi informon pri FLO Kerno</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -363,12 +363,12 @@
         <translation>Ĉifri la privatajn ŝlosilojn de via monujo</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
-        <translation>Subskribi mesaĝojn per via Florincoin-adresoj por pravigi, ke vi estas la posedanto</translation>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
+        <translation>Subskribi mesaĝojn per via FLO-adresoj por pravigi, ke vi estas la posedanto</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
-        <translation>Kontroli mesaĝojn por kontroli ĉu ili estas subskribitaj per specifaj Florincoin-adresoj</translation>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
+        <translation>Kontroli mesaĝojn por kontroli ĉu ili estas subskribitaj per specifaj FLO-adresoj</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -387,16 +387,16 @@
         <translation>Langeto-breto</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Kerno de Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Kerno de FLO</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Peti pagon (kreas QR-kodojn kaj URI-ojn kun prefikso florincoin:)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Peti pagon (kreas QR-kodojn kaj URI-ojn kun prefikso flo:)</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>&amp;Pri la Florincoin Kerno</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>&amp;Pri la FLO Kerno</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -407,16 +407,16 @@
         <translation>Vidigi la liston de uzitaj ricevaj adresoj kaj etikedoj</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Malfermi florincoin:-URI-on aŭ pagpeton</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Malfermi flo:-URI-on aŭ pagpeton</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Komandliniaj agordaĵoj</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n aktiva konekto al la Florincoin reto</numerusform><numerusform>%n aktivaj konektoj al la Florincoin reto</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n aktiva konekto al la FLO reto</numerusform><numerusform>%n aktivaj konektoj al la FLO reto</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -764,8 +764,8 @@ Adreso: %4
         <translation>La adreso enigita "%1" jam ekzistas en la adresaro.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>La adreso enigita "%1" ne estas valida Florincoin-adreso.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>La adreso enigita "%1" ne estas valida FLO-adreso.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -802,16 +802,16 @@ Adreso: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Kerno de Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Kerno de FLO</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versio</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>Pri la Florincoin Kerno</translation>
+        <source>About FLO Core</source>
+        <translation>Pri la FLO Kerno</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -853,16 +853,16 @@ Adreso: %4
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>Bonvenon al la Florincoin kerno, Florincoin Core.</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>Bonvenon al la FLO kerno, FLO Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Florincoin Core will store its data.</source>
-        <translation>Dum tiu ĉi unua uzo de la programo, vi povas elekti lokon, kie Florincoin Core stokos siajn datumojn.</translation>
+        <source>As this is the first time the program is launched, you can choose where FLO Core will store its data.</source>
+        <translation>Dum tiu ĉi unua uzo de la programo, vi povas elekti lokon, kie FLO Core stokos siajn datumojn.</translation>
     </message>
     <message>
-        <source>Florincoin Core will download and store a copy of the Florincoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Florincoin Core elŝutos kaj konservos kopion de la Florincoin blokĉeno. Almenaŭ %1GB da datumoj konserviĝos en tiu loko, kaj tio poiome kreskos. Ankaŭ via monujo konserviĝos en tiu dosierujo.</translation>
+        <source>FLO Core will download and store a copy of the FLO block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>FLO Core elŝutos kaj konservos kopion de la FLO blokĉeno. Almenaŭ %1GB da datumoj konserviĝos en tiu loko, kaj tio poiome kreskos. Ankaŭ via monujo konserviĝos en tiu dosierujo.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -873,8 +873,8 @@ Adreso: %4
         <translation>Uzi alian dosierujon por datumoj:</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Kerno de Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Kerno de FLO</translation>
     </message>
     <message>
         <source>Error</source>
@@ -915,12 +915,12 @@ Adreso: %4
         <translation>Ĉ&amp;efa</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
-        <translation>Aŭtomate lanĉi Florincoin post ensaluto al la sistemo.</translation>
+        <source>Automatically start FLO after logging in to the system.</source>
+        <translation>Aŭtomate lanĉi FLO post ensaluto al la sistemo.</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
-        <translation>&amp;Lanĉi Florincoin tuj post ensaluto al la sistemo</translation>
+        <source>&amp;Start FLO on system login</source>
+        <translation>&amp;Lanĉi FLO tuj post ensaluto al la sistemo</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -947,8 +947,8 @@ Adreso: %4
         <translation>Fakulo</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aŭtomate malfermi la kursilan pordon por Florincoin. Tio funkcias nur se via kursilo havas la UPnP-funkcion, kaj se tiu ĉi estas ŝaltita.</translation>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aŭtomate malfermi la kursilan pordon por FLO. Tio funkcias nur se via kursilo havas la UPnP-funkcion, kaj se tiu ĉi estas ŝaltita.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -995,8 +995,8 @@ Adreso: %4
         <translation>&amp;Lingvo de la fasado:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>Vi povas elekti la lingvon uzata en la aplikaĵo ĉi tie. Tiu ekefikos nur post relanĉo de Florincoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>Vi povas elekti la lingvon uzata en la aplikaĵo ĉi tie. Tiu ekefikos nur post relanĉo de FLO.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1004,7 +1004,7 @@ Adreso: %4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Elekti la defaŭltan manieron por montri Florincoin sumojn en la interfaco, kaj kiam vi sendos florincoins.</translation>
+        <translation>Elekti la defaŭltan manieron por montri FLO sumojn en la interfaco, kaj kiam vi sendos florincoins.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1042,8 +1042,8 @@ Adreso: %4
         <translation>Formularo</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Eblas, ke la informoj videblaj ĉi tie estas eksdataj. Via monujo aŭtomate sinkoniĝas kun la Florincoin reto kiam ili konektiĝas, sed tiu procezo ankoraŭ ne finfariĝis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>Eblas, ke la informoj videblaj ĉi tie estas eksdataj. Via monujo aŭtomate sinkoniĝas kun la FLO reto kiam ili konektiĝas, sed tiu procezo ankoraŭ ne finfariĝis.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -1093,7 +1093,7 @@ Adreso: %4
         <translation>Eraro dum pagopeto</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>Ne eblas lanĉi la ilon 'klaki-por-pagi'</translation>
     </message>
     <message>
@@ -1257,16 +1257,16 @@ Adreso: %4
         <translation>Sencimiga protokoldosiero</translation>
     </message>
     <message>
-        <source>Open the Florincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Malfermi la sencimiga protokoldosiero de Florincoin el la aktuala dosierujo por datumoj. Tio eble daŭros plurajn sekundojn por granda protokoldosiero.</translation>
+        <source>Open the FLO debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Malfermi la sencimiga protokoldosiero de FLO el la aktuala dosierujo por datumoj. Tio eble daŭros plurajn sekundojn por granda protokoldosiero.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Malplenigi konzolon</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Bonvenon al la RPC-konzolo de Florincoin.</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>Bonvenon al la RPC-konzolo de FLO.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1573,8 +1573,8 @@ Adreso: %4
         <translation>Kreo de transakcio fiaskis!</translation>
     </message>
     <message>
-        <source>Warning: Invalid Florincoin address</source>
-        <translation>Averto: Nevalida Florincoin-adreso</translation>
+        <source>Warning: Invalid FLO address</source>
+        <translation>Averto: Nevalida FLO-adreso</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1702,8 +1702,8 @@ Adreso: %4
         <translation>Kopii la aktualan subskribon al la tondejo</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
-        <translation>Subskribi la mesaĝon por pravigi, ke vi estas la posedanto de tiu Florincoin-adreso</translation>
+        <source>Sign the message to prove you own this FLO address</source>
+        <translation>Subskribi la mesaĝon por pravigi, ke vi estas la posedanto de tiu FLO-adreso</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1726,8 +1726,8 @@ Adreso: %4
         <translation>Enmeti la subskriban adreson, la mesaĝon (kune kun ĉiu linisalto, spaceto, taboj, ktp. precize) kaj la subskribon ĉi sube por kontroli la mesaĝon. Atentu, ke vi ne komprenu per la subskribo pli ol la enhavo de la mesaĝo mem, por eviti homo-en-la-mezo-atakon.</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Florincoin address</source>
-        <translation>Kontroli la mesaĝon por pravigi, ke ĝi ja estas subskribita per la specifa Florincoin-adreso</translation>
+        <source>Verify the message to ensure it was signed with the specified FLO address</source>
+        <translation>Kontroli la mesaĝon por pravigi, ke ĝi ja estas subskribita per la specifa FLO-adreso</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1793,8 +1793,8 @@ Adreso: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Kerno de Florincoin</translation>
+        <source>FLO Core</source>
+        <translation>Kerno de FLO</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2178,7 +2178,7 @@ Adreso: %4
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Sendi Florincoin</translation>
+        <translation>Sendi FLO</translation>
     </message>
 </context>
 <context>

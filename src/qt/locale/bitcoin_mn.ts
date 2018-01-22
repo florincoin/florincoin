@@ -62,12 +62,12 @@
         <translation>Хүлээн авах хаяг</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Эдгээр Florincoin хаягууд нь илгээх хаягууд. Хүлээн авах хаяг болон тоо хэмжээг илгээхээсээ өмнө сайн нягталж үзэж байна уу</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Эдгээр FLO хаягууд нь илгээх хаягууд. Хүлээн авах хаяг болон тоо хэмжээг илгээхээсээ өмнө сайн нягталж үзэж байна уу</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Эдгээр Florincoin хаягууд нь хүлээн авах хаягууд. Гүйлгээ болгонд шинээр хаяг үүсгэхийг бид санал болгож байна.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Эдгээр FLO хаягууд нь хүлээн авах хаягууд. Гүйлгээ болгонд шинээр хаяг үүсгэхийг бид санал болгож байна.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -152,8 +152,8 @@
         <translation>Түрүйвч цоожлогдлоо</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Цоожлолтын процесыг дуусгахын тулд Florincoin одоо хаагдана. Ѳѳрийн түрүйвчийг цоожлох нь таны florincoinsуудыг компьютерийн вирус хулгайлахаас бүрэн сэргийлж чадахгүй гэдгийг санаарай.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>Цоожлолтын процесыг дуусгахын тулд FLO одоо хаагдана. Ѳѳрийн түрүйвчийг цоожлох нь таны florincoinsуудыг компьютерийн вирус хулгайлахаас бүрэн сэргийлж чадахгүй гэдгийг санаарай.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -247,8 +247,8 @@
         <translation>Оношилгоо ба засварын консолыг онгойлго</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -271,8 +271,8 @@
         <translation>&amp;Тусламж</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>Florincoinы сүлжээрүү %n идэвхитэй холболт байна </numerusform><numerusform>Florincoinы сүлжээрүү %n идэвхитэй холболтууд байна </numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>FLOы сүлжээрүү %n идэвхитэй холболт байна </numerusform><numerusform>FLOы сүлжээрүү %n идэвхитэй холболтууд байна </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -708,8 +708,8 @@ Address: %4
         <translation>Гүйлгээний тѳлбѳр %1-ийг тооцхоор нийт дүн нь таны балансаас хэтрээд байна.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Florincoin address</source>
-        <translation>Анхаар:Буруу Florincoinы хаяг байна</translation>
+        <source>Warning: Invalid FLO address</source>
+        <translation>Анхаар:Буруу FLOы хаяг байна</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -754,8 +754,8 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Florincoin Core is shutting down...</source>
-        <translation>Florincoinы цѳм хаагдаж байна...</translation>
+        <source>FLO Core is shutting down...</source>
+        <translation>FLOы цѳм хаагдаж байна...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>

@@ -62,12 +62,12 @@
         <translation>Saņemšanas adreses</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Šīs ir jūsu Florincoin adreses maksājumu sūtīšanai. Vienmēr  pārbaudiet summu un saņēmēja adresi pirms monētu sūtīšanas.</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Šīs ir jūsu FLO adreses maksājumu sūtīšanai. Vienmēr  pārbaudiet summu un saņēmēja adresi pirms monētu sūtīšanas.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Šīs ir jūsu Florincoin adreses maksājumu saņemšanai. Ir ieteicams katram darījumam izmantot jaunu saņemšanas adresi.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Šīs ir jūsu FLO adreses maksājumu saņemšanai. Ir ieteicams katram darījumam izmantot jaunu saņemšanas adresi.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -160,8 +160,8 @@
         <translation>Apstiprināt maciņa šifrēšanu</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Brīdinājums: Ja tu nošifrē savu maciņu un pazaudē paroli, tu &lt;b&gt;PAZAUDĒSI VISAS SAVAS FLORINCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Brīdinājums: Ja tu nošifrē savu maciņu un pazaudē paroli, tu &lt;b&gt;PAZAUDĒSI VISAS SAVAS FLOS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -180,8 +180,8 @@
         <translation>Maciņš nošifrēts</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst florincoins zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst florincoins zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -287,8 +287,8 @@
         <translation>Atvērt &amp;URI...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Florincoin Core klients</translation>
+        <source>FLO Core client</source>
+        <translation>FLO Core klients</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -299,12 +299,12 @@
         <translation>Bloku reindeksēšana no diska...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Nosūtīt florincoins uz Florincoin adresi</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Nosūtīt florincoins uz FLO adresi</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>Mainīt Florincoin konfigurācijas uzstādījumus</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>Mainīt FLO konfigurācijas uzstādījumus</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -327,8 +327,8 @@
         <translation>&amp;Pārbaudīt ziņojumu...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -343,8 +343,8 @@
         <translation>&amp;Saņemt</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>Parādīt informāciju par Florincoin Core</translation>
+        <source>Show information about FLO Core</source>
+        <translation>Parādīt informāciju par FLO Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -359,12 +359,12 @@
         <translation>Šifrēt privātās atslēgas kuras pieder tavam maciņam</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
-        <translation>Parakstīt ziņojumus ar savām Florincoin adresēm lai pierādītu ka tās pieder tev</translation>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
+        <translation>Parakstīt ziņojumus ar savām FLO adresēm lai pierādītu ka tās pieder tev</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
-        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Florincoin adresēm</translation>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
+        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām FLO adresēm</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -383,28 +383,28 @@
         <translation>Ciļņu rīkjosla</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Pieprasīt maksājumus (izveido QR kodu un florincoin: URIs)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Pieprasīt maksājumus (izveido QR kodu un flo: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>Par &amp;Florincoin Core</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>Par &amp;FLO Core</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Atvērt florincoin URI vai maksājuma pieprasījumu</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Atvērt FLO URI vai maksājuma pieprasījumu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Komandrindas iespējas</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n aktīvu savienojumu ar Florincoin tīklu</numerusform><numerusform>%n aktīvs savienojums ar Florincoin tīklu</numerusform><numerusform>%n aktīvu savienojumu as Florincoin tīklu</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n aktīvu savienojumu ar FLO tīklu</numerusform><numerusform>%n aktīvs savienojums ar FLO tīklu</numerusform><numerusform>%n aktīvu savienojumu as FLO tīklu</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -704,8 +704,8 @@ Adrese: %4
         <translation>Nupat ierakstītā adrese "%1" jau atrodas adrešu grāmatā.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>Ierakstītā adrese "%1" nav derīga Florincoin adrese.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>Ierakstītā adrese "%1" nav derīga FLO adrese.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -738,8 +738,8 @@ Adrese: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -750,8 +750,8 @@ Adrese: %4
         <translation>(%1-biti)</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>Par Florincoin Core</translation>
+        <source>About FLO Core</source>
+        <translation>Par FLO Core</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -785,8 +785,8 @@ Adrese: %4
         <translation>Sveiciens</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>Sveicināts Florincoin Core</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>Sveicināts FLO Core</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -797,8 +797,8 @@ Adrese: %4
         <translation>Izmantot pielāgotu datu mapi:</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -839,12 +839,12 @@ Adrese: %4
         <translation>&amp;Galvenais</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
-        <translation>Automātiski sākt Florincoin pēc pieteikšanās sistēmā.</translation>
+        <source>Automatically start FLO after logging in to the system.</source>
+        <translation>Automātiski sākt FLO pēc pieteikšanās sistēmā.</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
-        <translation>&amp;Sākt Florincoin reizē ar sistēmu</translation>
+        <source>&amp;Start FLO on system login</source>
+        <translation>&amp;Sākt FLO reizē ar sistēmu</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -892,15 +892,15 @@ Adrese: %4
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Ieslēgt florincoin &amp;kontroles funkcijas</translation>
+        <translation>Ieslēgt FLO &amp;kontroles funkcijas</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
         <translation>&amp;Tērēt neapstiprinātu atlikumu</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt Florincoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Uz rūtera automātiski atvērt FLO klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -947,8 +947,8 @@ Adrese: %4
         <translation>Lietotāja interfeiss un &amp;valoda:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc Florincoin pārstartēšanas.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc FLO pārstartēšanas.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -960,7 +960,7 @@ Adrese: %4
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Vai rādīt Florincoin kontroles funkcijas vai nē.</translation>
+        <translation>Vai rādīt FLO kontroles funkcijas vai nē.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -998,8 +998,8 @@ Adrese: %4
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Florincoin tīklu, taču šis process vēl nav beidzies.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar FLO tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1049,8 +1049,8 @@ Adrese: %4
         <translation>Maksājumu pieprasījuma kļūda</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>Nevar palaist Florincoin: nospied-lai-maksātu apstrādātāju</translation>
+        <source>Cannot start flo: click-to-pay handler</source>
+        <translation>Nevar palaist FLO: nospied-lai-maksātu apstrādātāju</translation>
     </message>
     <message>
         <source>Refund from %1</source>
@@ -1205,8 +1205,8 @@ Adrese: %4
         <translation>Notīrīt konsoli</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Laipni lūgti Florincoin RPC konsolē.</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>Laipni lūgti FLO RPC konsolē.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1386,11 +1386,11 @@ Adrese: %4
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Sūtīt Florincoins</translation>
+        <translation>Sūtīt FLOs</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Florincoin Kontroles Funkcijas</translation>
+        <translation>FLO Kontroles Funkcijas</translation>
     </message>
     <message>
         <source>Inputs...</source>
@@ -1466,7 +1466,7 @@ Adrese: %4
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Apstiprināt florincoin sūtīšanu</translation>
+        <translation>Apstiprināt FLO sūtīšanu</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -1529,8 +1529,8 @@ Adrese: %4
         <translation>Transakcijas izveidošana neizdevās!</translation>
     </message>
     <message>
-        <source>Warning: Invalid Florincoin address</source>
-        <translation>Brīdinājums: Nederīga Florincoin adrese</translation>
+        <source>Warning: Invalid FLO address</source>
+        <translation>Brīdinājums: Nederīga FLO adrese</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1611,8 +1611,8 @@ Adrese: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Florincoin Core is shutting down...</source>
-        <translation>Florincoin Core tiek izslēgta...</translation>
+        <source>FLO Core is shutting down...</source>
+        <translation>FLO Core tiek izslēgta...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1658,8 +1658,8 @@ Adrese: %4
         <translation>Kopēt parakstu uz sistēmas starpliktuvi</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
-        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs Florincoin adreses īpašnieks.</translation>
+        <source>Sign the message to prove you own this FLO address</source>
+        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs FLO adreses īpašnieks.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1741,8 +1741,8 @@ Adrese: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2138,7 +2138,7 @@ Adrese: %4
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Sūtīt Florincoins</translation>
+        <translation>Sūtīt FLOs</translation>
     </message>
 </context>
 <context>

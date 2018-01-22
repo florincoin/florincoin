@@ -148,8 +148,8 @@
         <translation>Patvirtinkite piniginės užšifravimą</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO FLORINCOINUS&lt;/b&gt;! </translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO FLOUS&lt;/b&gt;! </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -164,8 +164,8 @@
         <translation>Piniginė užšifruota</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti florincoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti florincoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -271,8 +271,8 @@
         <translation>Atidaryti &amp;URI...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Florincoin Core klientas</translation>
+        <source>FLO Core client</source>
+        <translation>FLO Core klientas</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -283,12 +283,12 @@
         <translation>Blokai iš naujo indeksuojami...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Siųsti monetas Florincoin adresui</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Siųsti monetas FLO adresui</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>Keisti florincoin konfigūracijos galimybes</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>Keisti FLO konfigūracijos galimybes</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -311,8 +311,8 @@
         <translation>&amp;Tikrinti žinutę...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -327,8 +327,8 @@
         <translation>&amp;Gauti</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>Rodyti informaciją apie Florincoin Core</translation>
+        <source>Show information about FLO Core</source>
+        <translation>Rodyti informaciją apie FLO Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -359,16 +359,16 @@
         <translation>Kortelių įrankinė</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin branduolys</translation>
+        <source>FLO Core</source>
+        <translation>FLO branduolys</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>&amp;Apie Florincoin Core</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>&amp;Apie FLO Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n Florincoin tinklo aktyvus ryšys</numerusform><numerusform>%n Florincoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Florincoin tinklo aktyvūs ryšiai</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n FLO tinklo aktyvus ryšys</numerusform><numerusform>%n FLO tinklo aktyvūs ryšiai</numerusform><numerusform>%n FLO tinklo aktyvūs ryšiai</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -627,8 +627,8 @@ Adresas: %4</translation>
         <translation>Įvestas adresas „%1“ jau yra adresų knygelėje.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Florincoin adresas.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis FLO adresas.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -649,16 +649,16 @@ Adresas: %4</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin branduolys</translation>
+        <source>FLO Core</source>
+        <translation>FLO branduolys</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versija</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>Apie Florincoin Core</translation>
+        <source>About FLO Core</source>
+        <translation>Apie FLO Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -692,12 +692,12 @@ Adresas: %4</translation>
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>Sveiki atvykę į Florincoin Core.</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>Sveiki atvykę į FLO Core.</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin branduolys</translation>
+        <source>FLO Core</source>
+        <translation>FLO branduolys</translation>
     </message>
     <message>
         <source>Error</source>
@@ -718,20 +718,20 @@ Adresas: %4</translation>
         <translation>&amp;Pagrindinės</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
+        <source>Automatically start FLO after logging in to the system.</source>
         <translation>Automatiškai paleisti Bitkoin programą įjungus sistemą.</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
-        <translation>&amp;Paleisti Florincoin programą su window sistemos paleidimu</translation>
+        <source>&amp;Start FLO on system login</source>
+        <translation>&amp;Paleisti FLO programą su window sistemos paleidimu</translation>
     </message>
     <message>
         <source>&amp;Network</source>
         <translation>&amp;Tinklas</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Florincoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti FLO kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -778,8 +778,8 @@ Adresas: %4</translation>
         <translation>Naudotojo sąsajos &amp;kalba:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Florincoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus FLO.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -980,8 +980,8 @@ Adresas: %4</translation>
         <translation>Išvalyti konsolę</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Sveiki atvykę į Florincoin RPC konsolę.</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>Sveiki atvykę į FLO RPC konsolę.</translation>
     </message>
     <message>
         <source>%1 B</source>
@@ -1249,7 +1249,7 @@ Adresas: %4</translation>
         <translation>Įveskite pranešimą, kurį norite pasirašyti čia</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
+        <source>Sign the message to prove you own this FLO address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -1265,8 +1265,8 @@ Adresas: %4</translation>
         <translation>&amp;Patikrinti žinutę</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Florincoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Florincoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified FLO address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas FLO adresas</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -1316,8 +1316,8 @@ Adresas: %4</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin branduolys</translation>
+        <source>FLO Core</source>
+        <translation>FLO branduolys</translation>
     </message>
     <message>
         <source>[testnet]</source>

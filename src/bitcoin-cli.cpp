@@ -35,7 +35,7 @@ std::string HelpMessageCli()
     strUsage += "  -rpcuser=<user>        " + _("Username for JSON-RPC connections") + "\n";
     strUsage += "  -rpcpassword=<pw>      " + _("Password for JSON-RPC connections") + "\n";
 
-    strUsage += "\n" + _("SSL options: (see the Florincoin Wiki for SSL setup instructions)") + "\n";
+    strUsage += "\n" + _("SSL options: (see the FLO Wiki for SSL setup instructions)") + "\n";
     strUsage += "  -rpcssl                " + _("Use OpenSSL (https) for JSON-RPC connections") + "\n";
 
     return strUsage;
@@ -67,12 +67,12 @@ static bool AppInitRPC(int argc, char* argv[])
     //
     ParseParameters(argc, argv);
     if (argc<2 || mapArgs.count("-?") || mapArgs.count("-h") || mapArgs.count("-help") || mapArgs.count("-version")) {
-        std::string strUsage = _("Litcoin Core RPC client version") + " " + FormatFullVersion() + "\n";
+        std::string strUsage = _("FLO Core RPC client version") + " " + FormatFullVersion() + "\n";
         if (!mapArgs.count("-version")) {
             strUsage += "\n" + _("Usage:") + "\n" +
-                  "  florincoin-cli [options] <command> [params]  " + _("Send command to Florincoin Core") + "\n" +
-                  "  florincoin-cli [options] help                " + _("List commands") + "\n" +
-                  "  florincoin-cli [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  flo-cli [options] <command> [params]  " + _("Send command to FLO Core") + "\n" +
+                  "  flo-cli [options] help                " + _("List commands") + "\n" +
+                  "  flo-cli [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessageCli();
         }

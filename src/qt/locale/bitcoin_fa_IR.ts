@@ -160,8 +160,8 @@
         <translation>تایید رمزگذاری</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin برای اتمام فرایند رمزگذاری بسته خواهد شد. به خاطر داشته باشید که رمزگذاری WALLET شما،  کامپیوتر شما را از آلودگی به بدافزارها مصون نمی دارد.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO برای اتمام فرایند رمزگذاری بسته خواهد شد. به خاطر داشته باشید که رمزگذاری WALLET شما،  کامپیوتر شما را از آلودگی به بدافزارها مصون نمی دارد.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -251,8 +251,8 @@
         <translation>تغییر رمز/پَس فرِیز</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>اصلاح انتخابها برای پیکربندی Florincoin</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>اصلاح انتخابها برای پیکربندی FLO</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -263,7 +263,7 @@
         <translation>رمز مربوط به رمزگذاریِ wallet را تغییر دهید</translation>
     </message>
     <message>
-        <source>Florincoin</source>
+        <source>FLO</source>
         <translation>florincoin</translation>
     </message>
     <message>
@@ -406,8 +406,8 @@ Address: %4
         <translation>ویرایش حساب ارسال کننده</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>آدرس وارد شده "%1" یک آدرس صحیح برای florincoin نسشت</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>آدرس وارد شده "%1" یک آدرس صحیح برای FLO نسشت</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -468,8 +468,8 @@ Address: %4
         <translation>فرم</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه florincoin به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه FLO به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
     </message>
     <message>
         <source>out of sync</source>
@@ -519,8 +519,8 @@ Address: %4
         <translation>تعداد زنجیره های حاضر</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>به کنسول آر.پی.سی. FLORINCOIN خوش آمدید</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>به کنسول آر.پی.سی. FLO خوش آمدید</translation>
     </message>
     </context>
 <context>
@@ -616,7 +616,7 @@ Address: %4
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>تایید ارسال Florincoins</translation>
+        <translation>تایید ارسال FLOs</translation>
     </message>
     <message>
         <source>Copy amount</source>
@@ -681,8 +681,8 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Florincoin Core is shutting down...</source>
-        <translation>هسته Florincoin در حال خاموش شدن است...</translation>
+        <source>FLO Core is shutting down...</source>
+        <translation>هسته FLO در حال خاموش شدن است...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>

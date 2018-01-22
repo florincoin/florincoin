@@ -31,7 +31,7 @@ using namespace boost;
 using namespace std;
 
 #if defined(NDEBUG)
-# error "Florincoin cannot be compiled without assertions."
+# error "FLO cannot be compiled without assertions."
 #endif
 
 /**

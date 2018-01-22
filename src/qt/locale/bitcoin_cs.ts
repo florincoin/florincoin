@@ -66,12 +66,12 @@
         <translation>Přijímací adresy</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Florincoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé FLOové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tohle jsou tvé Florincoinové adresy pro příjem plateb. Je doporučené používat pokaždé novou adresu pro každou transakci.</translation>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tohle jsou tvé FLOové adresy pro příjem plateb. Je doporučené používat pokaždé novou adresu pro každou transakci.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Potvrď zašifrování peněženky</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Upozornění: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY FLORINCOINY&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Upozornění: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY FLOY&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Zadej nové heslo k peněžence.&lt;br/&gt;Použij &lt;b&gt;alespoň deset náhodných znaků&lt;/b&gt; nebo &lt;b&gt;alespoň osm slov&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>Florincoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých florincoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>FLO se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých florincoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Načíst &amp;URI...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Florincoin Core klient</translation>
+        <source>FLO Core client</source>
+        <translation>FLO Core klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Vytvářím nový index bloků na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Pošli mince na Florincoinovou adresu</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>Pošli mince na FLOovou adresu</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>Uprav nastavení Florincoinu</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>Uprav nastavení FLOu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>&amp;Ověř zprávu...</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>Při&amp;jmi</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>Zobraz informace o Florincoin Core</translation>
+        <source>Show information about FLO Core</source>
+        <translation>Zobraz informace o FLO Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>Zašifruj soukromé klíče ve své peněžence</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Florincoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými FLOovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Florincoinovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými FLOovými adresami</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Panel s listy</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Požaduj platby (generuje QR kódy a florincoin: URI)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Požaduj platby (generuje QR kódy a flo: URI)</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>O &amp;Florincoin Core</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>O &amp;FLO Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,20 +411,20 @@
         <translation>Ukaž seznam použitých přijímacích adres a jejich označení</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>Načti florincoin: URI nebo platební požadavek</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>Načti flo: URI nebo platební požadavek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Ar&amp;gumenty z příkazové řádky</translation>
     </message>
     <message>
-        <source>Show the Florincoin Core help message to get a list with possible Florincoin command-line options</source>
-        <translation>Seznam argumentů Florincoinu pro příkazovou řádku získáš v nápovědě Florincoinu Core</translation>
+        <source>Show the FLO Core help message to get a list with possible FLO command-line options</source>
+        <translation>Seznam argumentů FLOu pro příkazovou řádku získáš v nápovědě FLOu Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n aktivní spojení do Florincoinové sítě</numerusform><numerusform>%n aktivní spojení do Florincoinové sítě</numerusform><numerusform>%n aktivních spojení do Florincoinové sítě</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n aktivní spojení do FLOové sítě</numerusform><numerusform>%n aktivní spojení do FLOové sítě</numerusform><numerusform>%n aktivních spojení do FLOové sítě</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -788,8 +788,8 @@ Adresa: %4
         <translation>Zadaná adresa "%1" už v adresáři je.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>Zadaná adresa "%1" není platná Florincoinová adresa.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>Zadaná adresa "%1" není platná FLOová adresa.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -826,8 +826,8 @@ Adresa: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -838,8 +838,8 @@ Adresa: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>O Florincoin Core</translation>
+        <source>About FLO Core</source>
+        <translation>O FLO Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -885,16 +885,16 @@ Adresa: %4
         <translation>Vítej</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>Vítej v Florincoin Core.</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>Vítej v FLO Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Florincoin Core will store its data.</source>
-        <translation>Tohle je poprvé, co spouštíš Florincoin Core, takže si můžeš zvolit, kam bude ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where FLO Core will store its data.</source>
+        <translation>Tohle je poprvé, co spouštíš FLO Core, takže si můžeš zvolit, kam bude ukládat svá data.</translation>
     </message>
     <message>
-        <source>Florincoin Core will download and store a copy of the Florincoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Florincoin Core bude stahovat kopii řetězce bloků. Proto bude potřeba do tohoto adresáře uložit nejméně %1 GB dat – toto číslo bude navíc v průběhu času pomalu růst. Tvá peněženka bude rovněž uložena v tomto adresáři.</translation>
+        <source>FLO Core will download and store a copy of the FLO block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>FLO Core bude stahovat kopii řetězce bloků. Proto bude potřeba do tohoto adresáře uložit nejméně %1 GB dat – toto číslo bude navíc v průběhu času pomalu růst. Tvá peněženka bude rovněž uložena v tomto adresáři.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -905,8 +905,8 @@ Adresa: %4
         <translation>Použij tento adresář pro data:</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -959,12 +959,12 @@ Adresa: %4
         <translation>&amp;Hlavní</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
-        <translation>Automaticky spustí Florincoin po přihlášení do systému.</translation>
+        <source>Automatically start FLO after logging in to the system.</source>
+        <translation>Automaticky spustí FLO po přihlášení do systému.</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
-        <translation>S&amp;pustit Florincoin po přihlášení do systému</translation>
+        <source>&amp;Start FLO on system login</source>
+        <translation>S&amp;pustit FLO po přihlášení do systému</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1039,7 +1039,7 @@ Adresa: %4
         <translation>&amp;Utrácet i ještě nepotvrzené drobné</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -1047,8 +1047,8 @@ Adresa: %4
         <translation>Namapovat port přes &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Florincoin network through a SOCKS5 proxy.</source>
-        <translation>Připojí se do Florincoinové sítě přes SOCKS5 proxy.</translation>
+        <source>Connect to the FLO network through a SOCKS5 proxy.</source>
+        <translation>Připojí se do FLOové sítě přes SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1095,8 +1095,8 @@ Adresa: %4
         <translation>&amp;Jazyk uživatelského rozhraní:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Florincoinu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování FLOu.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1154,8 +1154,8 @@ Adresa: %4
         <translation>Formulář</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Florincoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s FLOovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1261,16 +1261,16 @@ Adresa: %4
         <translation>Chyba platebního požadavku</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit florincoin: obsluha click-to-pay</translation>
+        <source>Cannot start flo: click-to-pay handler</source>
+        <translation>Nemůžu spustit flo: obsluha click-to-pay</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>Zdrojová URL platebního požadavku není platná: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Florincoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Florincoinová adresa nebo poškozené parametry URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid FLO address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná FLOová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1339,8 +1339,8 @@ Adresa: %4
         <translation>Částka</translation>
     </message>
     <message>
-        <source>Enter a Florincoin address (e.g. %1)</source>
-        <translation>Zadej Florincoinovou adresu (např. %1)</translation>
+        <source>Enter a FLO address (e.g. %1)</source>
+        <translation>Zadej FLOovou adresu (např. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1565,16 +1565,16 @@ Adresa: %4
         <translation>Soubor s ladicími záznamy</translation>
     </message>
     <message>
-        <source>Open the Florincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Florincoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the FLO debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy FLOu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Vyčistit konzoli</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Vítej v Florincoinové RPC konzoli.</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>Vítej v FLOové RPC konzoli.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1648,8 +1648,8 @@ Adresa: %4
         <translation>&amp;Recyklovat již existující adresy (nedoporučeno)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Florincoin network.</source>
-        <translation>Volitelná zpráva, která se připojí k platebnímu požadavku a která se zobrazí, když se požadavek otevře. Poznámka: Tahle zpráva se neposílá s platbou po Florincoinové síti.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the FLO network.</source>
+        <translation>Volitelná zpráva, která se připojí k platebnímu požadavku a která se zobrazí, když se požadavek otevře. Poznámka: Tahle zpráva se neposílá s platbou po FLOové síti.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1885,7 +1885,7 @@ Adresa: %4
         <translation>přinejmenším</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for florincoin transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for FLO transactions than the network can process.</source>
         <translation>Platit jen minimální poplatek je v pořádku, pokud je zrovna méně transakcí než místa v blocích. Ale počítej s tím, že to také může skončit transakcí, která nikdy nebude potvrzena, pokud je větší poptávka po florincoinových transakcích, než síť zvládne zpracovat.</translation>
     </message>
     <message>
@@ -2025,8 +2025,8 @@ Adresa: %4
         <translation>Transakce byla odmítnuta! Tohle může nastat, pokud nějaké mince z tvé peněženky už jednou byly utraceny, například pokud používáš kopii souboru wallet.dat a mince byly utraceny v druhé kopii, ale nebyly označeny jako utracené v této.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Florincoin address</source>
-        <translation>Upozornění: Neplatná Florincoinová adresa</translation>
+        <source>Warning: Invalid FLO address</source>
+        <translation>Upozornění: Neplatná FLOová adresa</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2076,8 +2076,8 @@ Adresa: %4
         <translation>Tohle je normální platba.</translation>
     </message>
     <message>
-        <source>The Florincoin address to send the payment to</source>
-        <translation>Florincoinová adresa příjemce</translation>
+        <source>The FLO address to send the payment to</source>
+        <translation>FLOová adresa příjemce</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2108,8 +2108,8 @@ Adresa: %4
         <translation>Zadej označení této adresy; obojí se ti pak uloží do adresáře</translation>
     </message>
     <message>
-        <source>A message that was attached to the florincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Florincoin network.</source>
-        <translation>Zpráva, která byla připojena k florincoin: URI a která se ti pro přehled uloží k transakci. Poznámka: Tahle zpráva se neposílá s platbou po Florincoinové síti.</translation>
+        <source>A message that was attached to the flo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the FLO network.</source>
+        <translation>Zpráva, která byla připojena k flo: URI a která se ti pro přehled uloží k transakci. Poznámka: Tahle zpráva se neposílá s platbou po FLOové síti.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2127,8 +2127,8 @@ Adresa: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Florincoin Core is shutting down...</source>
-        <translation>Florincoin Core se ukončuje...</translation>
+        <source>FLO Core is shutting down...</source>
+        <translation>FLO Core se ukončuje...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2150,8 +2150,8 @@ Adresa: %4
         <translation>Podepsáním zprávy svými adresami můžeš prokázat, že je skutečně vlastníš. Buď opatrný a nepodepisuj nic vágního; například při phishingových útocích můžeš být lákán, abys něco takového podepsal. Podepisuj pouze zcela úplná a detailní prohlášení, se kterými souhlasíš.</translation>
     </message>
     <message>
-        <source>The Florincoin address to sign the message with</source>
-        <translation>Florincoinová adresa, kterou se zpráva podepíše</translation>
+        <source>The FLO address to sign the message with</source>
+        <translation>FLOová adresa, kterou se zpráva podepíše</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2182,8 +2182,8 @@ Adresa: %4
         <translation>Zkopíruj aktuálně vybraný podpis do systémové schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Florincoinové adresy</translation>
+        <source>Sign the message to prove you own this FLO address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této FLOové adresy</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2206,12 +2206,12 @@ Adresa: %4
         <translation>K ověření podpisu zprávy zadej podepisující adresu, zprávu (ověř si, že správně kopíruješ zalomení řádků, mezery, tabulátory apod.) a podpis. Dávej pozor na to, abys nezkopíroval do podpisu víc, než co je v samotné podepsané zprávě, abys nebyl napálen man-in-the-middle útokem.</translation>
     </message>
     <message>
-        <source>The Florincoin address the message was signed with</source>
-        <translation>Florincoinová adresa, kterou je zpráva podepsána</translation>
+        <source>The FLO address the message was signed with</source>
+        <translation>FLOová adresa, kterou je zpráva podepsána</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Florincoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Florincoinovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified FLO address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou FLOovou adresou</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2277,8 +2277,8 @@ Adresa: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2831,8 +2831,8 @@ Adresa: %4
         <translation>Tohle je testovací verze – používej ji jen na vlastní riziko, ale rozhodně ji nepoužívej k těžbě nebo pro obchodní aplikace</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Florincoin Core is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Florincoin Core už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. FLO Core is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. FLO Core už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -3015,8 +3015,8 @@ Adresa: %4
         <translation>Čekat na zadané adrese na JSON-RPC spojení. Pro zápis IPv6 adresy použij notaci [adresa]:port. Tuto volbu lze použít i vícekrát (výchozí: poslouchat na všech rozhraních)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Florincoin Core is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Florincoin Core pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. FLO Core is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. FLO Core pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
@@ -3083,27 +3083,27 @@ Adresa: %4
         <translation>Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v OpenSSL Toolkitu &lt;https://www.openssl.org/&gt; a kryptografický program od Erika Younga a program UPnP od Thomase Bernarda.</translation>
     </message>
     <message>
-        <source>To use florincoind, or the -server option to florincoin-qt, you must set an rpcpassword in the configuration file:
+        <source>To use flod, or the -server option to flo-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=florincoinrpc
+rpcuser=florpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Florincoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "FLO Alert" admin@foo.com
 </source>
-        <translation>K používání florincoind nebo volby -server u florincoin-qt musíš nastavit rpcpassword v konfiguračním souboru:
+        <translation>K používání flod nebo volby -server u flo-qt musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=florincoinrpc
+rpcuser=florpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s "Florincoin Alert" admin@foo.com
+například: alertnotify=echo %%s | mail -s "FLO Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -3111,8 +3111,8 @@ například: alertnotify=echo %%s | mail -s "Florincoin Alert" admin@foo.com
         <translation>Upozornění: -maxtxfee je nastaveno velmi vysoko! Takto vysoký poplatek může být zaplacen v jednotlivé transakci.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Florincoin Core will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Florincoin Core nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong FLO Core will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, FLO Core nebude fungovat správně.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -3139,8 +3139,8 @@ například: alertnotify=echo %%s | mail -s "Florincoin Alert" admin@foo.com
         <translation>Nejde mi přečíst hodnotu -rpcbind %s jako síťovou adresu</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Florincoin Core</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Florincoin Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of FLO Core</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi FLO Core</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3159,8 +3159,8 @@ například: alertnotify=echo %%s | mail -s "Florincoin Alert" admin@foo.com
         <translation>Informace</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Florincoin Core is shutting down.</source>
-        <translation>Selhala úvodní zevrubná prověrka. Florincoin Core se ukončuje.</translation>
+        <source>Initialization sanity check failed. FLO Core is shutting down.</source>
+        <translation>Selhala úvodní zevrubná prověrka. FLO Core se ukončuje.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3195,8 +3195,8 @@ například: alertnotify=echo %%s | mail -s "Florincoin Alert" admin@foo.com
         <translation>Možnosti přeposílání:</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Florincoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL pro RPC: (viz instrukce nastavení SSL na Florincoin Wiki)</translation>
+        <source>RPC SSL options: (see the FLO Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL pro RPC: (viz instrukce nastavení SSL na FLO Wiki)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3267,8 +3267,8 @@ například: alertnotify=echo %%s | mail -s "Florincoin Alert" admin@foo.com
         <translation>Uživatelské jméno pro JSON-RPC spojení</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Florincoin Core to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Florincoin Core, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart FLO Core to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj FLO Core, aby se operace dokončila</translation>
     </message>
     <message>
         <source>Warning</source>

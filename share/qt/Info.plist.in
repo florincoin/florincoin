@@ -29,10 +29,10 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>Florincoin-Qt</string>
+  <string>Flo-Qt</string>
 
   <key>CFBundleIdentifier</key>
-  <string>org.florincoin.Florincoin-Qt</string>
+  <string>org.florincoin.Flo-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>

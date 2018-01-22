@@ -167,12 +167,12 @@
         <translation>Mở &amp;URI...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Florincoin Core client</translation>
+        <source>FLO Core client</source>
+        <translation>FLO Core client</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -207,12 +207,12 @@
         <translation>Trợ &amp;giúp</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>&amp;Về Florincoin Core</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>&amp;Về FLO Core</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -374,16 +374,16 @@ Loại: %3
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>version</source>
         <translation>version</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>Về Florincoin Core</translation>
+        <source>About FLO Core</source>
+        <translation>Về FLO Core</translation>
     </message>
     </context>
 <context>
@@ -393,8 +393,8 @@ Loại: %3
         <translation>Chào mừng</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -593,8 +593,8 @@ Loại: %3
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     </context>
 <context>

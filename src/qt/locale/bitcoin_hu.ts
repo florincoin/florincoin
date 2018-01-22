@@ -66,11 +66,11 @@
         <translation>Fogadó címek</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your FLO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Ezekről a címekről küldhetsz florincoint. Mindig ellenőrizd a fogadó címet és a fizetendő összeget, mielőtt elküldöd.</translation>
     </message>
     <message>
-        <source>These are your Florincoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your FLO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Ezekkel a címekkel fogadhatsz florincoint. Ajánlott minden tranzakcióhoz egy új fogadó címet használni.</translation>
     </message>
     <message>
@@ -164,8 +164,8 @@
         <translation>Biztosan titkosítani akarod a tárcát?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLORINCOINS&lt;/b&gt;!</source>
-        <translation>Figyelem: ha titkosítod a tárcát és elveszted a jelszavad, akkor &lt;b&gt;AZ ÖSSZES FLORINCOINOD ELVESZIK!&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FLOS&lt;/b&gt;!</source>
+        <translation>Figyelem: ha titkosítod a tárcát és elveszted a jelszavad, akkor &lt;b&gt;AZ ÖSSZES FLOOD ELVESZIK!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Add meg a tárca új jelszavát.&lt;br/&gt;Olyan jelszót válassz, ami &lt;b&gt;legalább tíz véletlenszerű karakterből&lt;/b&gt; vagy &lt;b&gt;legalább 8 véletlenszerű szóból&lt;/b&gt; áll.</translation>
     </message>
     <message>
-        <source>Florincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
-        <translation>A Florincoin Core most bezár, hogy befejezze a titkosítást. Ne feledd: a tárca titkosítása nem nyújt teljes védelmet azzal szemben, hogy adathalász programok megfertőzzék a számítógéped és ellopják a florincoinjaid.</translation>
+        <source>FLO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your florincoins from being stolen by malware infecting your computer.</source>
+        <translation>A FLO Core most bezár, hogy befejezze a titkosítást. Ne feledd: a tárca titkosítása nem nyújt teljes védelmet azzal szemben, hogy adathalász programok megfertőzzék a számítógéped és ellopják a florincoinjaid.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>&amp;URI azonosító megnyitása...</translation>
     </message>
     <message>
-        <source>Florincoin Core client</source>
-        <translation>Florincoin Core kliens</translation>
+        <source>FLO Core client</source>
+        <translation>FLO Core kliens</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Lemezen lévő blokkok újraindexelése...</translation>
     </message>
     <message>
-        <source>Send coins to a Florincoin address</source>
-        <translation>Florincoin küldése megadott címre</translation>
+        <source>Send coins to a FLO address</source>
+        <translation>FLO küldése megadott címre</translation>
     </message>
     <message>
-        <source>Modify configuration options for Florincoin</source>
-        <translation>Florincoin konfigurációs opciók</translation>
+        <source>Modify configuration options for FLO</source>
+        <translation>FLO konfigurációs opciók</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>Üzenet &amp;valódiságának ellenőrzése</translation>
     </message>
     <message>
-        <source>Florincoin</source>
-        <translation>Florincoin</translation>
+        <source>FLO</source>
+        <translation>FLO</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>&amp;Fogadás</translation>
     </message>
     <message>
-        <source>Show information about Florincoin Core</source>
-        <translation>Florincoin Core információ megjelenítése</translation>
+        <source>Show information about FLO Core</source>
+        <translation>FLO Core információ megjelenítése</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>A tárcádhoz tartozó privát kulcsok titkosítása</translation>
     </message>
     <message>
-        <source>Sign messages with your Florincoin addresses to prove you own them</source>
-        <translation>Üzenetek aláírása a Florincoin-címmeiddel, amivel bizonyítod, hogy a cím a sajátod</translation>
+        <source>Sign messages with your FLO addresses to prove you own them</source>
+        <translation>Üzenetek aláírása a FLO-címmeiddel, amivel bizonyítod, hogy a cím a sajátod</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Florincoin addresses</source>
-        <translation>Üzenetek ellenőrzése, hogy valóban a megjelölt Florincoin-címekkel vannak-e aláírva</translation>
+        <source>Verify messages to ensure they were signed with specified FLO addresses</source>
+        <translation>Üzenetek ellenőrzése, hogy valóban a megjelölt FLO-címekkel vannak-e aláírva</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Fül eszköztár</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and florincoin: URIs)</source>
-        <translation>Fizetési kérelem (QR-kódot és "florincoin:" URI azonosítót hoz létre)</translation>
+        <source>Request payments (generates QR codes and flo: URIs)</source>
+        <translation>Fizetési kérelem (QR-kódot és "flo:" URI azonosítót hoz létre)</translation>
     </message>
     <message>
-        <source>&amp;About Florincoin Core</source>
-        <translation>&amp;A Florincoin Core-ról</translation>
+        <source>&amp;About FLO Core</source>
+        <translation>&amp;A FLO Core-ról</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,20 +411,20 @@
         <translation>A használt fogadó címek és címkék megtekintése</translation>
     </message>
     <message>
-        <source>Open a florincoin: URI or payment request</source>
-        <translation>"florincoin:" URI azonosító vagy fizetési kérelem megnyitása</translation>
+        <source>Open a flo: URI or payment request</source>
+        <translation>"flo:" URI azonosító vagy fizetési kérelem megnyitása</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Paran&amp;cssor kapcsolók</translation>
     </message>
     <message>
-        <source>Show the Florincoin Core help message to get a list with possible Florincoin command-line options</source>
-        <translation>A Florincoin Core súgóüzenet megjelenítése a Florincoin lehetséges parancssori kapcsolóival.</translation>
+        <source>Show the FLO Core help message to get a list with possible FLO command-line options</source>
+        <translation>A FLO Core súgóüzenet megjelenítése a FLO lehetséges parancssori kapcsolóival.</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Florincoin network</source>
-        <translation><numerusform>%n aktív kapcsolat a Florincoin-hálózattal</numerusform><numerusform>%n aktív kapcsolat a Florincoin-hálózattal</numerusform></translation>
+        <source>%n active connection(s) to FLO network</source>
+        <translation><numerusform>%n aktív kapcsolat a FLO-hálózattal</numerusform><numerusform>%n aktív kapcsolat a FLO-hálózattal</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -784,8 +784,8 @@ Cím: %4
         <translation>A megadott "%1" cím már szerepel a címjegyzékben.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Florincoin address.</source>
-        <translation>A megadott "%1" cím nem egy érvényes Florincoin-cím.</translation>
+        <source>The entered address "%1" is not a valid FLO address.</source>
+        <translation>A megadott "%1" cím nem egy érvényes FLO-cím.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -818,8 +818,8 @@ Cím: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -830,8 +830,8 @@ Cím: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Florincoin Core</source>
-        <translation>A Florincoin Core-ról</translation>
+        <source>About FLO Core</source>
+        <translation>A FLO Core-ról</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -878,12 +878,12 @@ Cím: %4
         <translation>Üdvözlünk</translation>
     </message>
     <message>
-        <source>Welcome to Florincoin Core.</source>
-        <translation>Üdvözlünk a Florincoin Core-ban.</translation>
+        <source>Welcome to FLO Core.</source>
+        <translation>Üdvözlünk a FLO Core-ban.</translation>
     </message>
     <message>
-        <source>Florincoin Core will download and store a copy of the Florincoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>A Florincoin Core le fogja tölteni és tárolni fogja a Florincoin blokklánc egy másolatát. Legalább %1GB adat lesz tárolva ebben a mappában, és ez folyamatosan nőni fog. A tárca szintén itt lesz tárolva.</translation>
+        <source>FLO Core will download and store a copy of the FLO block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>A FLO Core le fogja tölteni és tárolni fogja a FLO blokklánc egy másolatát. Legalább %1GB adat lesz tárolva ebben a mappában, és ez folyamatosan nőni fog. A tárca szintén itt lesz tárolva.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -894,8 +894,8 @@ Cím: %4
         <translation>Saját adatkönyvtár használata:</translation>
     </message>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -940,11 +940,11 @@ Cím: %4
         <translation>&amp;Fő</translation>
     </message>
     <message>
-        <source>Automatically start Florincoin after logging in to the system.</source>
-        <translation>Induljon el a Florincoin a számítógép bekapcsolásakor</translation>
+        <source>Automatically start FLO after logging in to the system.</source>
+        <translation>Induljon el a FLO a számítógép bekapcsolásakor</translation>
     </message>
     <message>
-        <source>&amp;Start Florincoin on system login</source>
+        <source>&amp;Start FLO on system login</source>
         <translation>&amp;Induljon el a számítógép bekapcsolásakor</translation>
     </message>
     <message>
@@ -988,16 +988,16 @@ Cím: %4
         <translation>szakértő</translation>
     </message>
     <message>
-        <source>Automatically open the Florincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>A Florincoin-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
+        <source>Automatically open the FLO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>A FLO-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>&amp;UPnP port-feltérképezés</translation>
     </message>
     <message>
-        <source>Connect to the Florincoin network through a SOCKS5 proxy.</source>
-        <translation>Csatlakozás a Florincoin hálózatához SOCKS5 proxyn keresztül</translation>
+        <source>Connect to the FLO network through a SOCKS5 proxy.</source>
+        <translation>Csatlakozás a FLO hálózatához SOCKS5 proxyn keresztül</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1040,8 +1040,8 @@ Cím: %4
         <translation>Felhasználófelület nye&amp;lve:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Florincoin.</source>
-        <translation>Itt beállíthatod a felhasználófelület nyelvét. Ez a beállítás a Florincoin ujraindítása után lép érvénybe.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FLO.</source>
+        <translation>Itt beállíthatod a felhasználófelület nyelvét. Ez a beállítás a FLO ujraindítása után lép érvénybe.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1087,8 +1087,8 @@ Cím: %4
         <translation>Űrlap</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Florincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a Florincoin hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FLO network after a connection is established, but this process has not completed yet.</source>
+        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a FLO hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1150,7 +1150,7 @@ Cím: %4
         <translation>URI kezelés</translation>
     </message>
     <message>
-        <source>Cannot start florincoin: click-to-pay handler</source>
+        <source>Cannot start flo: click-to-pay handler</source>
         <translation>A florincoint nem lehet elindítani: click-to-pay handler</translation>
     </message>
     </context>
@@ -1176,8 +1176,8 @@ Cím: %4
         <translation>Összeg</translation>
     </message>
     <message>
-        <source>Enter a Florincoin address (e.g. %1)</source>
-        <translation>Ad meg egy Florincoin címet (pl: %1)</translation>
+        <source>Enter a FLO address (e.g. %1)</source>
+        <translation>Ad meg egy FLO címet (pl: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1390,8 +1390,8 @@ Cím: %4
         <translation>Konzol törlése</translation>
     </message>
     <message>
-        <source>Welcome to the Florincoin RPC console.</source>
-        <translation>Üdv a Florincoin RPC konzoljában!</translation>
+        <source>Welcome to the FLO RPC console.</source>
+        <translation>Üdv a FLO RPC konzoljában!</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1731,7 +1731,7 @@ Cím: %4
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>Nincs ennyi florincoin az egyenlegeden.</translation>
+        <translation>Nincs ennyi FLO az egyenlegeden.</translation>
     </message>
     <message>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
@@ -1742,8 +1742,8 @@ Cím: %4
         <translation>Többször szerepel ugyanaz a cím. Egy küldési műveletben egy címre csak egyszer lehet küldeni.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Florincoin address</source>
-        <translation>Figyelmeztetés: Érvénytelen Florincoin cím</translation>
+        <source>Warning: Invalid FLO address</source>
+        <translation>Figyelmeztetés: Érvénytelen FLO cím</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1809,8 +1809,8 @@ Cím: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Florincoin Core is shutting down...</source>
-        <translation>A Florincoin Core leáll...</translation>
+        <source>FLO Core is shutting down...</source>
+        <translation>A FLO Core leáll...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1860,7 +1860,7 @@ Cím: %4
         <translation>A jelenleg kiválasztott aláírás másolása a rendszer-vágólapra</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Florincoin address</source>
+        <source>Sign the message to prove you own this FLO address</source>
         <translation>Üzenet </translation>
     </message>
     <message>
@@ -1919,8 +1919,8 @@ Cím: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Florincoin Core</source>
-        <translation>Florincoin Core</translation>
+        <source>FLO Core</source>
+        <translation>FLO Core</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>

@@ -60,11 +60,11 @@ bin_PROGRAMS =
 TESTS =
 
 if BUILD_BITCOIND
-  bin_PROGRAMS += florincoind
+  bin_PROGRAMS += flod
 endif
 
 if BUILD_BITCOIN_UTILS
-  bin_PROGRAMS += florincoin-cli florincoin-tx
+  bin_PROGRAMS += flo-cli flo-tx
 endif
 
 .PHONY: FORCE
@@ -292,8 +292,8 @@ libbitcoin_cli_a_SOURCES = \
 nodist_libbitcoin_util_a_SOURCES = $(srcdir)/obj/build.h
 #
 
-# florincoind binary #
-florincoind_LDADD = \
+# flod binary #
+flod_LDADD = \
   $(LIBBITCOIN_SERVER) \
   $(LIBBITCOIN_COMMON) \
   $(LIBBITCOIN_UNIVALUE) \
@@ -304,35 +304,35 @@ florincoind_LDADD = \
   $(LIBSECP256K1)
 
 if ENABLE_WALLET
-florincoind_LDADD += libbitcoin_wallet.a
+flod_LDADD += libbitcoin_wallet.a
 endif
-florincoind_SOURCES = bitcoind.cpp
+flod_SOURCES = bitcoind.cpp
 #
 
 if TARGET_WINDOWS
-florincoind_SOURCES += bitcoind-res.rc
+flod_SOURCES += bitcoind-res.rc
 endif
 
-florincoind_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS)
-florincoind_CPPFLAGS = $(BITCOIN_INCLUDES)
-florincoind_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+flod_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS)
+flod_CPPFLAGS = $(BITCOIN_INCLUDES)
+flod_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 # bitcoin-cli binary #
-florincoin_cli_LDADD = \
+flo_cli_LDADD = \
   $(LIBBITCOIN_CLI) \
   $(LIBBITCOIN_UTIL) \
   $(BOOST_LIBS) \
   $(SSL_LIBS) \
   $(CRYPTO_LIBS)
 
-florincoin_cli_SOURCES = \
+flo_cli_SOURCES = \
   bitcoin-cli.cpp
 
-florincoin_cli_CPPFLAGS = $(BITCOIN_INCLUDES)
+flo_cli_CPPFLAGS = $(BITCOIN_INCLUDES)
 #
 
 # bitcoin-tx binary #
-florincoin_tx_LDADD = \
+flo_tx_LDADD = \
   $(LIBBITCOIN_UNIVALUE) \
   $(LIBBITCOIN_COMMON) \
   $(LIBBITCOIN_UTIL) \
@@ -341,15 +341,15 @@ florincoin_tx_LDADD = \
   $(BOOST_LIBS) \
   $(CRYPTO_LIBS)
 
-florincoin_tx_SOURCES = bitcoin-tx.cpp
-florincoin_tx_CPPFLAGS = $(BITCOIN_INCLUDES)
+flo_tx_SOURCES = bitcoin-tx.cpp
+flo_tx_CPPFLAGS = $(BITCOIN_INCLUDES)
 #
-florincoin_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+flo_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-florincoin_cli_SOURCES += bitcoin-cli-res.rc
+flo_cli_SOURCES += bitcoin-cli-res.rc
 endif
-florincoin_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+flo_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if BUILD_BITCOIN_LIBS
 include_HEADERS = script/bitcoinconsensus.h
