@@ -1,3 +1,9 @@
+# WARNING: This is the old version of FLO. Please visit our new GitHub page for the latest FLO version:
+https://github.com/floblockchain/flo
+
+Thank you, 
+FLO team
+
 Florincoin - the first coin to feature transaction comments
 
  - Fast block generation: 40 second block targets
