@@ -4,6 +4,8 @@ https://github.com/floblockchain/flo
 Thank you, 
 FLO team
 
+---
+
 Florincoin - the first coin to feature transaction comments
 
  - Fast block generation: 40 second block targets
