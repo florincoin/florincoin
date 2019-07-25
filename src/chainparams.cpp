@@ -213,11 +213,11 @@ public:
         vSeeds.push_back(CDNSSeedData("ind.entertheblockchain.com", "ind.entertheblockchain.com"));
         vSeeds.push_back(CDNSSeedData("de.entertheblockchain.com", "de.entertheblockchain.com"));
 
-        base58Prefixes[PUBKEY_ADDRESS] = list_of(35);
-        base58Prefixes[SCRIPT_ADDRESS] = list_of(8);
-        base58Prefixes[SECRET_KEY] =     list_of(176);
-        base58Prefixes[EXT_PUBLIC_KEY] = list_of(0x04)(0x88)(0xB2)(0x1E);
-        base58Prefixes[EXT_SECRET_KEY] = list_of(0x04)(0x88)(0xAD)(0xE4);
+        base58Prefixes[PUBKEY_ADDRESS] = {35};
+        base58Prefixes[SCRIPT_ADDRESS] = {8};
+        base58Prefixes[SECRET_KEY] =     {176};
+        base58Prefixes[EXT_PUBLIC_KEY] = {0x04, 0x88, 0xB2, 0x1E};
+        base58Prefixes[EXT_SECRET_KEY] = {0x04, 0x88, 0xAD, 0xE4};
 
         convertSeed6(vFixedSeeds, pnSeed6_main, ARRAYLEN(pnSeed6_main));
 
@@ -273,11 +273,11 @@ public:
         vSeeds.clear();
         vSeeds.push_back(CDNSSeedData("testseed.florincoin.org", "testseed.florincoin.org"));
 
-        base58Prefixes[PUBKEY_ADDRESS] = list_of(115);
-        base58Prefixes[SCRIPT_ADDRESS] = list_of(198);
-        base58Prefixes[SECRET_KEY]     = list_of(239); // ToDo: bitspill. florincoin?
-        base58Prefixes[EXT_PUBLIC_KEY] = list_of(0x04)(0x35)(0x87)(0xCF);
-        base58Prefixes[EXT_SECRET_KEY] = list_of(0x04)(0x35)(0x83)(0x94);
+        base58Prefixes[PUBKEY_ADDRESS] = {115};
+        base58Prefixes[SCRIPT_ADDRESS] = {198};
+        base58Prefixes[SECRET_KEY]     = {239}; // ToDo: bitspill. florincoin?
+        base58Prefixes[EXT_PUBLIC_KEY] = {0x04, 0x35, 0x87, 0xCF};
+        base58Prefixes[EXT_SECRET_KEY] = {0x04, 0x35, 0x83, 0x94};
 
         convertSeed6(vFixedSeeds, pnSeed6_test, ARRAYLEN(pnSeed6_test));
 
